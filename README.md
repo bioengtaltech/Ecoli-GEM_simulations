@@ -7,7 +7,7 @@
 
 #### Description
 
-This repository contains the latest version the E. coli GEM, a genome scale metabolic model of _Escherichia coli_. 
+This repository contains the latest version the E. coli GEM, a genome scale metabolic model of _Escherichia coli str. K-12 substr. MG1655_. 
 
 
 #### Citation
@@ -22,8 +22,8 @@ The latest version of the E. coli GEM, iML1515, was taken from BiGG Models with 
 **Type of model:** reconstruction; curated  
 **Model source:** [EscherichiaColi](https://doi.org/10.1038/nbt.3956) }}  
 **Omic source:** {{ genomics; metabolomics }}  
-**Taxonomic name:** _Escherichia coli_   
-**Taxonomy ID:** [taxonomy:562](https://identifiers.org/taxonomy:562)   
+**Taxonomic name:** _Escherichia coli str. K-12 substr. MG1655_   
+**Taxonomy ID:** [taxonomy:511145](https://identifiers.org/taxonomy:511145)   
 **Genome ID:** [insdc.gca:GCA_000005845.2](https://identifiers.org/insdc.gca:GCA_000005845.2)   
 **Metabolic system:** {{ general metabolism }}  
 **Cell type:** Prokaryotic 

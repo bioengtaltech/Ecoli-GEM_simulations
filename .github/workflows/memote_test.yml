@@ -14,8 +14,11 @@ jobs:
         - ${{ github.workspace }}:/project:rw
 
     steps:
-      - name: Checkout code
+      - name: Checkout PR branch
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
 
       - name: Run Memote script
         run: python code/memote_test.py      
