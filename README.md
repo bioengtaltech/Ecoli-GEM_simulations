@@ -7,7 +7,7 @@
 
 #### Description
 
-This repository contains the latest version the E. coli GEM, a genome scale metabolic model of _Escherichia coli str. K-12 substr. MG1655_. 
+This repository contains the latest version the Ecoli-GEM, a genome scale metabolic model of _Escherichia coli str. K-12 substr. MG1655_. 
 
 
 #### Citation
