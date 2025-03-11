@@ -44,7 +44,7 @@ function appendSubSystems(modelPathXml, modelPathMat, outputPath, outputPrefix)
     matRxns = matModel.rxns;
     xmlRxns = xmlModel.rxns;
 
-    % Normalize reaction IDs in XML model (remove 'R_' prefix if present)
+    % Normalize reaction IDs in xmlRxns (remove 'R_' prefix if present)
     xmlRxnsClean = regexprep(xmlRxns, '^R_', '');
 
     % Ensure reactions match exactly
