@@ -1,8 +1,8 @@
 ---
 !!omap
 - metaData:
-    id: "iML1515"
-    name: "blankName"
+    id: "Ecoli-GEM"
+    name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
     date: "2025-02-27"
 - metabolites:
     - !!omap
