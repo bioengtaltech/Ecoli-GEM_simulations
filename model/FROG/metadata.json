@@ -1,0 +1,23 @@
+{
+  "frog_date": "2025-04-30",
+  "frog_version": "1.0",
+  "frog_curators": [],
+  "frog_software": {
+    "name": "fbc_curation",
+    "version": "0.1.6",
+    "url": "https://doi.org/10.5281/zenodo.3708271"
+  },
+  "software": {
+    "name": "cobrapy",
+    "version": "0.22.1",
+    "url": "https://github.com/opencobra/cobrapy"
+  },
+  "solver": {
+    "name": "glpk",
+    "version": "5.0",
+    "url": null
+  },
+  "model_filename": "model.xml",
+  "model_md5": "4b4c4df0f6501e84bb8a1240d2bb33ff",
+  "environment": "posix, Linux, 5.4.0-200-generic"
+}
