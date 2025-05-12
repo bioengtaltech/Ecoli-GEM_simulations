@@ -20,9 +20,6 @@
       - hmdb: HMDB00972
       - kegg.compound: C00234
       - metanetx.chemical: MNXM237
-      - reactome.compound:
-        - '5389850'
-        - '419151'
       - sabiork: '1318'
       - sbo: SBO:0000247
       - seed.compound: cpd00201
@@ -295,7 +292,6 @@
       - hmdb: HMDB62758
       - kegg.compound: C00236
       - metanetx.chemical: MNXM261
-      - reactome.compound: '29800'
       - sabiork: '21215'
       - sbo: SBO:0000247
       - seed.compound: cpd00203
@@ -804,9 +800,6 @@
         - C03912
         - C04322
       - metanetx.chemical: MNXM1617
-      - reactome.compound:
-        - '113590'
-        - '35305'
       - sabiork:
         - '6942'
         - '7234'
@@ -852,7 +845,6 @@
       - hmdb: HMDB62321
       - lipidmaps: LMGP10050007
       - metanetx.chemical: MNXM3426
-      - reactome.compound: '8878649'
       - sabiork: '26679'
       - sbo: SBO:0000247
       - seed.compound: cpd15331
@@ -872,7 +864,6 @@
       - hmdb: HMDB62321
       - lipidmaps: LMGP10050007
       - metanetx.chemical: MNXM3426
-      - reactome.compound: '8878649'
       - sabiork: '26679'
       - sbo: SBO:0000247
       - seed.compound: cpd15331
@@ -1410,7 +1401,6 @@
         - HMDB06274
       - kegg.compound: C04823
       - metanetx.chemical: MNXM607
-      - reactome.compound: '111399'
       - sabiork: '1893'
       - sbo: SBO:0000247
       - seed.compound: cpd19032
@@ -1970,7 +1960,6 @@
       - kegg.compound: C03508
       - lipidmaps: LMFA01060172
       - metanetx.chemical: MNXM114087
-      - reactome.compound: '6798652'
       - sabiork: '6672'
       - sbo: SBO:0000247
       - seed.compound: cpd02211
@@ -2016,7 +2005,6 @@
         - CHEBI:29477
       - kegg.compound: C04691
       - metanetx.chemical: MNXM1219
-      - reactome.compound: '964909'
       - sabiork: '1828'
       - sbo: SBO:0000247
       - seed.compound: cpd02857
@@ -2370,7 +2358,6 @@
       - hmdb: HMDB01351
       - kegg.compound: C00672
       - metanetx.chemical: MNXM789
-      - reactome.compound: '112032'
       - sabiork: '1345'
       - sbo: SBO:0000247
       - seed.compound:
@@ -2400,7 +2387,6 @@
       - hmdb: HMDB01031
       - kegg.compound: C00673
       - metanetx.chemical: MNXM2179
-      - reactome.compound: '6787328'
       - sabiork: '1346'
       - sbo: SBO:0000247
       - seed.compound:
@@ -2690,7 +2676,6 @@
       - kegg.compound: C00109
       - lipidmaps: LMFA01060002
       - metanetx.chemical: MNXM159
-      - reactome.compound: '936714'
       - sabiork: '1934'
       - sbo: SBO:0000247
       - seed.compound: cpd00094
@@ -2899,7 +2884,6 @@
         - HMDB03391
       - kegg.compound: C00631
       - metanetx.chemical: MNXM275
-      - reactome.compound: '30485'
       - sabiork: '31'
       - sbo: SBO:0000247
       - seed.compound: cpd00482
@@ -3126,7 +3110,6 @@
       - hmdb: HMDB00707
       - kegg.compound: C01179
       - metanetx.chemical: MNXM153
-      - reactome.compound: '31365'
       - sabiork: '5423'
       - sbo: SBO:0000247
       - seed.compound: cpd00868
@@ -3362,7 +3345,6 @@
       - hmdb: HMDB06334
       - kegg.compound: C00618
       - metanetx.chemical: MNXM736
-      - reactome.compound: '5661262'
       - sabiork: '2117'
       - sbo: SBO:0000247
       - seed.compound: cpd00473
@@ -3403,7 +3385,6 @@
       - hmdb: HMDB12710
       - kegg.compound: C00944
       - metanetx.chemical: MNXM478
-      - reactome.compound: '964921'
       - sabiork:
         - '27311'
         - '5328'
@@ -3432,7 +3413,6 @@
         - CHEBI:42005
       - kegg.compound: C02637
       - metanetx.chemical: MNXM611
-      - reactome.compound: '964941'
       - sabiork:
         - '6290'
         - '27313'
@@ -3502,7 +3482,6 @@
       - chebi: CHEBI:84648
       - kegg.compound: C01271
       - metanetx.chemical: MNXM5861
-      - reactome.compound: '8862371'
       - sbo: SBO:0000247
       - seed.compound: cpd11836
   - !!omap
@@ -3553,7 +3532,6 @@
       - kegg.compound: C01144
       - lipidmaps: LMFA07050153
       - metanetx.chemical: MNXM446
-      - reactome.compound: '77251'
       - sabiork: '2254'
       - sbo: SBO:0000247
       - seed.compound: cpd00842
@@ -3712,7 +3690,6 @@
         - LMFA07050014
         - LMFA07050154
       - metanetx.chemical: MNXM674
-      - reactome.compound: '77341'
       - sabiork: '2741'
       - sbo: SBO:0000247
       - seed.compound: cpd03118
@@ -3739,7 +3716,6 @@
         - LMFA07050158
         - LMFA07050012
       - metanetx.chemical: MNXM733
-      - reactome.compound: '77252'
       - sabiork: '2739'
       - sbo: SBO:0000247
       - seed.compound: cpd03116
@@ -3793,7 +3769,6 @@
         - LMFA07050156
         - LMFA07050017
       - metanetx.chemical: MNXM757
-      - reactome.compound: '77322'
       - sabiork: '2745'
       - sbo: SBO:0000247
       - seed.compound: cpd03122
@@ -3816,7 +3791,6 @@
       - kegg.compound: C05258
       - lipidmaps: LMFA07050161
       - metanetx.chemical: MNXM825
-      - reactome.compound: '77300'
       - sabiork: '2735'
       - sbo: SBO:0000247
       - seed.compound: cpd03113
@@ -3870,7 +3844,6 @@
         - LMFA07050015
         - LMFA07050160
       - metanetx.chemical: MNXM766
-      - reactome.compound: '77330'
       - sabiork: '2743'
       - sbo: SBO:0000247
       - seed.compound: cpd03120
@@ -4094,7 +4067,6 @@
       - kegg.compound: C05260
       - lipidmaps: LMFA07050257
       - metanetx.chemical: MNXM767
-      - reactome.compound: '77276'
       - sabiork: '2737'
       - sbo: SBO:0000247
       - seed.compound:
@@ -4235,7 +4207,6 @@
       - kegg.compound: C05265
       - lipidmaps: LMFA07050239
       - metanetx.chemical: MNXM677
-      - reactome.compound: '77339'
       - sabiork:
         - '21032'
         - '2742'
@@ -4265,7 +4236,6 @@
         - LMFA07050013
         - LMFA07050247
       - metanetx.chemical: MNXM705
-      - reactome.compound: '77253'
       - sabiork: '2740'
       - sbo: SBO:0000247
       - seed.compound: cpd03117
@@ -4324,7 +4294,6 @@
         - LMFA07050018
         - LMFA07050242
       - metanetx.chemical: MNXM717
-      - reactome.compound: '77320'
       - sabiork: '2746'
       - sbo: SBO:0000247
       - seed.compound: cpd03123
@@ -4348,7 +4317,6 @@
       - kegg.compound: C05259
       - lipidmaps: LMFA07050250
       - metanetx.chemical: MNXM738
-      - reactome.compound: '77302'
       - sabiork: '2736'
       - sbo: SBO:0000247
       - seed.compound: cpd03114
@@ -4385,7 +4353,6 @@
       - kegg.compound: C16216
       - lipidmaps: LMFA07050248
       - metanetx.chemical: MNXM513
-      - reactome.compound: '548812'
       - sbo: SBO:0000247
       - seed.compound: cpd14935
       - slm: '000000487'
@@ -4422,7 +4389,6 @@
       - kegg.compound: C05267
       - lipidmaps: LMFA07050249
       - metanetx.chemical: MNXM706
-      - reactome.compound: '77328'
       - sabiork: '2744'
       - sbo: SBO:0000247
       - seed.compound: cpd03121
@@ -4506,7 +4472,6 @@
       - kegg.compound: C05261
       - lipidmaps: LMFA07050256
       - metanetx.chemical: MNXM707
-      - reactome.compound: '77269'
       - sabiork: '2738'
       - sbo: SBO:0000247
       - seed.compound: cpd12689
@@ -4550,9 +4515,6 @@
       - hmdb: HMDB60180
       - kegg.compound: C00197
       - metanetx.chemical: MNXM126
-      - reactome.compound:
-        - '6799493'
-        - '29728'
       - sabiork: '21216'
       - sbo: SBO:0000247
       - seed.compound: cpd00169
@@ -4578,7 +4540,6 @@
         - HMDB01024
       - kegg.compound: C03232
       - metanetx.chemical: MNXM541
-      - reactome.compound: '977329'
       - sabiork: '2712'
       - sbo: SBO:0000247
       - seed.compound: cpd02069
@@ -4600,7 +4561,6 @@
         - CHEBI:16257
       - kegg.compound: C01269
       - metanetx.chemical: MNXM1365
-      - reactome.compound: '964900'
       - sabiork: '5488'
       - sbo: SBO:0000247
       - seed.compound: cpd00932
@@ -4631,7 +4591,6 @@
         - HMDB60179
       - kegg.compound: C00606
       - metanetx.chemical: MNXM498
-      - reactome.compound: '1614519'
       - sabiork: '5155'
       - sbo: SBO:0000247
       - seed.compound: cpd00467
@@ -4705,11 +4664,6 @@
       - kegg.drug: D00058
       - lipidmaps: LMFA01100039
       - metanetx.chemical: MNXM192
-      - reactome.compound:
-        - '428571'
-        - '352011'
-        - '916850'
-        - '352003'
       - sabiork: '2021'
       - sbo: SBO:0000247
       - seed.compound: cpd00281
@@ -4739,11 +4693,6 @@
       - kegg.drug: D00058
       - lipidmaps: LMFA01100039
       - metanetx.chemical: MNXM192
-      - reactome.compound:
-        - '428571'
-        - '352011'
-        - '916850'
-        - '352003'
       - sabiork: '2021'
       - sbo: SBO:0000247
       - seed.compound: cpd00281
@@ -4773,11 +4722,6 @@
       - kegg.drug: D00058
       - lipidmaps: LMFA01100039
       - metanetx.chemical: MNXM192
-      - reactome.compound:
-        - '428571'
-        - '352011'
-        - '916850'
-        - '352003'
       - sabiork: '2021'
       - sbo: SBO:0000247
       - seed.compound: cpd00281
@@ -5021,7 +4965,6 @@
       - hmdb: HMDB00500
       - kegg.compound: C00156
       - metanetx.chemical: MNXM164
-      - reactome.compound: '2162213'
       - sabiork: '1951'
       - sbo: SBO:0000247
       - seed.compound: cpd00136
@@ -5049,7 +4992,6 @@
       - hmdb: HMDB00500
       - kegg.compound: C00156
       - metanetx.chemical: MNXM164
-      - reactome.compound: '2162213'
       - sabiork: '1951'
       - sbo: SBO:0000247
       - seed.compound: cpd00136
@@ -5074,9 +5016,6 @@
       - hmdb: HMDB03767
       - kegg.compound: C03765
       - metanetx.chemical: MNXM479
-      - reactome.compound:
-        - '5696178'
-        - '500608'
       - sabiork: '6840'
       - sbo: SBO:0000247
       - seed.compound: cpd02361
@@ -5101,9 +5040,6 @@
       - hmdb: HMDB03767
       - kegg.compound: C03765
       - metanetx.chemical: MNXM479
-      - reactome.compound:
-        - '5696178'
-        - '500608'
       - sabiork: '6840'
       - sbo: SBO:0000247
       - seed.compound: cpd02361
@@ -5260,7 +5196,6 @@
         - HMDB62700
       - kegg.compound: C03492
       - metanetx.chemical: MNXM415
-      - reactome.compound: '196786'
       - sabiork: '6663'
       - sbo: SBO:0000247
       - seed.compound: cpd02201
@@ -5284,7 +5219,6 @@
       - hmdb: HMDB01117
       - kegg.compound: C04352
       - metanetx.chemical: MNXM483
-      - reactome.compound: '196834'
       - sabiork: '7255'
       - sbo: SBO:0000247
       - seed.compound: cpd02666
@@ -5332,7 +5266,6 @@
       - hmdb: HMDB00076
       - kegg.compound: C00429
       - metanetx.chemical: MNXM506
-      - reactome.compound: '73584'
       - sabiork: '2930'
       - sbo: SBO:0000247
       - seed.compound: cpd00337
@@ -5358,7 +5291,6 @@
         - HMDB62424
       - kegg.compound: C04751
       - metanetx.chemical: MNXM507
-      - reactome.compound: '111395'
       - sbo: SBO:0000247
       - seed.compound: cpd02893
   - !!omap
@@ -5382,9 +5314,6 @@
       - kegg.drug: D07567
       - lipidmaps: LMFA01100055
       - metanetx.chemical: MNXM405
-      - reactome.compound:
-        - '189489'
-        - '189466'
       - sbo: SBO:0000247
       - seed.compound: cpd00338
   - !!omap
@@ -5599,9 +5528,6 @@
       - hmdb: HMDB01173
       - kegg.compound: C00170
       - metanetx.chemical: MNXM150
-      - reactome.compound:
-        - '5279412'
-        - '353106'
       - sabiork: '1960'
       - sbo: SBO:0000247
       - seed.compound: cpd00147
@@ -5625,9 +5551,6 @@
       - kegg.compound: C00440
       - kegg.drug: D09353
       - metanetx.chemical: MNXM318
-      - reactome.compound:
-        - '200709'
-        - '200665'
       - sabiork: '2051'
       - sbo: SBO:0000247
       - seed.compound: cpd00345
@@ -5819,7 +5742,6 @@
         - HMDB62800
       - kegg.compound: C00345
       - metanetx.chemical: MNXM325
-      - reactome.compound: '29996'
       - sabiork:
         - '22801'
         - '2024'
@@ -5856,7 +5778,6 @@
         - HMDB01127
       - kegg.compound: C01236
       - metanetx.chemical: MNXM429
-      - reactome.compound: '31467'
       - sabiork: '1366'
       - sbo: SBO:0000247
       - seed.compound: cpd00911
@@ -6088,9 +6009,6 @@
       - hmdb: HMDB01276
       - kegg.compound: C00612
       - metanetx.chemical: MNXM501
-      - reactome.compound:
-        - '353555'
-        - '141349'
       - sabiork: '5158'
       - sbo: SBO:0000247
       - seed.compound: cpd00470
@@ -6141,10 +6059,6 @@
         - CHEBI:18739
       - kegg.compound: C03196
       - metanetx.chemical: MNXM90068
-      - reactome.compound:
-        - '880042'
-        - '879997'
-        - '880013'
       - sabiork: '2695'
       - sbo: SBO:0000247
       - seed.compound: cpd02041
@@ -6171,9 +6085,6 @@
         - HMDB62625
       - kegg.compound: C01031
       - metanetx.chemical: MNXM952
-      - reactome.compound:
-        - '5693723'
-        - '5692249'
       - sabiork: '2220'
       - sbo: SBO:0000247
       - seed.compound: cpd00759
@@ -6225,9 +6136,6 @@
       - kegg.compound: C00332
       - lipidmaps: LMFA07050030
       - metanetx.chemical: MNXM133
-      - reactome.compound:
-        - '191293'
-        - '73871'
       - sabiork: '2019'
       - sbo: SBO:0000247
       - seed.compound: cpd00279
@@ -6305,12 +6213,6 @@
       - kegg.drug: D00010
       - lipidmaps: LMFA01010002
       - metanetx.chemical: MNXM26
-      - reactome.compound:
-        - '1524044'
-        - '390305'
-        - '113539'
-        - '2022890'
-        - '29416'
       - sabiork: '1278'
       - sbo: SBO:0000247
       - seed.compound: cpd00029
@@ -6345,12 +6247,6 @@
       - kegg.drug: D00010
       - lipidmaps: LMFA01010002
       - metanetx.chemical: MNXM26
-      - reactome.compound:
-        - '1524044'
-        - '390305'
-        - '113539'
-        - '2022890'
-        - '29416'
       - sabiork: '1278'
       - sbo: SBO:0000247
       - seed.compound: cpd00029
@@ -6385,12 +6281,6 @@
       - kegg.drug: D00010
       - lipidmaps: LMFA01010002
       - metanetx.chemical: MNXM26
-      - reactome.compound:
-        - '1524044'
-        - '390305'
-        - '113539'
-        - '2022890'
-        - '29416'
       - sabiork: '1278'
       - sbo: SBO:0000247
       - seed.compound: cpd00029
@@ -6421,9 +6311,6 @@
       - kegg.compound: C00164
       - lipidmaps: LMFA01060003
       - metanetx.chemical: MNXM154
-      - reactome.compound:
-        - '73909'
-        - '29666'
       - sabiork: '1956'
       - sbo: SBO:0000247
       - seed.compound: cpd00142
@@ -6453,9 +6340,6 @@
       - kegg.compound: C00164
       - lipidmaps: LMFA01060003
       - metanetx.chemical: MNXM154
-      - reactome.compound:
-        - '73909'
-        - '29666'
       - sabiork: '1956'
       - sbo: SBO:0000247
       - seed.compound: cpd00142
@@ -6485,9 +6369,6 @@
       - kegg.compound: C00164
       - lipidmaps: LMFA01060003
       - metanetx.chemical: MNXM154
-      - reactome.compound:
-        - '73909'
-        - '29666'
       - sabiork: '1956'
       - sbo: SBO:0000247
       - seed.compound: cpd00142
@@ -6514,11 +6395,6 @@
       - hmdb: HMDB00990
       - kegg.compound: C00084
       - metanetx.chemical: MNXM75
-      - reactome.compound:
-        - '113532'
-        - '29510'
-        - '113681'
-        - '113745'
       - sabiork: '1292'
       - sbo: SBO:0000247
       - seed.compound: cpd00071
@@ -6545,11 +6421,6 @@
       - hmdb: HMDB00990
       - kegg.compound: C00084
       - metanetx.chemical: MNXM75
-      - reactome.compound:
-        - '113532'
-        - '29510'
-        - '113681'
-        - '113745'
       - sabiork: '1292'
       - sbo: SBO:0000247
       - seed.compound: cpd00071
@@ -6576,11 +6447,6 @@
       - hmdb: HMDB00990
       - kegg.compound: C00084
       - metanetx.chemical: MNXM75
-      - reactome.compound:
-        - '113532'
-        - '29510'
-        - '113681'
-        - '113745'
       - sabiork: '1292'
       - sbo: SBO:0000247
       - seed.compound: cpd00071
@@ -6640,12 +6506,6 @@
         - LMFA07050029
         - LMFA07050281
       - metanetx.chemical: MNXM21
-      - reactome.compound:
-        - '727753'
-        - '76183'
-        - '113560'
-        - '353123'
-        - '113559'
       - sabiork: '1276'
       - sbo: SBO:0000247
       - seed.compound: cpd00022
@@ -6781,7 +6641,6 @@
         - CHEBI:546804
       - kegg.compound: C01132
       - metanetx.chemical: MNXM395
-      - reactome.compound: '1605658'
       - sabiork: '1573'
       - sbo: SBO:0000247
       - seed.compound:
@@ -6806,7 +6665,6 @@
         - CHEBI:546804
       - kegg.compound: C01132
       - metanetx.chemical: MNXM395
-      - reactome.compound: '1605658'
       - sabiork: '1573'
       - sbo: SBO:0000247
       - seed.compound:
@@ -6824,7 +6682,6 @@
       - hmdb: HMDB01367
       - kegg.compound: C04256
       - metanetx.chemical: MNXM91871
-      - reactome.compound: '532204'
       - sabiork:
         - '1801'
         - '26400'
@@ -6842,7 +6699,6 @@
       - hmdb: HMDB01367
       - kegg.compound: C04256
       - metanetx.chemical: MNXM91871
-      - reactome.compound: '532204'
       - sabiork:
         - '1801'
         - '26400'
@@ -6860,7 +6716,6 @@
       - hmdb: HMDB01367
       - kegg.compound: C04256
       - metanetx.chemical: MNXM91871
-      - reactome.compound: '532204'
       - sabiork:
         - '1801'
         - '26400'
@@ -6892,7 +6747,6 @@
         - HMDB02817
       - kegg.compound: C00357
       - metanetx.chemical: MNXM63556
-      - reactome.compound: '449703'
       - sabiork: '1676'
       - sbo: SBO:0000247
       - seed.compound: cpd00293
@@ -6920,9 +6774,6 @@
         - HMDB00533
       - kegg.compound: C00140
       - metanetx.chemical: MNXM143
-      - reactome.compound:
-        - '2162231'
-        - '1678743'
       - sabiork: '95'
       - sbo: SBO:0000247
       - seed.compound:
@@ -6952,9 +6803,6 @@
         - HMDB00533
       - kegg.compound: C00140
       - metanetx.chemical: MNXM143
-      - reactome.compound:
-        - '2162231'
-        - '1678743'
       - sabiork: '95'
       - sbo: SBO:0000247
       - seed.compound:
@@ -6984,9 +6832,6 @@
         - HMDB00533
       - kegg.compound: C00140
       - metanetx.chemical: MNXM143
-      - reactome.compound:
-        - '2162231'
-        - '1678743'
       - sabiork: '95'
       - sbo: SBO:0000247
       - seed.compound:
@@ -7032,7 +6877,6 @@
         - CHEBI:21552
       - kegg.compound: C00624
       - metanetx.chemical: MNXM730
-      - reactome.compound: '30471'
       - sabiork: '2120'
       - sbo: SBO:0000247
       - seed.compound: cpd00477
@@ -7070,7 +6914,6 @@
       - hmdb: HMDB62724
       - kegg.compound: C00645
       - metanetx.chemical: MNXM2403
-      - reactome.compound: '4085214'
       - sabiork:
         - '25302'
         - '1583'
@@ -7096,7 +6939,6 @@
       - hmdb: HMDB62724
       - kegg.compound: C00645
       - metanetx.chemical: MNXM2403
-      - reactome.compound: '4085214'
       - sabiork:
         - '25302'
         - '1583'
@@ -7122,7 +6964,6 @@
       - hmdb: HMDB62724
       - kegg.compound: C00645
       - metanetx.chemical: MNXM2403
-      - reactome.compound: '4085214'
       - sabiork:
         - '25302'
         - '1583'
@@ -7147,7 +6988,6 @@
       - hmdb: HMDB01121
       - kegg.compound: C04257
       - metanetx.chemical: MNXM4708
-      - reactome.compound: '4085225'
       - sabiork: '1802'
       - sbo: SBO:0000247
       - seed.compound: cpd02612
@@ -7470,7 +7310,6 @@
       - hmdb: HMDB03011
       - kegg.compound: C00979
       - metanetx.chemical: MNXM418
-      - reactome.compound: '936709'
       - sabiork: '2202'
       - sbo: SBO:0000247
       - seed.compound: cpd00722
@@ -7495,7 +7334,6 @@
       - hmdb: HMDB03011
       - kegg.compound: C00979
       - metanetx.chemical: MNXM418
-      - reactome.compound: '936709'
       - sabiork: '2202'
       - sbo: SBO:0000247
       - seed.compound: cpd00722
@@ -7520,7 +7358,6 @@
       - hmdb: HMDB03011
       - kegg.compound: C00979
       - metanetx.chemical: MNXM418
-      - reactome.compound: '936709'
       - sabiork: '2202'
       - sbo: SBO:0000247
       - seed.compound: cpd00722
@@ -7583,7 +7420,6 @@
       - kegg.compound: C00147
       - kegg.drug: D00034
       - metanetx.chemical: MNXM168
-      - reactome.compound: '83951'
       - sabiork: '57'
       - sbo: SBO:0000247
       - seed.compound:
@@ -7610,7 +7446,6 @@
       - kegg.compound: C00147
       - kegg.drug: D00034
       - metanetx.chemical: MNXM168
-      - reactome.compound: '83951'
       - sabiork: '57'
       - sbo: SBO:0000247
       - seed.compound:
@@ -7637,7 +7472,6 @@
       - kegg.compound: C00147
       - kegg.drug: D00034
       - metanetx.chemical: MNXM168
-      - reactome.compound: '83951'
       - sabiork: '57'
       - sbo: SBO:0000247
       - seed.compound:
@@ -7669,10 +7503,6 @@
       - kegg.compound: C00212
       - kegg.drug: D00045
       - metanetx.chemical: MNXM212
-      - reactome.compound:
-        - '83908'
-        - '83909'
-        - '8857850'
       - sabiork: '1402'
       - sbo: SBO:0000247
       - seed.compound: cpd00182
@@ -7702,10 +7532,6 @@
       - kegg.compound: C00212
       - kegg.drug: D00045
       - metanetx.chemical: MNXM212
-      - reactome.compound:
-        - '83908'
-        - '83909'
-        - '8857850'
       - sabiork: '1402'
       - sbo: SBO:0000247
       - seed.compound: cpd00182
@@ -7735,10 +7561,6 @@
       - kegg.compound: C00212
       - kegg.drug: D00045
       - metanetx.chemical: MNXM212
-      - reactome.compound:
-        - '83908'
-        - '83909'
-        - '8857850'
       - sabiork: '1402'
       - sbo: SBO:0000247
       - seed.compound: cpd00182
@@ -7788,7 +7610,6 @@
       - kegg.compound: C00194
       - kegg.drug: D00042
       - metanetx.chemical: MNXM90703
-      - reactome.compound: '3159297'
       - sbo: SBO:0000247
       - seed.compound: cpd00166
   - !!omap
@@ -7804,7 +7625,6 @@
       - kegg.compound: C00194
       - kegg.drug: D00042
       - metanetx.chemical: MNXM90703
-      - reactome.compound: '3159297'
       - sbo: SBO:0000247
       - seed.compound: cpd00166
   - !!omap
@@ -7820,7 +7640,6 @@
       - kegg.compound: C00194
       - kegg.drug: D00042
       - metanetx.chemical: MNXM90703
-      - reactome.compound: '3159297'
       - sbo: SBO:0000247
       - seed.compound: cpd00166
   - !!omap
@@ -7844,17 +7663,6 @@
       - kegg.compound: C00008
       - kegg.glycan: G11113
       - metanetx.chemical: MNXM7
-      - reactome.compound:
-        - '114565'
-        - '211606'
-        - '114564'
-        - '6798177'
-        - '5632457'
-        - '5696026'
-        - '8869360'
-        - '29370'
-        - '113581'
-        - '113582'
       - sabiork: '35'
       - sbo: SBO:0000247
       - seed.compound: cpd00008
@@ -7951,10 +7759,6 @@
         - C00301
         - C01882
       - metanetx.chemical: MNXM48596
-      - reactome.compound:
-        - '2393945'
-        - '8870342'
-        - '1131972'
       - sabiork: '3120'
       - sbo: SBO:0000247
       - seed.compound:
@@ -8036,7 +7840,6 @@
         - HMDB01432
       - kegg.compound: C00179
       - metanetx.chemical: MNXM328
-      - reactome.compound: '351164'
       - sabiork: '4059'
       - sbo: SBO:0000247
       - seed.compound: cpd00152
@@ -8061,7 +7864,6 @@
         - HMDB01432
       - kegg.compound: C00179
       - metanetx.chemical: MNXM328
-      - reactome.compound: '351164'
       - sabiork: '4059'
       - sbo: SBO:0000247
       - seed.compound: cpd00152
@@ -8086,7 +7888,6 @@
         - HMDB01432
       - kegg.compound: C00179
       - metanetx.chemical: MNXM328
-      - reactome.compound: '351164'
       - sabiork: '4059'
       - sbo: SBO:0000247
       - seed.compound: cpd00152
@@ -8112,11 +7913,6 @@
       - hmdb: HMDB00939
       - kegg.compound: C00021
       - metanetx.chemical: MNXM19
-      - reactome.compound:
-        - '2162252'
-        - '77502'
-        - '5278409'
-        - '71285'
       - sabiork: '1274'
       - sbo: SBO:0000247
       - seed.compound: cpd00019
@@ -8144,7 +7940,6 @@
         - HMDB00980
       - kegg.compound: C04895
       - metanetx.chemical: MNXM397
-      - reactome.compound: '1474124'
       - sabiork:
         - '7657'
         - '25345'
@@ -8169,7 +7964,6 @@
       - hmdb: HMDB01517
       - kegg.compound: C04677
       - metanetx.chemical: MNXM365
-      - reactome.compound: '111409'
       - sabiork: '1891'
       - sbo: SBO:0000247
       - seed.compound: cpd02851
@@ -8217,13 +8011,6 @@
         - HMDB62781
       - kegg.compound: C00026
       - metanetx.chemical: MNXM20
-      - reactome.compound:
-        - '113594'
-        - '561075'
-        - '5278317'
-        - '113671'
-        - '29406'
-        - '389537'
       - sabiork: '1922'
       - sbo: SBO:0000247
       - seed.compound: cpd00024
@@ -8254,13 +8041,6 @@
         - HMDB62781
       - kegg.compound: C00026
       - metanetx.chemical: MNXM20
-      - reactome.compound:
-        - '113594'
-        - '561075'
-        - '5278317'
-        - '113671'
-        - '29406'
-        - '389537'
       - sabiork: '1922'
       - sbo: SBO:0000247
       - seed.compound: cpd00024
@@ -8291,13 +8071,6 @@
         - HMDB62781
       - kegg.compound: C00026
       - metanetx.chemical: MNXM20
-      - reactome.compound:
-        - '113594'
-        - '561075'
-        - '5278317'
-        - '113671'
-        - '29406'
-        - '389537'
       - sabiork: '1922'
       - sbo: SBO:0000247
       - seed.compound: cpd00024
@@ -8324,9 +8097,6 @@
       - kegg.compound: C00099
       - kegg.drug: D07561
       - metanetx.chemical: MNXM144
-      - reactome.compound:
-        - '73590'
-        - '909777'
       - sabiork: '1932'
       - sbo: SBO:0000247
       - seed.compound: cpd00085
@@ -8353,9 +8123,6 @@
       - kegg.compound: C00099
       - kegg.drug: D07561
       - metanetx.chemical: MNXM144
-      - reactome.compound:
-        - '73590'
-        - '909777'
       - sabiork: '1932'
       - sbo: SBO:0000247
       - seed.compound: cpd00085
@@ -8382,9 +8149,6 @@
       - kegg.compound: C00099
       - kegg.drug: D07561
       - metanetx.chemical: MNXM144
-      - reactome.compound:
-        - '73590'
-        - '909777'
       - sabiork: '1932'
       - sbo: SBO:0000247
       - seed.compound: cpd00085
@@ -8511,11 +8275,6 @@
         - C00041
       - kegg.drug: D00012
       - metanetx.chemical: MNXM32
-      - reactome.compound:
-        - '389664'
-        - '352036'
-        - '29432'
-        - '379697'
       - sabiork:
         - '2280'
         - '67'
@@ -8562,11 +8321,6 @@
         - C00041
       - kegg.drug: D00012
       - metanetx.chemical: MNXM32
-      - reactome.compound:
-        - '389664'
-        - '352036'
-        - '29432'
-        - '379697'
       - sabiork:
         - '2280'
         - '67'
@@ -8613,11 +8367,6 @@
         - C00041
       - kegg.drug: D00012
       - metanetx.chemical: MNXM32
-      - reactome.compound:
-        - '389664'
-        - '352036'
-        - '29432'
-        - '379697'
       - sabiork:
         - '2280'
         - '67'
@@ -8946,12 +8695,6 @@
         - HMDB62709
       - kegg.compound: C00019
       - metanetx.chemical: MNXM16
-      - reactome.compound:
-        - '2162265'
-        - '5279190'
-        - '77087'
-        - '71284'
-        - '353113'
       - sabiork: '1272'
       - sbo: SBO:0000247
       - seed.compound: cpd00017
@@ -9029,12 +8772,6 @@
       - kegg.compound: C00020
       - kegg.drug: D02769
       - metanetx.chemical: MNXM14
-      - reactome.compound:
-        - '389620'
-        - '159448'
-        - '76577'
-        - '109275'
-        - '164121'
       - sabiork: '1273'
       - sbo: SBO:0000247
       - seed.compound:
@@ -9072,12 +8809,6 @@
       - kegg.compound: C00020
       - kegg.drug: D02769
       - metanetx.chemical: MNXM14
-      - reactome.compound:
-        - '389620'
-        - '159448'
-        - '76577'
-        - '109275'
-        - '164121'
       - sabiork: '1273'
       - sbo: SBO:0000247
       - seed.compound:
@@ -9115,12 +8846,6 @@
       - kegg.compound: C00020
       - kegg.drug: D02769
       - metanetx.chemical: MNXM14
-      - reactome.compound:
-        - '389620'
-        - '159448'
-        - '76577'
-        - '109275'
-        - '164121'
       - sabiork: '1273'
       - sbo: SBO:0000247
       - seed.compound:
@@ -9458,7 +9183,6 @@
       - hmdb: HMDB01003
       - kegg.compound: C00224
       - metanetx.chemical: MNXM287
-      - reactome.compound: '174370'
       - sabiork: '1803'
       - sbo: SBO:0000247
       - seed.compound: cpd00193
@@ -9759,11 +9483,6 @@
         - C00062
       - kegg.drug: D02982
       - metanetx.chemical: MNXM70
-      - reactome.compound:
-        - '351977'
-        - '29468'
-        - '374064'
-        - '113530'
       - sabiork:
         - '2410'
         - '23080'
@@ -9805,11 +9524,6 @@
         - C00062
       - kegg.drug: D02982
       - metanetx.chemical: MNXM70
-      - reactome.compound:
-        - '351977'
-        - '29468'
-        - '374064'
-        - '113530'
       - sabiork:
         - '2410'
         - '23080'
@@ -9851,11 +9565,6 @@
         - C00062
       - kegg.drug: D02982
       - metanetx.chemical: MNXM70
-      - reactome.compound:
-        - '351977'
-        - '29468'
-        - '374064'
-        - '113530'
       - sabiork:
         - '2410'
         - '23080'
@@ -9884,7 +9593,6 @@
         - HMDB01006
       - kegg.compound: C03406
       - metanetx.chemical: MNXM722743
-      - reactome.compound: '34575'
       - sabiork: '4057'
       - sbo: SBO:0000247
       - seed.compound:
@@ -9935,10 +9643,6 @@
         - C00072
       - kegg.drug: D00018
       - metanetx.chemical: MNXM129
-      - reactome.compound:
-        - '198816'
-        - '351595'
-        - '198836'
       - sabiork: '1929'
       - sbo: SBO:0000247
       - seed.compound: cpd00059
@@ -9970,10 +9674,6 @@
         - C00072
       - kegg.drug: D00018
       - metanetx.chemical: MNXM129
-      - reactome.compound:
-        - '198816'
-        - '351595'
-        - '198836'
       - sabiork: '1929'
       - sbo: SBO:0000247
       - seed.compound: cpd00059
@@ -10003,9 +9703,6 @@
         - C16438
         - C00152
       - metanetx.chemical: MNXM147
-      - reactome.compound:
-        - '29642'
-        - '379703'
       - sabiork:
         - '21052'
         - '72'
@@ -10039,9 +9736,6 @@
         - C16438
         - C00152
       - metanetx.chemical: MNXM147
-      - reactome.compound:
-        - '29642'
-        - '379703'
       - sabiork:
         - '21052'
         - '72'
@@ -10075,9 +9769,6 @@
         - C16438
         - C00152
       - metanetx.chemical: MNXM147
-      - reactome.compound:
-        - '29642'
-        - '379703'
       - sabiork:
         - '21052'
         - '72'
@@ -10110,7 +9801,6 @@
       - hmdb: HMDB11620
       - kegg.compound: C06697
       - metanetx.chemical: MNXM658
-      - reactome.compound: '5696216'
       - sabiork: '8854'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10141,7 +9831,6 @@
       - hmdb: HMDB11620
       - kegg.compound: C06697
       - metanetx.chemical: MNXM658
-      - reactome.compound: '5696216'
       - sabiork: '8854'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10172,7 +9861,6 @@
       - hmdb: HMDB11620
       - kegg.compound: C06697
       - metanetx.chemical: MNXM658
-      - reactome.compound: '5696216'
       - sabiork: '8854'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10245,9 +9933,6 @@
         - C16433
       - kegg.drug: D00013
       - metanetx.chemical: MNXM42
-      - reactome.compound:
-        - '113553'
-        - '29448'
       - sabiork: '71'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10291,9 +9976,6 @@
         - C16433
       - kegg.drug: D00013
       - metanetx.chemical: MNXM42
-      - reactome.compound:
-        - '113553'
-        - '29448'
       - sabiork: '71'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10337,9 +10019,6 @@
         - C16433
       - kegg.drug: D00013
       - metanetx.chemical: MNXM42
-      - reactome.compound:
-        - '113553'
-        - '29448'
       - sabiork: '71'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10431,18 +10110,6 @@
       - kegg.compound: C00002
       - kegg.drug: D08646
       - metanetx.chemical: MNXM3
-      - reactome.compound:
-        - '8878982'
-        - '389573'
-        - '8938081'
-        - '211579'
-        - '113593'
-        - '113592'
-        - '5632460'
-        - '5696069'
-        - '29358'
-        - '8869363'
-        - '6798184'
       - sabiork: '34'
       - sbo: SBO:0000247
       - seed.compound: cpd00002
@@ -10476,9 +10143,6 @@
       - kegg.compound: C00877
       - lipidmaps: LMFA07050307
       - metanetx.chemical: MNXM214
-      - reactome.compound:
-        - '71045'
-        - '77313'
       - sabiork: '2174'
       - sbo: SBO:0000247
       - seed.compound: cpd00650
@@ -10517,7 +10181,6 @@
       - hmdb: HMDB01252
       - kegg.compound: C00576
       - metanetx.chemical: MNXM457
-      - reactome.compound: '6798194'
       - sabiork: '5144'
       - sbo: SBO:0000247
       - seed.compound: cpd00447
@@ -10607,7 +10270,6 @@
       - kegg.compound: C00136
       - lipidmaps: LMFA07050292
       - metanetx.chemical: MNXM233
-      - reactome.compound: '77318'
       - sabiork: '1942'
       - sbo: SBO:0000247
       - seed.compound: cpd00120
@@ -10633,10 +10295,6 @@
       - kegg.compound: C00120
       - kegg.drug: D00029
       - metanetx.chemical: MNXM304
-      - reactome.compound:
-        - '199238'
-        - '29582'
-        - '199207'
       - sabiork: '1936'
       - sbo: SBO:0000247
       - seed.compound: cpd00104
@@ -10661,10 +10319,6 @@
       - kegg.compound: C00120
       - kegg.drug: D00029
       - metanetx.chemical: MNXM304
-      - reactome.compound:
-        - '199238'
-        - '29582'
-        - '199207'
       - sabiork: '1936'
       - sbo: SBO:0000247
       - seed.compound: cpd00104
@@ -10689,10 +10343,6 @@
       - kegg.compound: C00120
       - kegg.drug: D00029
       - metanetx.chemical: MNXM304
-      - reactome.compound:
-        - '199238'
-        - '29582'
-        - '199207'
       - sabiork: '1936'
       - sbo: SBO:0000247
       - seed.compound: cpd00104
@@ -10845,14 +10495,6 @@
       - hmdb: HMDB00464
       - kegg.compound: C00076
       - metanetx.chemical: MNXM128
-      - reactome.compound:
-        - '111875'
-        - '167012'
-        - '139827'
-        - '74016'
-        - '74112'
-        - '1606834'
-        - '2855229'
       - sabiork: '1289'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10876,14 +10518,6 @@
       - hmdb: HMDB00464
       - kegg.compound: C00076
       - metanetx.chemical: MNXM128
-      - reactome.compound:
-        - '111875'
-        - '167012'
-        - '139827'
-        - '74016'
-        - '74112'
-        - '1606834'
-        - '2855229'
       - sabiork: '1289'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10907,14 +10541,6 @@
       - hmdb: HMDB00464
       - kegg.compound: C00076
       - metanetx.chemical: MNXM128
-      - reactome.compound:
-        - '111875'
-        - '167012'
-        - '139827'
-        - '74016'
-        - '74112'
-        - '1606834'
-        - '2855229'
       - sabiork: '1289'
       - sbo: SBO:0000247
       - seed.compound:
@@ -10939,7 +10565,6 @@
       - hmdb: HMDB00058
       - kegg.compound: C00575
       - metanetx.chemical: MNXM243
-      - reactome.compound: '30389'
       - sabiork: '1379'
       - sbo: SBO:0000247
       - seed.compound: cpd00446
@@ -10964,7 +10589,6 @@
       - hmdb: HMDB00828
       - kegg.compound: C00438
       - metanetx.chemical: MNXM465
-      - reactome.compound: '111628'
       - sabiork: '2049'
       - sbo: SBO:0000247
       - seed.compound: cpd00343
@@ -11024,7 +10648,6 @@
         - HMDB06470
       - kegg.compound: C00853
       - metanetx.chemical: MNXM91519
-      - reactome.compound: '3159260'
       - sabiork: '5278'
       - sbo: SBO:0000247
   - !!omap
@@ -11047,7 +10670,6 @@
         - HMDB06470
       - kegg.compound: C00853
       - metanetx.chemical: MNXM91519
-      - reactome.compound: '3159260'
       - sabiork: '5278'
       - sbo: SBO:0000247
   - !!omap
@@ -11070,7 +10692,6 @@
         - HMDB06470
       - kegg.compound: C00853
       - metanetx.chemical: MNXM91519
-      - reactome.compound: '3159260'
       - sabiork: '5278'
       - sbo: SBO:0000247
   - !!omap
@@ -11117,9 +10738,6 @@
       - hmdb: HMDB01096
       - kegg.compound: C00169
       - metanetx.chemical: MNXM138
-      - reactome.compound:
-        - '29676'
-        - '111647'
       - sabiork: '1311'
       - sbo: SBO:0000247
       - seed.compound: cpd00146
@@ -11439,9 +11057,6 @@
         - HMDB00078
       - kegg.compound: C01419
       - metanetx.chemical: MNXM683
-      - reactome.compound:
-        - '1247934'
-        - '1247904'
       - sabiork: '2282'
       - sbo: SBO:0000247
       - seed.compound: cpd01017
@@ -11462,9 +11077,6 @@
         - HMDB00078
       - kegg.compound: C01419
       - metanetx.chemical: MNXM683
-      - reactome.compound:
-        - '1247934'
-        - '1247904'
       - sabiork: '2282'
       - sbo: SBO:0000247
       - seed.compound: cpd01017
@@ -11485,9 +11097,6 @@
         - HMDB00078
       - kegg.compound: C01419
       - metanetx.chemical: MNXM683
-      - reactome.compound:
-        - '1247934'
-        - '1247904'
       - sabiork: '2282'
       - sbo: SBO:0000247
       - seed.compound: cpd01017
@@ -11603,10 +11212,6 @@
         - D10498
         - D07690
       - metanetx.chemical: MNXM90
-      - reactome.compound:
-        - '264618'
-        - '264638'
-        - '6798162'
       - sabiork: '1935'
       - sbo: SBO:0000247
       - seed.compound: cpd00098
@@ -11632,10 +11237,6 @@
         - D10498
         - D07690
       - metanetx.chemical: MNXM90
-      - reactome.compound:
-        - '264618'
-        - '264638'
-        - '6798162'
       - sabiork: '1935'
       - sbo: SBO:0000247
       - seed.compound: cpd00098
@@ -11661,10 +11262,6 @@
         - D10498
         - D07690
       - metanetx.chemical: MNXM90
-      - reactome.compound:
-        - '264618'
-        - '264638'
-        - '6798162'
       - sabiork: '1935'
       - sbo: SBO:0000247
       - seed.compound: cpd00098
@@ -11695,7 +11292,6 @@
       - kegg.drug: D10699
       - lipidmaps: LMST04010001
       - metanetx.chemical: MNXM450
-      - reactome.compound: '193451'
       - sabiork: '5188'
       - sbo: SBO:0000247
       - seed.compound: cpd00526
@@ -11727,7 +11323,6 @@
       - kegg.drug: D10699
       - lipidmaps: LMST04010001
       - metanetx.chemical: MNXM450
-      - reactome.compound: '193451'
       - sabiork: '5188'
       - sbo: SBO:0000247
       - seed.compound: cpd00526
@@ -11751,7 +11346,6 @@
       - hmdb: HMDB12199
       - kegg.compound: C00251
       - metanetx.chemical: MNXM337
-      - reactome.compound: '964856'
       - sabiork: '1992'
       - sbo: SBO:0000247
       - seed.compound: cpd00216
@@ -11864,10 +11458,6 @@
       - kegg.compound: C00158
       - kegg.drug: D00037
       - metanetx.chemical: MNXM131
-      - reactome.compound:
-        - '29654'
-        - '433138'
-        - '76190'
       - sabiork: '1952'
       - sbo: SBO:0000247
       - seed.compound: cpd00137
@@ -11902,10 +11492,6 @@
       - kegg.compound: C00158
       - kegg.drug: D00037
       - metanetx.chemical: MNXM131
-      - reactome.compound:
-        - '29654'
-        - '433138'
-        - '76190'
       - sabiork: '1952'
       - sbo: SBO:0000247
       - seed.compound: cpd00137
@@ -11940,10 +11526,6 @@
       - kegg.compound: C00158
       - kegg.drug: D00037
       - metanetx.chemical: MNXM131
-      - reactome.compound:
-        - '29654'
-        - '433138'
-        - '76190'
       - sabiork: '1952'
       - sbo: SBO:0000247
       - seed.compound: cpd00137
@@ -11971,9 +11553,6 @@
       - kegg.compound: C00327
       - kegg.drug: D07706
       - metanetx.chemical: MNXM211
-      - reactome.compound:
-        - '113567'
-        - '29968'
       - sabiork: '1329'
       - sbo: SBO:0000247
       - seed.compound: cpd00274
@@ -12035,14 +11614,6 @@
         - C01327
       - kegg.drug: D02057
       - metanetx.chemical: MNXM43
-      - reactome.compound:
-        - '29572'
-        - '188972'
-        - '3301973'
-        - '352022'
-        - '2731020'
-        - '2731008'
-        - '2730999'
       - sabiork:
         - '2270'
         - '51'
@@ -12084,14 +11655,6 @@
         - C01327
       - kegg.drug: D02057
       - metanetx.chemical: MNXM43
-      - reactome.compound:
-        - '29572'
-        - '188972'
-        - '3301973'
-        - '352022'
-        - '2731020'
-        - '2731008'
-        - '2730999'
       - sabiork:
         - '2270'
         - '51'
@@ -12133,14 +11696,6 @@
         - C01327
       - kegg.drug: D02057
       - metanetx.chemical: MNXM43
-      - reactome.compound:
-        - '29572'
-        - '188972'
-        - '3301973'
-        - '352022'
-        - '2731020'
-        - '2731008'
-        - '2730999'
       - sabiork:
         - '2270'
         - '51'
@@ -12301,10 +11856,6 @@
       - kegg.compound: C00055
       - kegg.glycan: G10621
       - metanetx.chemical: MNXM31
-      - reactome.compound:
-        - '1524067'
-        - '727810'
-        - '109395'
       - sabiork: '1284'
       - sbo: SBO:0000247
       - seed.compound: cpd00046
@@ -12334,10 +11885,6 @@
       - kegg.compound: C00055
       - kegg.glycan: G10621
       - metanetx.chemical: MNXM31
-      - reactome.compound:
-        - '1524067'
-        - '727810'
-        - '109395'
       - sabiork: '1284'
       - sbo: SBO:0000247
       - seed.compound: cpd00046
@@ -12367,10 +11914,6 @@
       - kegg.compound: C00055
       - kegg.glycan: G10621
       - metanetx.chemical: MNXM31
-      - reactome.compound:
-        - '1524067'
-        - '727810'
-        - '109395'
       - sabiork: '1284'
       - sbo: SBO:0000247
       - seed.compound: cpd00046
@@ -12399,16 +11942,6 @@
       - kegg.compound: C00011
       - kegg.drug: D00004
       - metanetx.chemical: MNXM13
-      - reactome.compound:
-        - '29376'
-        - '5668565'
-        - '189480'
-        - '1132345'
-        - '113528'
-        - '1237009'
-        - '159751'
-        - '389536'
-        - '159942'
       - sabiork: '1266'
       - sbo: SBO:0000247
       - seed.compound: cpd00011
@@ -12437,16 +11970,6 @@
       - kegg.compound: C00011
       - kegg.drug: D00004
       - metanetx.chemical: MNXM13
-      - reactome.compound:
-        - '29376'
-        - '5668565'
-        - '189480'
-        - '1132345'
-        - '113528'
-        - '1237009'
-        - '159751'
-        - '389536'
-        - '159942'
       - sabiork: '1266'
       - sbo: SBO:0000247
       - seed.compound: cpd00011
@@ -12475,16 +11998,6 @@
       - kegg.compound: C00011
       - kegg.drug: D00004
       - metanetx.chemical: MNXM13
-      - reactome.compound:
-        - '29376'
-        - '5668565'
-        - '189480'
-        - '1132345'
-        - '113528'
-        - '1237009'
-        - '159751'
-        - '389536'
-        - '159942'
       - sabiork: '1266'
       - sbo: SBO:0000247
       - seed.compound: cpd00011
@@ -12517,14 +12030,6 @@
         - HMDB62184
       - kegg.compound: C00010
       - metanetx.chemical: MNXM12
-      - reactome.compound:
-        - '193514'
-        - '162743'
-        - '2485002'
-        - '1678675'
-        - '29374'
-        - '76194'
-        - '8939024'
       - sabiork: '1265'
       - sbo: SBO:0000247
       - seed.compound:
@@ -12823,9 +12328,6 @@
       - hmdb: HMDB01261
       - kegg.compound: C03263
       - metanetx.chemical: MNXM410
-      - reactome.compound:
-        - '189455'
-        - '189411'
       - sabiork:
         - '8129'
         - '6515'
@@ -12929,12 +12431,6 @@
         - C00318
       - kegg.drug: D02176
       - metanetx.chemical: MNXM173
-      - reactome.compound:
-        - '201023'
-        - '549207'
-        - '164988'
-        - '390294'
-        - '30235'
       - sabiork:
         - '3872'
         - '1328'
@@ -12973,12 +12469,6 @@
         - C00318
       - kegg.drug: D02176
       - metanetx.chemical: MNXM173
-      - reactome.compound:
-        - '201023'
-        - '549207'
-        - '164988'
-        - '390294'
-        - '30235'
       - sabiork:
         - '3872'
         - '1328'
@@ -13017,12 +12507,6 @@
         - C00318
       - kegg.drug: D02176
       - metanetx.chemical: MNXM173
-      - reactome.compound:
-        - '201023'
-        - '549207'
-        - '164988'
-        - '390294'
-        - '30235'
       - sabiork:
         - '3872'
         - '1328'
@@ -13204,10 +12688,6 @@
       - hmdb: HMDB00082
       - kegg.compound: C00063
       - metanetx.chemical: MNXM63
-      - reactome.compound:
-        - '29470'
-        - '110614'
-        - '110577'
       - sabiork: '1286'
       - sbo: SBO:0000247
       - seed.compound: cpd00052
@@ -13228,10 +12708,6 @@
       - hmdb: HMDB00657
       - kegg.compound: C00070
       - metanetx.chemical: MNXM632
-      - reactome.compound:
-        - '437295'
-        - '936901'
-        - '209799'
       - sabiork: '19'
       - sbo: SBO:0000247
       - seed.compound: cpd00058
@@ -13252,10 +12728,6 @@
       - hmdb: HMDB00657
       - kegg.compound: C00070
       - metanetx.chemical: MNXM632
-      - reactome.compound:
-        - '437295'
-        - '936901'
-        - '209799'
       - sabiork: '19'
       - sbo: SBO:0000247
       - seed.compound: cpd00058
@@ -13276,10 +12748,6 @@
       - hmdb: HMDB00657
       - kegg.compound: C00070
       - metanetx.chemical: MNXM632
-      - reactome.compound:
-        - '437295'
-        - '936901'
-        - '209799'
       - sabiork: '19'
       - sbo: SBO:0000247
       - seed.compound: cpd00058
@@ -13626,11 +13094,6 @@
         - C00097
       - kegg.drug: D00026
       - metanetx.chemical: MNXM55
-      - reactome.compound:
-        - '352016'
-        - '379721'
-        - '111707'
-        - '5668576'
       - sabiork:
         - '2142'
         - '78'
@@ -13678,11 +13141,6 @@
         - C00097
       - kegg.drug: D00026
       - metanetx.chemical: MNXM55
-      - reactome.compound:
-        - '352016'
-        - '379721'
-        - '111707'
-        - '5668576'
       - sabiork:
         - '2142'
         - '78'
@@ -13730,11 +13188,6 @@
         - C00097
       - kegg.drug: D00026
       - metanetx.chemical: MNXM55
-      - reactome.compound:
-        - '352016'
-        - '379721'
-        - '111707'
-        - '5668576'
       - sabiork:
         - '2142'
         - '78'
@@ -13831,7 +13284,6 @@
         - HMDB03614
       - kegg.compound: C02291
       - metanetx.chemical: MNXM319
-      - reactome.compound: '1614518'
       - sabiork: '6114'
       - sbo: SBO:0000247
       - seed.compound: cpd19019
@@ -14009,9 +13461,6 @@
       - hmdb: HMDB01983
       - kegg.compound: C05198
       - metanetx.chemical: MNXM316
-      - reactome.compound:
-        - '1130791'
-        - '947703'
       - sabiork: '2720'
       - sbo: SBO:0000247
       - seed.compound: cpd03091
@@ -14034,7 +13483,6 @@
       - hmdb: HMDB01508
       - kegg.compound: C00206
       - metanetx.chemical: MNXM374
-      - reactome.compound: '500087'
       - sabiork: '1314'
       - sbo: SBO:0000247
       - seed.compound: cpd00177
@@ -14065,9 +13513,6 @@
       - hmdb: HMDB00905
       - kegg.compound: C00360
       - metanetx.chemical: MNXM432
-      - reactome.compound:
-        - '500088'
-        - '109386'
       - sabiork: '62'
       - sbo: SBO:0000247
       - seed.compound: cpd00294
@@ -14098,9 +13543,6 @@
       - hmdb: HMDB00905
       - kegg.compound: C00360
       - metanetx.chemical: MNXM432
-      - reactome.compound:
-        - '500088'
-        - '109386'
       - sabiork: '62'
       - sbo: SBO:0000247
       - seed.compound: cpd00294
@@ -14131,9 +13573,6 @@
       - hmdb: HMDB00905
       - kegg.compound: C00360
       - metanetx.chemical: MNXM432
-      - reactome.compound:
-        - '500088'
-        - '109386'
       - sabiork: '62'
       - sbo: SBO:0000247
       - seed.compound: cpd00294
@@ -14178,7 +13617,6 @@
       - hmdb: HMDB01532
       - kegg.compound: C00131
       - metanetx.chemical: MNXM286
-      - reactome.compound: '110644'
       - sabiork: '1307'
       - sbo: SBO:0000247
       - seed.compound: cpd00115
@@ -14215,7 +13653,6 @@
         - LMFA07050391
         - LMFA07050175
       - metanetx.chemical: MNXM580
-      - reactome.compound: '77343'
       - sabiork: '2752'
       - sbo: SBO:0000247
       - seed.compound: cpd03129
@@ -14296,7 +13733,6 @@
         - HMDB00536
       - kegg.compound: C03794
       - metanetx.chemical: MNXM565
-      - reactome.compound: '35141'
       - sabiork: '1886'
       - sbo: SBO:0000247
       - seed.compound: cpd02375
@@ -14344,9 +13780,6 @@
       - hmdb: HMDB01202
       - kegg.compound: C00239
       - metanetx.chemical: MNXM266
-      - reactome.compound:
-        - '109378'
-        - '500828'
       - sabiork: '63'
       - sbo: SBO:0000247
       - seed.compound: cpd00206
@@ -14373,9 +13806,6 @@
       - hmdb: HMDB01202
       - kegg.compound: C00239
       - metanetx.chemical: MNXM266
-      - reactome.compound:
-        - '109378'
-        - '500828'
       - sabiork: '63'
       - sbo: SBO:0000247
       - seed.compound: cpd00206
@@ -14402,9 +13832,6 @@
       - hmdb: HMDB01202
       - kegg.compound: C00239
       - metanetx.chemical: MNXM266
-      - reactome.compound:
-        - '109378'
-        - '500828'
       - sabiork: '63'
       - sbo: SBO:0000247
       - seed.compound: cpd00206
@@ -14450,7 +13877,6 @@
       - hmdb: HMDB00014
       - kegg.compound: C00881
       - metanetx.chemical: MNXM704
-      - reactome.compound: '500829'
       - sabiork: '2178'
       - sbo: SBO:0000247
       - seed.compound: cpd00654
@@ -14474,7 +13900,6 @@
       - hmdb: HMDB00014
       - kegg.compound: C00881
       - metanetx.chemical: MNXM704
-      - reactome.compound: '500829'
       - sabiork: '2178'
       - sbo: SBO:0000247
       - seed.compound: cpd00654
@@ -14498,7 +13923,6 @@
       - hmdb: HMDB00014
       - kegg.compound: C00881
       - metanetx.chemical: MNXM704
-      - reactome.compound: '500829'
       - sabiork: '2178'
       - sbo: SBO:0000247
       - seed.compound: cpd00654
@@ -14526,7 +13950,6 @@
         - LMFA07050010
         - LMFA07050176
       - metanetx.chemical: MNXM642
-      - reactome.compound: '77255'
       - sabiork: '2706'
       - sbo: SBO:0000247
       - seed.compound: cpd02060
@@ -14596,7 +14019,6 @@
         - LMFA07050340
         - LMFA07050005
       - metanetx.chemical: MNXM363
-      - reactome.compound: '77261'
       - sabiork: '2322'
       - sbo: SBO:0000247
       - seed.compound: cpd01260
@@ -14629,7 +14051,6 @@
       - hmdb: HMDB00960
       - kegg.compound: C00361
       - metanetx.chemical: MNXM436
-      - reactome.compound: '500077'
       - sabiork: '1677'
       - sbo: SBO:0000247
       - seed.compound: cpd00295
@@ -14658,7 +14079,6 @@
         - CHEBI:45049
       - kegg.compound: C00362
       - metanetx.chemical: MNXM546
-      - reactome.compound: '500071'
       - sabiork: '64'
       - sbo: SBO:0000247
       - seed.compound: cpd00296
@@ -14687,7 +14107,6 @@
         - CHEBI:45049
       - kegg.compound: C00362
       - metanetx.chemical: MNXM546
-      - reactome.compound: '500071'
       - sabiork: '64'
       - sbo: SBO:0000247
       - seed.compound: cpd00296
@@ -14716,7 +14135,6 @@
         - CHEBI:45049
       - kegg.compound: C00362
       - metanetx.chemical: MNXM546
-      - reactome.compound: '500071'
       - sabiork: '64'
       - sbo: SBO:0000247
       - seed.compound: cpd00296
@@ -14736,7 +14154,6 @@
           32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/827fc514-4527-4f8f-8df2-fe7ba01da727
       - kegg.compound: C18870
       - metanetx.chemical: MNXM7767
-      - reactome.compound: '5357667'
       - sbo: SBO:0000247
       - seed.compound: cpd20131
   - !!omap
@@ -14930,10 +14347,6 @@
         - HMDB01473
       - kegg.compound: C00111
       - metanetx.chemical: MNXM77
-      - reactome.compound:
-        - '390404'
-        - '75970'
-        - '188451'
       - sabiork: '28'
       - sbo: SBO:0000247
       - seed.compound: cpd00095
@@ -14997,7 +14410,6 @@
       - hmdb: HMDB01056
       - kegg.compound: C00415
       - metanetx.chemical: MNXM281
-      - reactome.compound: '73604'
       - sabiork: '1336'
       - sbo: SBO:0000247
       - seed.compound: cpd00330
@@ -15099,7 +14511,6 @@
       - hmdb: HMDB03349
       - kegg.compound: C00337
       - metanetx.chemical: MNXM252
-      - reactome.compound: '76630'
       - sabiork: '2022'
       - sbo: SBO:0000247
       - seed.compound: cpd00282
@@ -15269,7 +14680,6 @@
       - hmdb: HMDB03536
       - kegg.compound: C01344
       - metanetx.chemical: MNXM2174
-      - reactome.compound: '2509796'
       - sbo: SBO:0000247
       - seed.compound: cpd00976
   - !!omap
@@ -15295,9 +14705,6 @@
       - hmdb: HMDB06555
       - kegg.compound: C06196
       - metanetx.chemical: MNXM1922
-      - reactome.compound:
-        - '109330'
-        - '2509805'
       - sabiork: '1858'
       - sbo: SBO:0000247
       - seed.compound: cpd03704
@@ -15324,9 +14731,6 @@
       - hmdb: HMDB06555
       - kegg.compound: C06196
       - metanetx.chemical: MNXM1922
-      - reactome.compound:
-        - '109330'
-        - '2509805'
       - sabiork: '1858'
       - sbo: SBO:0000247
       - seed.compound: cpd03704
@@ -15353,9 +14757,6 @@
       - hmdb: HMDB06555
       - kegg.compound: C06196
       - metanetx.chemical: MNXM1922
-      - reactome.compound:
-        - '109330'
-        - '2509805'
       - sabiork: '1858'
       - sbo: SBO:0000247
       - seed.compound: cpd03704
@@ -15447,7 +14848,6 @@
         - CHEBI:10499
       - kegg.compound: C01345
       - metanetx.chemical: MNXM1325
-      - reactome.compound: '2509835'
       - sabiork: '1713'
       - sbo: SBO:0000247
       - seed.compound: cpd00977
@@ -15529,10 +14929,6 @@
       - kegg.compound: C00235
       - lipidmaps: LMPR01010001
       - metanetx.chemical: MNXM132
-      - reactome.compound:
-        - '1132235'
-        - '6787596'
-        - '191324'
       - sabiork: '1986'
       - sbo: SBO:0000247
       - seed.compound: cpd00202
@@ -15694,10 +15090,6 @@
       - hmdb: HMDB01179
       - kegg.compound: C00857
       - metanetx.chemical: MNXM309
-      - reactome.compound:
-        - '8938090'
-        - '200499'
-        - '197256'
       - sabiork: '1349'
       - sbo: SBO:0000247
       - seed.compound: cpd00638
@@ -15725,10 +15117,6 @@
       - kegg.compound: C03758
       - kegg.drug: D07870
       - metanetx.chemical: MNXM205
-      - reactome.compound:
-        - '351601'
-        - '380873'
-        - '159362'
       - sabiork:
         - '20037'
         - '6836'
@@ -15758,10 +15146,6 @@
       - kegg.compound: C03758
       - kegg.drug: D07870
       - metanetx.chemical: MNXM205
-      - reactome.compound:
-        - '351601'
-        - '380873'
-        - '159362'
       - sabiork:
         - '20037'
         - '6836'
@@ -15787,7 +15171,6 @@
       - kegg.drug: D03899
       - lipidmaps: LMPK13050001
       - metanetx.chemical: MNXM37015
-      - reactome.compound: '8937424'
       - sabiork: '5717'
       - sbo: SBO:0000247
       - seed.compound: cpd01151
@@ -15811,7 +15194,6 @@
       - kegg.drug: D03899
       - lipidmaps: LMPK13050001
       - metanetx.chemical: MNXM37015
-      - reactome.compound: '8937424'
       - sabiork: '5717'
       - sbo: SBO:0000247
       - seed.compound: cpd01151
@@ -15836,7 +15218,6 @@
       - kegg.compound: C00882
       - lipidmaps: LMFA07050315
       - metanetx.chemical: MNXM481
-      - reactome.compound: '196778'
       - sabiork:
         - '27337'
         - '1400'
@@ -16175,7 +15556,6 @@
       - hmdb: HMDB01227
       - kegg.compound: C00364
       - metanetx.chemical: MNXM257
-      - reactome.compound: '109366'
       - sabiork: '65'
       - sbo: SBO:0000247
       - seed.compound: cpd00298
@@ -16207,7 +15587,6 @@
       - hmdb: HMDB01227
       - kegg.compound: C00364
       - metanetx.chemical: MNXM257
-      - reactome.compound: '109366'
       - sabiork: '65'
       - sbo: SBO:0000247
       - seed.compound: cpd00298
@@ -16239,7 +15618,6 @@
       - hmdb: HMDB01227
       - kegg.compound: C00364
       - metanetx.chemical: MNXM257
-      - reactome.compound: '109366'
       - sabiork: '65'
       - sbo: SBO:0000247
       - seed.compound: cpd00298
@@ -16308,9 +15686,6 @@
       - hmdb: HMDB01409
       - kegg.compound: C00365
       - metanetx.chemical: MNXM234
-      - reactome.compound:
-        - '109382'
-        - '500742'
       - sabiork: '1334'
       - sbo: SBO:0000247
       - seed.compound: cpd00299
@@ -16336,9 +15711,6 @@
       - hmdb: HMDB01409
       - kegg.compound: C00365
       - metanetx.chemical: MNXM234
-      - reactome.compound:
-        - '109382'
-        - '500742'
       - sabiork: '1334'
       - sbo: SBO:0000247
       - seed.compound: cpd00299
@@ -16364,9 +15736,6 @@
       - hmdb: HMDB01409
       - kegg.compound: C00365
       - metanetx.chemical: MNXM234
-      - reactome.compound:
-        - '109382'
-        - '500742'
       - sabiork: '1334'
       - sbo: SBO:0000247
       - seed.compound: cpd00299
@@ -16395,7 +15764,6 @@
       - hmdb: HMDB00012
       - kegg.compound: C00526
       - metanetx.chemical: MNXM492
-      - reactome.compound: '500430'
       - sabiork: '2074'
       - sbo: SBO:0000247
       - seed.compound: cpd00412
@@ -16424,7 +15792,6 @@
       - hmdb: HMDB00012
       - kegg.compound: C00526
       - metanetx.chemical: MNXM492
-      - reactome.compound: '500430'
       - sabiork: '2074'
       - sbo: SBO:0000247
       - seed.compound: cpd00412
@@ -16453,7 +15820,6 @@
       - hmdb: HMDB00012
       - kegg.compound: C00526
       - metanetx.chemical: MNXM492
-      - reactome.compound: '500430'
       - sabiork: '2074'
       - sbo: SBO:0000247
       - seed.compound: cpd00412
@@ -16476,7 +15842,6 @@
       - hmdb: HMDB01191
       - kegg.compound: C00460
       - metanetx.chemical: MNXM452
-      - reactome.compound: '500739'
       - sabiork: '1680'
       - sbo: SBO:0000247
       - seed.compound: cpd00358
@@ -16564,7 +15929,6 @@
       - hmdb: HMDB01321
       - kegg.compound: C00279
       - metanetx.chemical: MNXM258
-      - reactome.compound: '29878'
       - sabiork: '1324'
       - sbo: SBO:0000247
       - seed.compound: cpd00236
@@ -16705,7 +16069,6 @@
       - hmdb: HMDB32199
       - kegg.compound: C05821
       - metanetx.chemical: MNXM883
-      - reactome.compound: '1222366'
       - sbo: SBO:0000247
       - seed.compound: cpd03453
   - !!omap
@@ -16726,7 +16089,6 @@
       - hmdb: HMDB32199
       - kegg.compound: C05821
       - metanetx.chemical: MNXM883
-      - reactome.compound: '1222366'
       - sbo: SBO:0000247
       - seed.compound: cpd03453
   - !!omap
@@ -16747,7 +16109,6 @@
       - hmdb: HMDB32199
       - kegg.compound: C05821
       - metanetx.chemical: MNXM883
-      - reactome.compound: '1222366'
       - sbo: SBO:0000247
       - seed.compound: cpd03453
   - !!omap
@@ -16936,9 +16297,6 @@
         - D00068
         - D04855
       - metanetx.chemical: MNXM303
-      - reactome.compound:
-        - '113748'
-        - '30203'
       - sabiork: '56'
       - sbo: SBO:0000247
       - seed.compound: cpd00363
@@ -16974,9 +16332,6 @@
         - D00068
         - D04855
       - metanetx.chemical: MNXM303
-      - reactome.compound:
-        - '113748'
-        - '30203'
       - sabiork: '56'
       - sbo: SBO:0000247
       - seed.compound: cpd00363
@@ -17012,9 +16367,6 @@
         - D00068
         - D04855
       - metanetx.chemical: MNXM303
-      - reactome.compound:
-        - '113748'
-        - '30203'
       - sabiork: '56'
       - sbo: SBO:0000247
       - seed.compound: cpd00363
@@ -17152,10 +16504,6 @@
       - kegg.compound: C00016
       - kegg.drug: D00005
       - metanetx.chemical: MNXM33
-      - reactome.compound:
-        - '113596'
-        - '29386'
-        - '113597'
       - sabiork: '1270'
       - sbo: SBO:0000247
       - seed.compound: cpd00015
@@ -17179,10 +16527,6 @@
       - kegg.compound: C00016
       - kegg.drug: D00005
       - metanetx.chemical: MNXM33
-      - reactome.compound:
-        - '113596'
-        - '29386'
-        - '113597'
       - sabiork: '1270'
       - sbo: SBO:0000247
       - seed.compound: cpd00015
@@ -17206,10 +16550,6 @@
       - kegg.compound: C00016
       - kegg.drug: D00005
       - metanetx.chemical: MNXM33
-      - reactome.compound:
-        - '113596'
-        - '29386'
-        - '113597'
       - sabiork: '1270'
       - sbo: SBO:0000247
       - seed.compound: cpd00015
@@ -17235,9 +16575,6 @@
         - HMDB01197
       - kegg.compound: C01352
       - metanetx.chemical: MNXM38
-      - reactome.compound:
-        - '31649'
-        - '164934'
       - sabiork: '2274'
       - sbo: SBO:0000247
       - seed.compound: cpd00982
@@ -17266,11 +16603,6 @@
       - kegg.compound: C00067
       - kegg.drug: D00017
       - metanetx.chemical: MNXM56
-      - reactome.compound:
-        - '143501'
-        - '29478'
-        - '879250'
-        - '6797920'
       - sabiork: '1928'
       - sbo: SBO:0000247
       - seed.compound: cpd00055
@@ -17299,11 +16631,6 @@
       - kegg.compound: C00067
       - kegg.drug: D00017
       - metanetx.chemical: MNXM56
-      - reactome.compound:
-        - '143501'
-        - '29478'
-        - '879250'
-        - '6797920'
       - sabiork: '1928'
       - sbo: SBO:0000247
       - seed.compound: cpd00055
@@ -17332,11 +16659,6 @@
       - kegg.compound: C00067
       - kegg.drug: D00017
       - metanetx.chemical: MNXM56
-      - reactome.compound:
-        - '143501'
-        - '29478'
-        - '879250'
-        - '6797920'
       - sabiork: '1928'
       - sbo: SBO:0000247
       - seed.compound: cpd00055
@@ -17486,12 +16808,6 @@
       - hmdb: HMDB12943
       - kegg.compound: C14819
       - metanetx.chemical: MNXM196
-      - reactome.compound:
-        - '917966'
-        - '111736'
-        - '917943'
-        - '912519'
-        - '912516'
       - sabiork: '1361'
       - sbo: SBO:0000247
       - seed.compound: cpd10516
@@ -17514,12 +16830,6 @@
       - hmdb: HMDB12943
       - kegg.compound: C14819
       - metanetx.chemical: MNXM196
-      - reactome.compound:
-        - '917966'
-        - '111736'
-        - '917943'
-        - '912519'
-        - '912516'
       - sabiork: '1361'
       - sbo: SBO:0000247
       - seed.compound: cpd10516
@@ -17542,12 +16852,6 @@
       - hmdb: HMDB12943
       - kegg.compound: C14819
       - metanetx.chemical: MNXM196
-      - reactome.compound:
-        - '917966'
-        - '111736'
-        - '917943'
-        - '912519'
-        - '912516'
       - sabiork: '1361'
       - sbo: SBO:0000247
       - seed.compound: cpd10516
@@ -17810,7 +17114,6 @@
         - CHEBI:21133
       - kegg.compound: C06230
       - metanetx.chemical: MNXM7354
-      - reactome.compound: '1222421'
       - sbo: SBO:0000247
   - !!omap
     - id: feenter_e
@@ -17828,7 +17131,6 @@
         - CHEBI:21133
       - kegg.compound: C06230
       - metanetx.chemical: MNXM7354
-      - reactome.compound: '1222421'
       - sbo: SBO:0000247
   - !!omap
     - id: feenter_p
@@ -17846,7 +17148,6 @@
         - CHEBI:21133
       - kegg.compound: C06230
       - metanetx.chemical: MNXM7354
-      - reactome.compound: '1222421'
       - sbo: SBO:0000247
   - !!omap
     - id: feoxam_c
@@ -17947,7 +17248,6 @@
         - HMDB06476
       - kegg.compound: C04376
       - metanetx.chemical: MNXM453
-      - reactome.compound: '111354'
       - sabiork: '1889'
       - sbo: SBO:0000247
       - seed.compound: cpd02678
@@ -17991,7 +17291,6 @@
       - hmdb: HMDB01520
       - kegg.compound: C00061
       - metanetx.chemical: MNXM119
-      - reactome.compound: '73524'
       - sabiork: '1673'
       - sbo: SBO:0000247
       - seed.compound: cpd00050
@@ -18014,7 +17313,6 @@
       - hmdb: HMDB01520
       - kegg.compound: C00061
       - metanetx.chemical: MNXM119
-      - reactome.compound: '73524'
       - sabiork: '1673'
       - sbo: SBO:0000247
       - seed.compound: cpd00050
@@ -18037,7 +17335,6 @@
       - hmdb: HMDB01520
       - kegg.compound: C00061
       - metanetx.chemical: MNXM119
-      - reactome.compound: '73524'
       - sabiork: '1673'
       - sbo: SBO:0000247
       - seed.compound: cpd00050
@@ -18098,11 +17395,6 @@
       - hmdb: HMDB00142
       - kegg.compound: C00058
       - metanetx.chemical: MNXM39
-      - reactome.compound:
-        - '29460'
-        - '194712'
-        - '389585'
-        - '6801451'
       - sabiork: '1285'
       - sbo: SBO:0000247
       - seed.compound:
@@ -18141,11 +17433,6 @@
       - hmdb: HMDB00142
       - kegg.compound: C00058
       - metanetx.chemical: MNXM39
-      - reactome.compound:
-        - '29460'
-        - '194712'
-        - '389585'
-        - '6801451'
       - sabiork: '1285'
       - sbo: SBO:0000247
       - seed.compound:
@@ -18184,11 +17471,6 @@
       - hmdb: HMDB00142
       - kegg.compound: C00058
       - metanetx.chemical: MNXM39
-      - reactome.compound:
-        - '29460'
-        - '194712'
-        - '389585'
-        - '6801451'
       - sabiork: '1285'
       - sbo: SBO:0000247
       - seed.compound:
@@ -18215,7 +17497,6 @@
         - HMDB06490
       - kegg.compound: C00798
       - metanetx.chemical: MNXM563
-      - reactome.compound: '389578'
       - sabiork: '2158'
       - sbo: SBO:0000247
       - seed.compound: cpd00592
@@ -18234,7 +17515,6 @@
         - CHEBI:11474
       - hmdb: HMDB06211
       - metanetx.chemical: MNXM479745
-      - reactome.compound: '111369'
       - sbo: SBO:0000247
   - !!omap
     - id: fprica_c
@@ -18256,7 +17536,6 @@
         - HMDB01439
       - kegg.compound: C04734
       - metanetx.chemical: MNXM456
-      - reactome.compound: '111427'
       - sabiork: '1892'
       - sbo: SBO:0000247
       - seed.compound: cpd02884
@@ -18288,10 +17567,6 @@
       - kegg.compound: C00448
       - lipidmaps: LMPR0103010002
       - metanetx.chemical: MNXM34
-      - reactome.compound:
-        - '191385'
-        - '2162257'
-        - '4419987'
       - sabiork: '5095'
       - sbo: SBO:0000247
       - seed.compound: cpd00350
@@ -18330,9 +17605,6 @@
         - C10906
       - kegg.drug: D00114
       - metanetx.chemical: MNXM175
-      - reactome.compound:
-        - '189049'
-        - '29532'
       - sabiork:
         - '25055'
         - '1463'
@@ -18377,9 +17649,6 @@
         - C10906
       - kegg.drug: D00114
       - metanetx.chemical: MNXM175
-      - reactome.compound:
-        - '189049'
-        - '29532'
       - sabiork:
         - '25055'
         - '1463'
@@ -18424,9 +17693,6 @@
         - C10906
       - kegg.drug: D00114
       - metanetx.chemical: MNXM175
-      - reactome.compound:
-        - '189049'
-        - '29532'
       - sabiork:
         - '25055'
         - '1463'
@@ -18590,7 +17856,6 @@
       - chebi: CHEBI:48204
       - hmdb: HMDB62489
       - metanetx.chemical: MNXM40586
-      - reactome.compound: '6784249'
       - sbo: SBO:0000247
   - !!omap
     - id: fuc__L_e
@@ -18606,7 +17871,6 @@
       - chebi: CHEBI:48204
       - hmdb: HMDB62489
       - metanetx.chemical: MNXM40586
-      - reactome.compound: '6784249'
       - sbo: SBO:0000247
   - !!omap
     - id: fuc__L_p
@@ -18622,7 +17886,6 @@
       - chebi: CHEBI:48204
       - hmdb: HMDB62489
       - metanetx.chemical: MNXM40586
-      - reactome.compound: '6784249'
       - sbo: SBO:0000247
   - !!omap
     - id: fum_c
@@ -18654,9 +17917,6 @@
       - kegg.compound: C00122
       - kegg.drug: D02308
       - metanetx.chemical: MNXM93
-      - reactome.compound:
-        - '113588'
-        - '29586'
       - sabiork: '1910'
       - sbo: SBO:0000247
       - seed.compound: cpd00106
@@ -18690,9 +17950,6 @@
       - kegg.compound: C00122
       - kegg.drug: D02308
       - metanetx.chemical: MNXM93
-      - reactome.compound:
-        - '113588'
-        - '29586'
       - sabiork: '1910'
       - sbo: SBO:0000247
       - seed.compound: cpd00106
@@ -18726,9 +17983,6 @@
       - kegg.compound: C00122
       - kegg.drug: D02308
       - metanetx.chemical: MNXM93
-      - reactome.compound:
-        - '113588'
-        - '29586'
       - sabiork: '1910'
       - sbo: SBO:0000247
       - seed.compound: cpd00106
@@ -18805,7 +18059,6 @@
         - HMDB01306
       - kegg.compound: C00103
       - metanetx.chemical: MNXM89588
-      - reactome.compound: '29548'
       - sabiork:
         - '1450'
         - '23742'
@@ -18843,7 +18096,6 @@
         - HMDB01306
       - kegg.compound: C00103
       - metanetx.chemical: MNXM89588
-      - reactome.compound: '29548'
       - sabiork:
         - '1450'
         - '23742'
@@ -18881,7 +18133,6 @@
         - HMDB01306
       - kegg.compound: C00103
       - metanetx.chemical: MNXM89588
-      - reactome.compound: '29548'
       - sabiork:
         - '1450'
         - '23742'
@@ -18916,7 +18167,6 @@
         - C00661
         - C00118
       - metanetx.chemical: MNXM74
-      - reactome.compound: '29578'
       - sabiork:
         - '27'
         - '1687'
@@ -18946,7 +18196,6 @@
       - kegg.compound: C00670
       - kegg.drug: D07349
       - metanetx.chemical: MNXM367
-      - reactome.compound: '1498750'
       - sabiork: '5173'
       - sbo: SBO:0000247
       - seed.compound: cpd00507
@@ -18972,7 +18221,6 @@
       - kegg.compound: C00670
       - kegg.drug: D07349
       - metanetx.chemical: MNXM367
-      - reactome.compound: '1498750'
       - sabiork: '5173'
       - sbo: SBO:0000247
       - seed.compound: cpd00507
@@ -18998,7 +18246,6 @@
       - kegg.compound: C00670
       - kegg.drug: D07349
       - metanetx.chemical: MNXM367
-      - reactome.compound: '1498750'
       - sabiork: '5173'
       - sbo: SBO:0000247
       - seed.compound: cpd00507
@@ -19020,7 +18267,6 @@
       - hmdb: HMDB59660
       - kegg.compound: C01233
       - metanetx.chemical: MNXM368
-      - reactome.compound: '1524023'
       - sabiork: '3824'
       - sbo: SBO:0000247
       - seed.compound: cpd00908
@@ -19042,7 +18288,6 @@
       - hmdb: HMDB59660
       - kegg.compound: C01233
       - metanetx.chemical: MNXM368
-      - reactome.compound: '1524023'
       - sabiork: '3824'
       - sbo: SBO:0000247
       - seed.compound: cpd00908
@@ -19064,7 +18309,6 @@
       - hmdb: HMDB59660
       - kegg.compound: C01233
       - metanetx.chemical: MNXM368
-      - reactome.compound: '1524023'
       - sabiork: '3824'
       - sbo: SBO:0000247
       - seed.compound: cpd00908
@@ -19141,7 +18385,6 @@
       - hmdb: HMDB11649
       - kegg.compound: C01225
       - metanetx.chemical: MNXM1517
-      - reactome.compound: '6813734'
       - sabiork: '5457'
       - sbo: SBO:0000247
       - seed.compound: cpd00902
@@ -19164,7 +18407,6 @@
       - hmdb: HMDB11649
       - kegg.compound: C01225
       - metanetx.chemical: MNXM1517
-      - reactome.compound: '6813734'
       - sabiork: '5457'
       - sbo: SBO:0000247
       - seed.compound: cpd00902
@@ -19187,7 +18429,6 @@
       - hmdb: HMDB11649
       - kegg.compound: C01225
       - metanetx.chemical: MNXM1517
-      - reactome.compound: '6813734'
       - sabiork: '5457'
       - sbo: SBO:0000247
       - seed.compound: cpd00902
@@ -19267,7 +18508,6 @@
         - HMDB06793
       - kegg.compound: C00092
       - metanetx.chemical: MNXM160
-      - reactome.compound: '1629756'
       - sabiork:
         - '1404'
         - '1405'
@@ -19294,7 +18534,6 @@
         - HMDB06793
       - kegg.compound: C00092
       - metanetx.chemical: MNXM160
-      - reactome.compound: '1629756'
       - sabiork:
         - '1404'
         - '1405'
@@ -19321,7 +18560,6 @@
         - HMDB06793
       - kegg.compound: C00092
       - metanetx.chemical: MNXM160
-      - reactome.compound: '1629756'
       - sabiork:
         - '1404'
         - '1405'
@@ -19370,7 +18608,6 @@
         - C00446
         - C03384
       - metanetx.chemical: MNXM336
-      - reactome.compound: '30170'
       - sabiork:
         - '1381'
         - '24789'
@@ -19408,7 +18645,6 @@
         - C00446
         - C03384
       - metanetx.chemical: MNXM336
-      - reactome.compound: '30170'
       - sabiork:
         - '1381'
         - '24789'
@@ -19446,7 +18682,6 @@
         - C00446
         - C03384
       - metanetx.chemical: MNXM336
-      - reactome.compound: '30170'
       - sabiork:
         - '1381'
         - '24789'
@@ -20029,7 +19264,6 @@
       - kegg.compound: C00329
       - kegg.drug: D04334
       - metanetx.chemical: MNXM533
-      - reactome.compound: '6786660'
       - sabiork:
         - '1591'
         - '1592'
@@ -20062,7 +19296,6 @@
       - kegg.compound: C00329
       - kegg.drug: D04334
       - metanetx.chemical: MNXM533
-      - reactome.compound: '6786660'
       - sabiork:
         - '1591'
         - '1592'
@@ -20095,7 +19328,6 @@
       - kegg.compound: C00329
       - kegg.drug: D04334
       - metanetx.chemical: MNXM533
-      - reactome.compound: '6786660'
       - sabiork:
         - '1591'
         - '1592'
@@ -20156,7 +19388,6 @@
         - HMDB06831
       - kegg.compound: C01181
       - metanetx.chemical: MNXM626
-      - reactome.compound: '31369'
       - sabiork: '5425'
       - sbo: SBO:0000247
       - seed.compound: cpd00870
@@ -20179,7 +19410,6 @@
         - HMDB06831
       - kegg.compound: C01181
       - metanetx.chemical: MNXM626
-      - reactome.compound: '31369'
       - sabiork: '5425'
       - sbo: SBO:0000247
       - seed.compound: cpd00870
@@ -20202,7 +19432,6 @@
         - HMDB06831
       - kegg.compound: C01181
       - metanetx.chemical: MNXM626
-      - reactome.compound: '31369'
       - sabiork: '5425'
       - sbo: SBO:0000247
       - seed.compound: cpd00870
@@ -20255,11 +19484,6 @@
       - kegg.compound: C00035
       - kegg.glycan: G10620
       - metanetx.chemical: MNXM30
-      - reactome.compound:
-        - '113525'
-        - '29420'
-        - '205689'
-        - '111349'
       - sabiork: '1280'
       - sbo: SBO:0000247
       - seed.compound: cpd00031
@@ -20285,11 +19509,6 @@
       - kegg.compound: C00035
       - kegg.glycan: G10620
       - metanetx.chemical: MNXM30
-      - reactome.compound:
-        - '113525'
-        - '29420'
-        - '205689'
-        - '111349'
       - sabiork: '1280'
       - sbo: SBO:0000247
       - seed.compound: cpd00031
@@ -20315,11 +19534,6 @@
       - kegg.compound: C00035
       - kegg.glycan: G10620
       - metanetx.chemical: MNXM30
-      - reactome.compound:
-        - '113525'
-        - '29420'
-        - '205689'
-        - '111349'
       - sabiork: '1280'
       - sbo: SBO:0000247
       - seed.compound: cpd00031
@@ -20340,7 +19554,6 @@
         - CHEBI:16955
       - kegg.compound: C01222
       - metanetx.chemical: MNXM516
-      - reactome.compound: '6787618'
       - sabiork: '1566'
       - sbo: SBO:0000247
       - seed.compound: cpd00900
@@ -20367,9 +19580,6 @@
       - kegg.compound: C00325
       - kegg.glycan: G10615
       - metanetx.chemical: MNXM193
-      - reactome.compound:
-        - '742368'
-        - '205683'
       - sabiork: '1562'
       - sbo: SBO:0000247
       - seed.compound:
@@ -20554,7 +19764,6 @@
         - C01991
       - lipidmaps: LMFA01050006
       - metanetx.chemical: MNXM514
-      - reactome.compound: '880041'
       - sabiork: '2203'
       - sbo: SBO:0000247
       - seed.compound:
@@ -21001,10 +20210,6 @@
         - C00303
       - kegg.drug: D00015
       - metanetx.chemical: MNXM37
-      - reactome.compound:
-        - '113522'
-        - '212615'
-        - '29472'
       - sabiork:
         - '2011'
         - '74'
@@ -21044,10 +20249,6 @@
         - C00303
       - kegg.drug: D00015
       - metanetx.chemical: MNXM37
-      - reactome.compound:
-        - '113522'
-        - '212615'
-        - '29472'
       - sabiork:
         - '2011'
         - '74'
@@ -21087,10 +20288,6 @@
         - C00303
       - kegg.drug: D00015
       - metanetx.chemical: MNXM37
-      - reactome.compound:
-        - '113522'
-        - '212615'
-        - '29472'
       - sabiork:
         - '2011'
         - '74'
@@ -21161,7 +20358,6 @@
       - hmdb: HMDB02104
       - kegg.compound: C01165
       - metanetx.chemical: MNXM245
-      - reactome.compound: '31339'
       - sabiork: '2262'
       - sbo: SBO:0000247
       - seed.compound: cpd00858
@@ -21224,11 +20420,6 @@
         - D00007
         - D04341
       - metanetx.chemical: MNXM89557
-      - reactome.compound:
-        - '428614'
-        - '29404'
-        - '113552'
-        - '210382'
       - sabiork:
         - '73'
         - '2010'
@@ -21273,11 +20464,6 @@
         - D00007
         - D04341
       - metanetx.chemical: MNXM89557
-      - reactome.compound:
-        - '428614'
-        - '29404'
-        - '113552'
-        - '210382'
       - sabiork:
         - '73'
         - '2010'
@@ -21322,11 +20508,6 @@
         - D00007
         - D04341
       - metanetx.chemical: MNXM89557
-      - reactome.compound:
-        - '428614'
-        - '29404'
-        - '113552'
-        - '210382'
       - sabiork:
         - '73'
         - '2010'
@@ -21358,7 +20539,6 @@
       - hmdb: HMDB01049
       - kegg.compound: C00669
       - metanetx.chemical: MNXM412
-      - reactome.compound: '174393'
       - sabiork: '5172'
       - sbo: SBO:0000247
       - seed.compound: cpd00506
@@ -21376,9 +20556,6 @@
         - CHEBI:6232
       - kegg.compound: C02987
       - metanetx.chemical: MNXM89752
-      - reactome.compound:
-        - '379744'
-        - '379751'
       - sabiork: '3856'
       - sbo: SBO:0000247
       - seed.compound: cpd12227
@@ -21408,9 +20585,6 @@
       - hmdb: HMDB00119
       - kegg.compound: C00048
       - metanetx.chemical: MNXM69
-      - reactome.compound:
-        - '904849'
-        - '389678'
       - sabiork: '1838'
       - sbo: SBO:0000247
       - seed.compound: cpd00040
@@ -21440,12 +20614,6 @@
       - kegg.compound: C00037
       - kegg.drug: D00011
       - metanetx.chemical: MNXM29
-      - reactome.compound:
-        - '29424'
-        - '193446'
-        - '113545'
-        - '159549'
-        - '266029'
       - sabiork: '66'
       - sbo: SBO:0000247
       - seed.compound: cpd00033
@@ -21475,12 +20643,6 @@
       - kegg.compound: C00037
       - kegg.drug: D00011
       - metanetx.chemical: MNXM29
-      - reactome.compound:
-        - '29424'
-        - '193446'
-        - '113545'
-        - '159549'
-        - '266029'
       - sabiork: '66'
       - sbo: SBO:0000247
       - seed.compound: cpd00033
@@ -21510,12 +20672,6 @@
       - kegg.compound: C00037
       - kegg.drug: D00011
       - metanetx.chemical: MNXM29
-      - reactome.compound:
-        - '29424'
-        - '193446'
-        - '113545'
-        - '159549'
-        - '266029'
       - sabiork: '66'
       - sbo: SBO:0000247
       - seed.compound: cpd00033
@@ -21536,7 +20692,6 @@
         - CHEBI:39973
       - kegg.compound: C00577
       - metanetx.chemical: MNXM435
-      - reactome.compound: '30393'
       - sabiork: '1409'
       - sbo: SBO:0000247
       - seed.compound: cpd00448
@@ -21557,7 +20712,6 @@
         - CHEBI:39973
       - kegg.compound: C00577
       - metanetx.chemical: MNXM435
-      - reactome.compound: '30393'
       - sabiork: '1409'
       - sbo: SBO:0000247
       - seed.compound: cpd00448
@@ -21578,7 +20732,6 @@
         - CHEBI:39973
       - kegg.compound: C00577
       - metanetx.chemical: MNXM435
-      - reactome.compound: '30393'
       - sabiork: '1409'
       - sbo: SBO:0000247
       - seed.compound: cpd00448
@@ -21609,9 +20762,6 @@
       - kegg.compound: C00719
       - kegg.drug: D07523
       - metanetx.chemical: MNXM289
-      - reactome.compound:
-        - '352015'
-        - '6798202'
       - sabiork: '5196'
       - sbo: SBO:0000247
       - seed.compound: cpd00540
@@ -21642,9 +20792,6 @@
       - kegg.compound: C00719
       - kegg.drug: D07523
       - metanetx.chemical: MNXM289
-      - reactome.compound:
-        - '352015'
-        - '6798202'
       - sabiork: '5196'
       - sbo: SBO:0000247
       - seed.compound: cpd00540
@@ -21675,9 +20822,6 @@
       - kegg.compound: C00719
       - kegg.drug: D07523
       - metanetx.chemical: MNXM289
-      - reactome.compound:
-        - '352015'
-        - '6798202'
       - sabiork: '5196'
       - sbo: SBO:0000247
       - seed.compound: cpd00540
@@ -21769,9 +20913,6 @@
         - HMDB00126
       - kegg.compound: C00093
       - metanetx.chemical: MNXM66
-      - reactome.compound:
-        - '188458'
-        - '76114'
       - sabiork: '1296'
       - sbo: SBO:0000247
       - seed.compound: cpd00080
@@ -21797,9 +20938,6 @@
         - HMDB00126
       - kegg.compound: C00093
       - metanetx.chemical: MNXM66
-      - reactome.compound:
-        - '188458'
-        - '76114'
       - sabiork: '1296'
       - sbo: SBO:0000247
       - seed.compound: cpd00080
@@ -21825,9 +20963,6 @@
         - HMDB00126
       - kegg.compound: C00093
       - metanetx.chemical: MNXM66
-      - reactome.compound:
-        - '188458'
-        - '76114'
       - sabiork: '1296'
       - sbo: SBO:0000247
       - seed.compound: cpd00080
@@ -21862,7 +20997,6 @@
         - HMDB00139
       - kegg.compound: C00258
       - metanetx.chemical: MNXM189
-      - reactome.compound: '6799497'
       - sabiork:
         - '3917'
         - '1999'
@@ -21899,7 +21033,6 @@
         - HMDB00139
       - kegg.compound: C00258
       - metanetx.chemical: MNXM189
-      - reactome.compound: '6799497'
       - sabiork:
         - '3917'
         - '1999'
@@ -21936,7 +21069,6 @@
         - HMDB00139
       - kegg.compound: C00258
       - metanetx.chemical: MNXM189
-      - reactome.compound: '6799497'
       - sabiork:
         - '3917'
         - '1999'
@@ -21965,9 +21097,6 @@
       - kegg.compound: C00116
       - kegg.drug: D00028
       - metanetx.chemical: MNXM89612
-      - reactome.compound:
-        - '192438'
-        - '76116'
       - sabiork: '1303'
       - sbo: SBO:0000247
       - seed.compound: cpd00100
@@ -21994,9 +21123,6 @@
       - kegg.compound: C00116
       - kegg.drug: D00028
       - metanetx.chemical: MNXM89612
-      - reactome.compound:
-        - '192438'
-        - '76116'
       - sabiork: '1303'
       - sbo: SBO:0000247
       - seed.compound: cpd00100
@@ -22023,9 +21149,6 @@
       - kegg.compound: C00116
       - kegg.drug: D00028
       - metanetx.chemical: MNXM89612
-      - reactome.compound:
-        - '192438'
-        - '76116'
       - sabiork: '1303'
       - sbo: SBO:0000247
       - seed.compound: cpd00100
@@ -22056,7 +21179,6 @@
         - HMDB00115
       - kegg.compound: C00160
       - metanetx.chemical: MNXM222
-      - reactome.compound: '389822'
       - sabiork: '1953'
       - sbo: SBO:0000247
       - seed.compound:
@@ -22089,7 +21211,6 @@
         - HMDB00115
       - kegg.compound: C00160
       - metanetx.chemical: MNXM222
-      - reactome.compound: '389822'
       - sabiork: '1953'
       - sbo: SBO:0000247
       - seed.compound:
@@ -22122,7 +21243,6 @@
         - HMDB00115
       - kegg.compound: C00160
       - metanetx.chemical: MNXM222
-      - reactome.compound: '389822'
       - sabiork: '1953'
       - sbo: SBO:0000247
       - seed.compound:
@@ -22348,7 +21468,6 @@
       - hmdb: HMDB01340
       - kegg.compound: C01261
       - metanetx.chemical: MNXM1582
-      - reactome.compound: '5696199'
       - sabiork: '1708'
       - sbo: SBO:0000247
       - seed.compound: cpd00925
@@ -22376,7 +21495,6 @@
       - kegg.compound: C00341
       - lipidmaps: LMPR0102010001
       - metanetx.chemical: MNXM100
-      - reactome.compound: '191409'
       - sabiork:
         - '5050'
         - '1846'
@@ -22509,10 +21627,6 @@
       - kegg.compound: C00127
       - kegg.drug: D00031
       - metanetx.chemical: MNXM151
-      - reactome.compound:
-        - '1655882'
-        - '111745'
-        - '3341331'
       - sabiork: '1939'
       - sbo: SBO:0000247
       - seed.compound: cpd00111
@@ -22537,10 +21651,6 @@
       - kegg.compound: C00127
       - kegg.drug: D00031
       - metanetx.chemical: MNXM151
-      - reactome.compound:
-        - '1655882'
-        - '111745'
-        - '3341331'
       - sabiork: '1939'
       - sbo: SBO:0000247
       - seed.compound: cpd00111
@@ -22565,10 +21675,6 @@
       - kegg.compound: C00127
       - kegg.drug: D00031
       - metanetx.chemical: MNXM151
-      - reactome.compound:
-        - '1655882'
-        - '111745'
-        - '3341331'
       - sabiork: '1939'
       - sbo: SBO:0000247
       - seed.compound: cpd00111
@@ -22598,12 +21704,6 @@
       - kegg.compound: C00051
       - kegg.drug: D00014
       - metanetx.chemical: MNXM57
-      - reactome.compound:
-        - '1247892'
-        - '1500783'
-        - '1655887'
-        - '29450'
-        - '158543'
       - sabiork: '1926'
       - sbo: SBO:0000247
       - seed.compound: cpd00042
@@ -22633,12 +21733,6 @@
       - kegg.compound: C00051
       - kegg.drug: D00014
       - metanetx.chemical: MNXM57
-      - reactome.compound:
-        - '1247892'
-        - '1500783'
-        - '1655887'
-        - '29450'
-        - '158543'
       - sabiork: '1926'
       - sbo: SBO:0000247
       - seed.compound: cpd00042
@@ -22668,12 +21762,6 @@
       - kegg.compound: C00051
       - kegg.drug: D00014
       - metanetx.chemical: MNXM57
-      - reactome.compound:
-        - '1247892'
-        - '1500783'
-        - '1655887'
-        - '29450'
-        - '158543'
       - sabiork: '1926'
       - sbo: SBO:0000247
       - seed.compound: cpd00042
@@ -22697,9 +21785,6 @@
       - hmdb: HMDB01273
       - kegg.compound: C00044
       - metanetx.chemical: MNXM51
-      - reactome.compound:
-        - '113573'
-        - '29438'
       - sabiork: '1282'
       - sbo: SBO:0000247
       - seed.compound: cpd00038
@@ -22723,9 +21808,6 @@
       - hmdb: HMDB01273
       - kegg.compound: C00044
       - metanetx.chemical: MNXM51
-      - reactome.compound:
-        - '113573'
-        - '29438'
       - sabiork: '1282'
       - sbo: SBO:0000247
       - seed.compound: cpd00038
@@ -22749,9 +21831,6 @@
       - hmdb: HMDB01273
       - kegg.compound: C00044
       - metanetx.chemical: MNXM51
-      - reactome.compound:
-        - '113573'
-        - '29438'
       - sabiork: '1282'
       - sbo: SBO:0000247
       - seed.compound: cpd00038
@@ -22798,7 +21877,6 @@
       - hmdb: HMDB00132
       - kegg.compound: C00242
       - metanetx.chemical: MNXM259
-      - reactome.compound: '83956'
       - sabiork: '59'
       - sbo: SBO:0000247
       - seed.compound: cpd00207
@@ -22823,7 +21901,6 @@
       - hmdb: HMDB00132
       - kegg.compound: C00242
       - metanetx.chemical: MNXM259
-      - reactome.compound: '83956'
       - sabiork: '59'
       - sbo: SBO:0000247
       - seed.compound: cpd00207
@@ -22848,7 +21925,6 @@
       - hmdb: HMDB00132
       - kegg.compound: C00242
       - metanetx.chemical: MNXM259
-      - reactome.compound: '83956'
       - sabiork: '59'
       - sbo: SBO:0000247
       - seed.compound: cpd00207
@@ -22872,7 +21948,6 @@
       - hmdb: HMDB01362
       - kegg.compound: C00282
       - metanetx.chemical: MNXM195
-      - reactome.compound: '113555'
       - sabiork: '5030'
       - sbo: SBO:0000247
       - seed.compound: cpd11640
@@ -22896,7 +21971,6 @@
       - hmdb: HMDB01362
       - kegg.compound: C00282
       - metanetx.chemical: MNXM195
-      - reactome.compound: '113555'
       - sabiork: '5030'
       - sbo: SBO:0000247
       - seed.compound: cpd11640
@@ -22920,7 +21994,6 @@
       - hmdb: HMDB01362
       - kegg.compound: C00282
       - metanetx.chemical: MNXM195
-      - reactome.compound: '113555'
       - sabiork: '5030'
       - sbo: SBO:0000247
       - seed.compound: cpd11640
@@ -22972,12 +22045,6 @@
       - kegg.compound: C00027
       - kegg.drug: D00008
       - metanetx.chemical: MNXM22
-      - reactome.compound:
-        - '1614617'
-        - '29408'
-        - '351629'
-        - '189481'
-        - '113575'
       - sabiork: '1909'
       - sbo: SBO:0000247
       - seed.compound: cpd00025
@@ -23008,12 +22075,6 @@
       - kegg.compound: C00027
       - kegg.drug: D00008
       - metanetx.chemical: MNXM22
-      - reactome.compound:
-        - '1614617'
-        - '29408'
-        - '351629'
-        - '189481'
-        - '113575'
       - sabiork: '1909'
       - sbo: SBO:0000247
       - seed.compound: cpd00025
@@ -23044,12 +22105,6 @@
       - kegg.compound: C00027
       - kegg.drug: D00008
       - metanetx.chemical: MNXM22
-      - reactome.compound:
-        - '1614617'
-        - '29408'
-        - '351629'
-        - '189481'
-        - '113575'
       - sabiork: '1909'
       - sbo: SBO:0000247
       - seed.compound: cpd00025
@@ -23102,21 +22157,6 @@
         - D00001
         - D06322
       - metanetx.chemical: MNXM2
-      - reactome.compound:
-        - '113521'
-        - '141343'
-        - '2022884'
-        - '5278291'
-        - '29356'
-        - '189422'
-        - '5668574'
-        - '5693747'
-        - '109276'
-        - '113519'
-        - '1605715'
-        - '8851517'
-        - '113518'
-        - '351603'
       - sabiork: '40'
       - sbo: SBO:0000247
       - seed.compound:
@@ -23172,21 +22212,6 @@
         - D00001
         - D06322
       - metanetx.chemical: MNXM2
-      - reactome.compound:
-        - '113521'
-        - '141343'
-        - '2022884'
-        - '5278291'
-        - '29356'
-        - '189422'
-        - '5668574'
-        - '5693747'
-        - '109276'
-        - '113519'
-        - '1605715'
-        - '8851517'
-        - '113518'
-        - '351603'
       - sabiork: '40'
       - sbo: SBO:0000247
       - seed.compound:
@@ -23242,21 +22267,6 @@
         - D00001
         - D06322
       - metanetx.chemical: MNXM2
-      - reactome.compound:
-        - '113521'
-        - '141343'
-        - '2022884'
-        - '5278291'
-        - '29356'
-        - '189422'
-        - '5668574'
-        - '5693747'
-        - '109276'
-        - '113519'
-        - '1605715'
-        - '8851517'
-        - '113518'
-        - '351603'
       - sabiork: '40'
       - sbo: SBO:0000247
       - seed.compound:
@@ -23296,10 +22306,6 @@
         - HMDB03276
       - kegg.compound: C00283
       - metanetx.chemical: MNXM89582
-      - reactome.compound:
-        - '1663154'
-        - '1614532'
-        - '1655881'
       - sabiork: '2007'
       - sbo: SBO:0000247
       - seed.compound:
@@ -23338,10 +22344,6 @@
         - HMDB03276
       - kegg.compound: C00283
       - metanetx.chemical: MNXM89582
-      - reactome.compound:
-        - '1663154'
-        - '1614532'
-        - '1655881'
       - sabiork: '2007'
       - sbo: SBO:0000247
       - seed.compound:
@@ -23380,10 +22382,6 @@
         - HMDB03276
       - kegg.compound: C00283
       - metanetx.chemical: MNXM89582
-      - reactome.compound:
-        - '1663154'
-        - '1614532'
-        - '1655881'
       - sabiork: '2007'
       - sbo: SBO:0000247
       - seed.compound:
@@ -23406,28 +22404,6 @@
       - hmdb: HMDB59597
       - kegg.compound: C00080
       - metanetx.chemical: MNXM1
-      - reactome.compound:
-        - '2000349'
-        - '425978'
-        - '74722'
-        - '428040'
-        - '427899'
-        - '428548'
-        - '156540'
-        - '70106'
-        - '425969'
-        - '1132304'
-        - '5668577'
-        - '1470067'
-        - '163953'
-        - '193465'
-        - '113529'
-        - '351626'
-        - '425999'
-        - '194688'
-        - '374900'
-        - '2872447'
-        - '372511'
       - sabiork: '39'
       - sbo: SBO:0000247
       - seed.compound: cpd00067
@@ -23448,28 +22424,6 @@
       - hmdb: HMDB59597
       - kegg.compound: C00080
       - metanetx.chemical: MNXM1
-      - reactome.compound:
-        - '2000349'
-        - '425978'
-        - '74722'
-        - '428040'
-        - '427899'
-        - '428548'
-        - '156540'
-        - '70106'
-        - '425969'
-        - '1132304'
-        - '5668577'
-        - '1470067'
-        - '163953'
-        - '193465'
-        - '113529'
-        - '351626'
-        - '425999'
-        - '194688'
-        - '374900'
-        - '2872447'
-        - '372511'
       - sabiork: '39'
       - sbo: SBO:0000247
       - seed.compound: cpd00067
@@ -23490,28 +22444,6 @@
       - hmdb: HMDB59597
       - kegg.compound: C00080
       - metanetx.chemical: MNXM1
-      - reactome.compound:
-        - '2000349'
-        - '425978'
-        - '74722'
-        - '428040'
-        - '427899'
-        - '428548'
-        - '156540'
-        - '70106'
-        - '425969'
-        - '1132304'
-        - '5668577'
-        - '1470067'
-        - '163953'
-        - '193465'
-        - '113529'
-        - '351626'
-        - '425999'
-        - '194688'
-        - '374900'
-        - '2872447'
-        - '372511'
       - sabiork: '39'
       - sbo: SBO:0000247
       - seed.compound: cpd00067
@@ -23573,10 +22505,6 @@
         - C01353
         - C00288
       - metanetx.chemical: MNXM60
-      - reactome.compound:
-        - '29896'
-        - '425425'
-        - '111627'
       - sabiork:
         - '1916'
         - '2275'
@@ -23611,7 +22539,6 @@
         - C05330
         - C00155
       - metanetx.chemical: MNXM123
-      - reactome.compound: '174369'
       - sabiork:
         - '1950'
         - '2768'
@@ -23652,13 +22579,6 @@
         - LMFA01010046
         - LMFA01010001
       - metanetx.chemical: MNXM108
-      - reactome.compound:
-        - '2453691'
-        - '3632881'
-        - '76168'
-        - '5690516'
-        - '390435'
-        - '426576'
       - sabiork: '1990'
       - sbo: SBO:0000247
       - seed.compound: cpd00214
@@ -23696,13 +22616,6 @@
         - LMFA01010046
         - LMFA01010001
       - metanetx.chemical: MNXM108
-      - reactome.compound:
-        - '2453691'
-        - '3632881'
-        - '76168'
-        - '5690516'
-        - '390435'
-        - '426576'
       - sabiork: '1990'
       - sbo: SBO:0000247
       - seed.compound: cpd00214
@@ -23740,13 +22653,6 @@
         - LMFA01010046
         - LMFA01010001
       - metanetx.chemical: MNXM108
-      - reactome.compound:
-        - '2453691'
-        - '3632881'
-        - '76168'
-        - '5690516'
-        - '390435'
-        - '426576'
       - sabiork: '1990'
       - sbo: SBO:0000247
       - seed.compound: cpd00214
@@ -23834,7 +22740,6 @@
         - LMFA07050020
         - LMFA07050144
       - metanetx.chemical: MNXM581
-      - reactome.compound: '77284'
       - sabiork: '2749'
       - sbo: SBO:0000247
       - seed.compound: cpd03126
@@ -23868,7 +22773,6 @@
       - hmdb: HMDB01162
       - kegg.compound: C15672
       - metanetx.chemical: MNXM1278
-      - reactome.compound: '2995328'
       - sbo: SBO:0000247
       - seed.compound: cpd11313
   - !!omap
@@ -24017,9 +22921,6 @@
         - C00135
       - kegg.drug: D00032
       - metanetx.chemical: MNXM134
-      - reactome.compound:
-        - '379695'
-        - '29612'
       - sabiork:
         - '2151'
         - '81'
@@ -24066,9 +22967,6 @@
         - C00135
       - kegg.drug: D00032
       - metanetx.chemical: MNXM134
-      - reactome.compound:
-        - '379695'
-        - '29612'
       - sabiork:
         - '2151'
         - '81'
@@ -24115,9 +23013,6 @@
         - C00135
       - kegg.drug: D00032
       - metanetx.chemical: MNXM134
-      - reactome.compound:
-        - '379695'
-        - '29612'
       - sabiork:
         - '2151'
         - '81'
@@ -24243,7 +23138,6 @@
       - hmdb: HMDB01137
       - kegg.compound: C01024
       - metanetx.chemical: MNXM547
-      - reactome.compound: '189449'
       - sabiork: '5362'
       - sbo: SBO:0000247
       - seed.compound: cpd00755
@@ -24267,7 +23161,6 @@
       - hmdb: HMDB04662
       - kegg.compound: C14180
       - metanetx.chemical: MNXM1051
-      - reactome.compound: '5692221'
       - sabiork: '20730'
       - sbo: SBO:0000247
       - seed.compound:
@@ -24436,7 +23329,6 @@
         - LMFA07050393
         - LMFA07050019
       - metanetx.chemical: MNXM753
-      - reactome.compound: '77324'
       - sabiork: '2748'
       - sbo: SBO:0000247
       - seed.compound: cpd03125
@@ -24546,7 +23438,6 @@
       - hmdb: HMDB00157
       - kegg.compound: C00262
       - metanetx.chemical: MNXM213
-      - reactome.compound: '113599'
       - sabiork:
         - '5528'
         - '1321'
@@ -24570,7 +23461,6 @@
       - hmdb: HMDB00157
       - kegg.compound: C00262
       - metanetx.chemical: MNXM213
-      - reactome.compound: '113599'
       - sabiork:
         - '5528'
         - '1321'
@@ -24594,7 +23484,6 @@
       - hmdb: HMDB00157
       - kegg.compound: C00262
       - metanetx.chemical: MNXM213
-      - reactome.compound: '113599'
       - sabiork:
         - '5528'
         - '1321'
@@ -24771,7 +23660,6 @@
       - hmdb: HMDB03335
       - kegg.compound: C00104
       - metanetx.chemical: MNXM495
-      - reactome.compound: '2509811'
       - sabiork: '1299'
       - sbo: SBO:0000247
       - seed.compound: cpd00090
@@ -24803,9 +23691,6 @@
       - kegg.drug: D00065
       - lipidmaps: LMFA01100047
       - metanetx.chemical: MNXM231
-      - reactome.compound:
-        - '30102'
-        - '113537'
       - sabiork:
         - '70'
         - '23116'
@@ -24839,9 +23724,6 @@
       - kegg.drug: D00065
       - lipidmaps: LMFA01100047
       - metanetx.chemical: MNXM231
-      - reactome.compound:
-        - '30102'
-        - '113537'
       - sabiork:
         - '70'
         - '23116'
@@ -24875,9 +23757,6 @@
       - kegg.drug: D00065
       - lipidmaps: LMFA01100047
       - metanetx.chemical: MNXM231
-      - reactome.compound:
-        - '30102'
-        - '113537'
       - sabiork:
         - '70'
         - '23116'
@@ -24933,9 +23812,6 @@
       - hmdb: HMDB00175
       - kegg.compound: C00130
       - metanetx.chemical: MNXM125
-      - reactome.compound:
-        - '2509792'
-        - '29602'
       - sabiork: '1306'
       - sbo: SBO:0000247
       - seed.compound: cpd00114
@@ -24968,9 +23844,6 @@
       - hmdb: HMDB00175
       - kegg.compound: C00130
       - metanetx.chemical: MNXM125
-      - reactome.compound:
-        - '2509792'
-        - '29602'
       - sabiork: '1306'
       - sbo: SBO:0000247
       - seed.compound: cpd00114
@@ -25003,9 +23876,6 @@
       - hmdb: HMDB00175
       - kegg.compound: C00130
       - metanetx.chemical: MNXM125
-      - reactome.compound:
-        - '2509792'
-        - '29602'
       - sabiork: '1306'
       - sbo: SBO:0000247
       - seed.compound: cpd00114
@@ -25029,7 +23899,6 @@
       - hmdb: HMDB00738
       - kegg.compound: C00463
       - metanetx.chemical: MNXM377
-      - reactome.compound: '216547'
       - sabiork: '5101'
       - sbo: SBO:0000247
       - seed.compound: cpd00359
@@ -25053,7 +23922,6 @@
       - hmdb: HMDB00738
       - kegg.compound: C00463
       - metanetx.chemical: MNXM377
-      - reactome.compound: '216547'
       - sabiork: '5101'
       - sbo: SBO:0000247
       - seed.compound: cpd00359
@@ -25077,7 +23945,6 @@
       - hmdb: HMDB00738
       - kegg.compound: C00463
       - metanetx.chemical: MNXM377
-      - reactome.compound: '216547'
       - sabiork: '5101'
       - sbo: SBO:0000247
       - seed.compound: cpd00359
@@ -25113,9 +23980,6 @@
         - C19891
       - kegg.drug: D08079
       - metanetx.chemical: MNXM127
-      - reactome.compound:
-        - '426910'
-        - '429130'
       - sabiork:
         - '5010'
         - '25454'
@@ -25155,9 +24019,6 @@
         - C19891
       - kegg.drug: D08079
       - metanetx.chemical: MNXM127
-      - reactome.compound:
-        - '426910'
-        - '429130'
       - sabiork:
         - '5010'
         - '25454'
@@ -25197,9 +24058,6 @@
         - C19891
       - kegg.drug: D08079
       - metanetx.chemical: MNXM127
-      - reactome.compound:
-        - '426910'
-        - '429130'
       - sabiork:
         - '5010'
         - '25454'
@@ -25226,9 +24084,6 @@
       - kegg.compound: C00294
       - kegg.drug: D00054
       - metanetx.chemical: MNXM334
-      - reactome.compound:
-        - '83927'
-        - '83921'
       - sabiork: '1868'
       - sbo: SBO:0000247
       - seed.compound: cpd00246
@@ -25251,9 +24106,6 @@
       - kegg.compound: C00294
       - kegg.drug: D00054
       - metanetx.chemical: MNXM334
-      - reactome.compound:
-        - '83927'
-        - '83921'
       - sabiork: '1868'
       - sbo: SBO:0000247
       - seed.compound: cpd00246
@@ -25276,9 +24128,6 @@
       - kegg.compound: C00294
       - kegg.drug: D00054
       - metanetx.chemical: MNXM334
-      - reactome.compound:
-        - '83927'
-        - '83921'
       - sabiork: '1868'
       - sbo: SBO:0000247
       - seed.compound: cpd00246
@@ -25303,9 +24152,6 @@
       - kegg.compound: C00129
       - lipidmaps: LMPR01010008
       - metanetx.chemical: MNXM83
-      - reactome.compound:
-        - '191362'
-        - '2162256'
       - sabiork: '5009'
       - sbo: SBO:0000247
       - seed.compound: cpd00113
@@ -25449,7 +24295,6 @@
       - hmdb: HMDB00189
       - kegg.compound: C00081
       - metanetx.chemical: MNXM423
-      - reactome.compound: '2509836'
       - sabiork: '1291'
       - sbo: SBO:0000247
       - seed.compound: cpd00068
@@ -25471,10 +24316,6 @@
       - kegg.compound: C00238
       - kegg.drug: D08403
       - metanetx.chemical: MNXM95
-      - reactome.compound:
-        - '74126'
-        - '5626313'
-        - '29804'
       - sabiork: '21'
       - sbo: SBO:0000247
       - seed.compound: cpd00205
@@ -25496,10 +24337,6 @@
       - kegg.compound: C00238
       - kegg.drug: D08403
       - metanetx.chemical: MNXM95
-      - reactome.compound:
-        - '74126'
-        - '5626313'
-        - '29804'
       - sabiork: '21'
       - sbo: SBO:0000247
       - seed.compound: cpd00205
@@ -25521,10 +24358,6 @@
       - kegg.compound: C00238
       - kegg.drug: D08403
       - metanetx.chemical: MNXM95
-      - reactome.compound:
-        - '74126'
-        - '5626313'
-        - '29804'
       - sabiork: '21'
       - sbo: SBO:0000247
       - seed.compound: cpd00205
@@ -25791,10 +24624,6 @@
         - HMDB03328
       - kegg.compound: C00186
       - metanetx.chemical: MNXM179
-      - reactome.compound:
-        - '373863'
-        - '29708'
-        - '6807616'
       - sabiork: '1312'
       - sbo: SBO:0000247
       - seed.compound: cpd00159
@@ -25819,10 +24648,6 @@
         - HMDB03328
       - kegg.compound: C00186
       - metanetx.chemical: MNXM179
-      - reactome.compound:
-        - '373863'
-        - '29708'
-        - '6807616'
       - sabiork: '1312'
       - sbo: SBO:0000247
       - seed.compound: cpd00159
@@ -25847,10 +24672,6 @@
         - HMDB03328
       - kegg.compound: C00186
       - metanetx.chemical: MNXM179
-      - reactome.compound:
-        - '373863'
-        - '29708'
-        - '6807616'
       - sabiork: '1312'
       - sbo: SBO:0000247
       - seed.compound: cpd00159
@@ -26076,10 +24897,6 @@
       - kegg.drug: D00030
       - lipidmaps: LMFA01100048
       - metanetx.chemical: MNXM140
-      - reactome.compound:
-        - '29588'
-        - '113580'
-        - '351964'
       - sabiork:
         - '21059'
         - '69'
@@ -26121,10 +24938,6 @@
       - kegg.drug: D00030
       - lipidmaps: LMFA01100048
       - metanetx.chemical: MNXM140
-      - reactome.compound:
-        - '29588'
-        - '113580'
-        - '351964'
       - sabiork:
         - '21059'
         - '69'
@@ -26166,10 +24979,6 @@
       - kegg.drug: D00030
       - lipidmaps: LMFA01100048
       - metanetx.chemical: MNXM140
-      - reactome.compound:
-        - '29588'
-        - '113580'
-        - '351964'
       - sabiork:
         - '21059'
         - '69'
@@ -26197,7 +25006,6 @@
         - HMDB62624
       - kegg.compound: C03451
       - metanetx.chemical: MNXM1253
-      - reactome.compound: '5694130'
       - sabiork:
         - '24624'
         - '3008'
@@ -26558,10 +25366,6 @@
         - C16440
       - kegg.drug: D02304
       - metanetx.chemical: MNXM78
-      - reactome.compound:
-        - '29444'
-        - '351979'
-        - '351991'
       - sabiork:
         - '22945'
         - '79'
@@ -26601,10 +25405,6 @@
         - C16440
       - kegg.drug: D02304
       - metanetx.chemical: MNXM78
-      - reactome.compound:
-        - '29444'
-        - '351979'
-        - '351991'
       - sabiork:
         - '22945'
         - '79'
@@ -26644,10 +25444,6 @@
         - C16440
       - kegg.drug: D02304
       - metanetx.chemical: MNXM78
-      - reactome.compound:
-        - '29444'
-        - '351979'
-        - '351991'
       - sabiork:
         - '22945'
         - '79'
@@ -26807,9 +25603,6 @@
       - hmdb: HMDB00156
       - kegg.compound: C00149
       - metanetx.chemical: MNXM98
-      - reactome.compound:
-        - '198498'
-        - '113544'
       - sabiork: '1918'
       - sbo: SBO:0000247
       - seed.compound: cpd00130
@@ -26833,9 +25626,6 @@
       - hmdb: HMDB00156
       - kegg.compound: C00149
       - metanetx.chemical: MNXM98
-      - reactome.compound:
-        - '198498'
-        - '113544'
       - sabiork: '1918'
       - sbo: SBO:0000247
       - seed.compound: cpd00130
@@ -26859,9 +25649,6 @@
       - hmdb: HMDB00156
       - kegg.compound: C00149
       - metanetx.chemical: MNXM98
-      - reactome.compound:
-        - '198498'
-        - '113544'
       - sabiork: '1918'
       - sbo: SBO:0000247
       - seed.compound: cpd00130
@@ -26887,10 +25674,6 @@
         - LMFA07050345
         - LMFA07050031
       - metanetx.chemical: MNXM40
-      - reactome.compound:
-        - '977323'
-        - '2046066'
-        - '29508'
       - sabiork: '1930'
       - sbo: SBO:0000247
       - seed.compound:
@@ -26967,9 +25750,6 @@
       - kegg.drug: D00044
       - kegg.glycan: G00275
       - metanetx.chemical: MNXM165
-      - reactome.compound:
-        - '188986'
-        - '868706'
       - sabiork:
         - '5881'
         - '88'
@@ -27007,9 +25787,6 @@
       - kegg.drug: D00044
       - kegg.glycan: G00275
       - metanetx.chemical: MNXM165
-      - reactome.compound:
-        - '188986'
-        - '868706'
       - sabiork:
         - '5881'
         - '88'
@@ -27047,9 +25824,6 @@
       - kegg.drug: D00044
       - kegg.glycan: G00275
       - metanetx.chemical: MNXM165
-      - reactome.compound:
-        - '188986'
-        - '868706'
       - sabiork:
         - '5881'
         - '88'
@@ -27211,7 +25985,6 @@
       - hmdb: HMDB01262
       - kegg.compound: C01835
       - metanetx.chemical: MNXM468
-      - reactome.compound: '191103'
       - sabiork: '5832'
       - sbo: SBO:0000247
       - seed.compound: cpd01262
@@ -27235,7 +26008,6 @@
       - hmdb: HMDB01262
       - kegg.compound: C01835
       - metanetx.chemical: MNXM468
-      - reactome.compound: '191103'
       - sabiork: '5832'
       - sbo: SBO:0000247
       - seed.compound: cpd01262
@@ -27259,7 +26031,6 @@
       - hmdb: HMDB01262
       - kegg.compound: C01835
       - metanetx.chemical: MNXM468
-      - reactome.compound: '191103'
       - sabiork: '5832'
       - sbo: SBO:0000247
       - seed.compound: cpd01262
@@ -27383,7 +26154,6 @@
         - HMDB06330
       - kegg.compound: C00636
       - metanetx.chemical: MNXM721
-      - reactome.compound: '532531'
       - sabiork: '1342'
       - sbo: SBO:0000247
       - seed.compound: cpd00485
@@ -27408,7 +26178,6 @@
         - CHEBI:17369
       - kegg.compound: C00275
       - metanetx.chemical: MNXM427
-      - reactome.compound: '532562'
       - sabiork:
         - '1323'
         - '24709'
@@ -27435,7 +26204,6 @@
         - CHEBI:17369
       - kegg.compound: C00275
       - metanetx.chemical: MNXM427
-      - reactome.compound: '532562'
       - sabiork:
         - '1323'
         - '24709'
@@ -27462,7 +26230,6 @@
         - CHEBI:17369
       - kegg.compound: C00275
       - metanetx.chemical: MNXM427
-      - reactome.compound: '532562'
       - sabiork:
         - '1323'
         - '24709'
@@ -27509,10 +26276,6 @@
       - hmdb: HMDB00169
       - kegg.compound: C00159
       - metanetx.chemical: MNXM182
-      - reactome.compound:
-        - '964752'
-        - '6799594'
-        - '429579'
       - sabiork: '1656'
       - sbo: SBO:0000247
       - seed.compound:
@@ -27540,10 +26303,6 @@
       - hmdb: HMDB00169
       - kegg.compound: C00159
       - metanetx.chemical: MNXM182
-      - reactome.compound:
-        - '964752'
-        - '6799594'
-        - '429579'
       - sabiork: '1656'
       - sbo: SBO:0000247
       - seed.compound:
@@ -27571,10 +26330,6 @@
       - hmdb: HMDB00169
       - kegg.compound: C00159
       - metanetx.chemical: MNXM182
-      - reactome.compound:
-        - '964752'
-        - '6799594'
-        - '429579'
       - sabiork: '1656'
       - sbo: SBO:0000247
       - seed.compound:
@@ -27727,9 +26482,6 @@
       - kegg.compound: C00132
       - kegg.drug: D02309
       - metanetx.chemical: MNXM157
-      - reactome.compound:
-        - '5693711'
-        - '5359061'
       - sabiork: '55'
       - sbo: SBO:0000247
       - seed.compound: cpd00116
@@ -27759,9 +26511,6 @@
       - kegg.compound: C00132
       - kegg.drug: D02309
       - metanetx.chemical: MNXM157
-      - reactome.compound:
-        - '5693711'
-        - '5359061'
       - sabiork: '55'
       - sbo: SBO:0000247
       - seed.compound: cpd00116
@@ -27791,9 +26540,6 @@
       - kegg.compound: C00132
       - kegg.drug: D02309
       - metanetx.chemical: MNXM157
-      - reactome.compound:
-        - '5693711'
-        - '5359061'
       - sabiork: '55'
       - sbo: SBO:0000247
       - seed.compound: cpd00116
@@ -27965,10 +26711,6 @@
         - D04983
         - D00019
       - metanetx.chemical: MNXM61
-      - reactome.compound:
-        - '379705'
-        - '1130765'
-        - '174390'
       - sabiork:
         - '77'
         - '2315'
@@ -28014,10 +26756,6 @@
         - D04983
         - D00019
       - metanetx.chemical: MNXM61
-      - reactome.compound:
-        - '379705'
-        - '1130765'
-        - '174390'
       - sabiork:
         - '77'
         - '2315'
@@ -28063,10 +26801,6 @@
         - D04983
         - D00019
       - metanetx.chemical: MNXM61
-      - reactome.compound:
-        - '379705'
-        - '1130765'
-        - '174390'
       - sabiork:
         - '77'
         - '2315'
@@ -28121,7 +26855,6 @@
         - HMDB62623
       - kegg.compound: C00445
       - metanetx.chemical: MNXM511
-      - reactome.compound: '6801458'
       - sabiork: '1338'
       - sbo: SBO:0000247
       - seed.compound: cpd00347
@@ -28195,7 +26928,6 @@
         - CHEBI:21361
       - kegg.compound: C02989
       - metanetx.chemical: MNXM2246
-      - reactome.compound: '5676943'
       - sabiork: '2611'
       - sbo: SBO:0000247
       - seed.compound:
@@ -28218,7 +26950,6 @@
         - CHEBI:21361
       - kegg.compound: C02989
       - metanetx.chemical: MNXM2246
-      - reactome.compound: '5676943'
       - sabiork: '2611'
       - sbo: SBO:0000247
       - seed.compound:
@@ -28241,7 +26972,6 @@
         - CHEBI:21361
       - kegg.compound: C02989
       - metanetx.chemical: MNXM2246
-      - reactome.compound: '5676943'
       - sabiork: '2611'
       - sbo: SBO:0000247
       - seed.compound:
@@ -28267,11 +26997,6 @@
       - hmdb: HMDB00547
       - kegg.compound: C00305
       - metanetx.chemical: MNXM653
-      - reactome.compound:
-        - '29926'
-        - '114632'
-        - '5336432'
-        - '109496'
       - sabiork: '1327'
       - sbo: SBO:0000247
       - seed.compound: cpd00254
@@ -28294,11 +27019,6 @@
       - hmdb: HMDB00547
       - kegg.compound: C00305
       - metanetx.chemical: MNXM653
-      - reactome.compound:
-        - '29926'
-        - '114632'
-        - '5336432'
-        - '109496'
       - sabiork: '1327'
       - sbo: SBO:0000247
       - seed.compound: cpd00254
@@ -28321,11 +27041,6 @@
       - hmdb: HMDB00547
       - kegg.compound: C00305
       - metanetx.chemical: MNXM653
-      - reactome.compound:
-        - '29926'
-        - '114632'
-        - '5336432'
-        - '109496'
       - sabiork: '1327'
       - sbo: SBO:0000247
       - seed.compound: cpd00254
@@ -28350,7 +27065,6 @@
         - CHEBI:12828
       - kegg.compound: C01177
       - metanetx.chemical: MNXM646
-      - reactome.compound: '870330'
       - sabiork: '5422'
       - sbo: SBO:0000247
       - seed.compound: cpd00867
@@ -28441,10 +27155,6 @@
         - HMDB60271
       - kegg.compound: C01204
       - metanetx.chemical: MNXM491
-      - reactome.compound:
-        - '2024018'
-        - '1629770'
-        - '2023929'
       - sabiork: '5443'
       - sbo: SBO:0000247
       - seed.compound: cpd00885
@@ -28470,10 +27180,6 @@
         - HMDB60271
       - kegg.compound: C01204
       - metanetx.chemical: MNXM491
-      - reactome.compound:
-        - '2024018'
-        - '1629770'
-        - '2023929'
       - sabiork: '5443'
       - sbo: SBO:0000247
       - seed.compound: cpd00885
@@ -28515,7 +27221,6 @@
       - kegg.compound: C00683
       - lipidmaps: LMFA07050164
       - metanetx.chemical: MNXM89955
-      - reactome.compound: '71019'
       - sabiork: '5180'
       - sbo: SBO:0000247
       - seed.compound:
@@ -28539,7 +27244,6 @@
         - CHEBI:8965
       - kegg.compound: C03172
       - metanetx.chemical: MNXM1119
-      - reactome.compound: '4789070'
       - sabiork: '2689'
       - sbo: SBO:0000247
       - seed.compound: cpd02027
@@ -28561,7 +27265,6 @@
         - CHEBI:8965
       - kegg.compound: C03172
       - metanetx.chemical: MNXM1119
-      - reactome.compound: '4789070'
       - sabiork: '2689'
       - sbo: SBO:0000247
       - seed.compound: cpd02027
@@ -28583,7 +27286,6 @@
         - CHEBI:8965
       - kegg.compound: C03172
       - metanetx.chemical: MNXM1119
-      - reactome.compound: '4789070'
       - sabiork: '2689'
       - sbo: SBO:0000247
       - seed.compound: cpd02027
@@ -28604,9 +27306,6 @@
       - hmdb: HMDB01333
       - kegg.compound: C19610
       - metanetx.chemical: MNXM2255
-      - reactome.compound:
-        - '29418'
-        - '1981162'
       - sabiork: '1279'
       - sbo: SBO:0000247
       - seed.compound:
@@ -28629,9 +27328,6 @@
       - hmdb: HMDB01333
       - kegg.compound: C19610
       - metanetx.chemical: MNXM2255
-      - reactome.compound:
-        - '29418'
-        - '1981162'
       - sabiork: '1279'
       - sbo: SBO:0000247
       - seed.compound:
@@ -28654,9 +27350,6 @@
       - hmdb: HMDB01333
       - kegg.compound: C19610
       - metanetx.chemical: MNXM2255
-      - reactome.compound:
-        - '29418'
-        - '1981162'
       - sabiork: '1279'
       - sbo: SBO:0000247
       - seed.compound:
@@ -28795,7 +27488,6 @@
       - hmdb: HMDB12260
       - kegg.compound: C06232
       - metanetx.chemical: MNXM1026
-      - reactome.compound: '947561'
       - sabiork: '8470'
       - sbo: SBO:0000247
       - seed.compound: cpd11574
@@ -28817,7 +27509,6 @@
       - hmdb: HMDB12260
       - kegg.compound: C06232
       - metanetx.chemical: MNXM1026
-      - reactome.compound: '947561'
       - sabiork: '8470'
       - sbo: SBO:0000247
       - seed.compound: cpd11574
@@ -28839,7 +27530,6 @@
       - hmdb: HMDB12260
       - kegg.compound: C06232
       - metanetx.chemical: MNXM1026
-      - reactome.compound: '947561'
       - sabiork: '8470'
       - sbo: SBO:0000247
       - seed.compound: cpd11574
@@ -28910,7 +27600,6 @@
       - hmdb: HMDB02206
       - kegg.compound: C05924
       - metanetx.chemical: MNXM1193
-      - reactome.compound: '947496'
       - sbo: SBO:0000247
       - seed.compound: cpd03520
   - !!omap
@@ -28980,7 +27669,6 @@
         - HMDB11111
       - kegg.compound: C00222
       - metanetx.chemical: MNXM244
-      - reactome.compound: '909783'
       - sabiork: '1981'
       - sbo: SBO:0000247
       - seed.compound: cpd00191
@@ -29070,7 +27758,6 @@
       - hmdb: HMDB01167
       - kegg.compound: C00546
       - metanetx.chemical: MNXM310
-      - reactome.compound: '5694074'
       - sabiork: '2088'
       - sbo: SBO:0000247
       - seed.compound: cpd00428
@@ -29440,14 +28127,6 @@
       - hmdb: HMDB00588
       - kegg.compound: C01330
       - metanetx.chemical: MNXM27
-      - reactome.compound:
-        - '2892454'
-        - '83910'
-        - '74113'
-        - '425977'
-        - '425971'
-        - '2872443'
-        - '425958'
       - sabiork: '22'
       - sbo: SBO:0000247
       - seed.compound: cpd00971
@@ -29468,14 +28147,6 @@
       - hmdb: HMDB00588
       - kegg.compound: C01330
       - metanetx.chemical: MNXM27
-      - reactome.compound:
-        - '2892454'
-        - '83910'
-        - '74113'
-        - '425977'
-        - '425971'
-        - '2872443'
-        - '425958'
       - sabiork: '22'
       - sbo: SBO:0000247
       - seed.compound: cpd00971
@@ -29496,14 +28167,6 @@
       - hmdb: HMDB00588
       - kegg.compound: C01330
       - metanetx.chemical: MNXM27
-      - reactome.compound:
-        - '2892454'
-        - '83910'
-        - '74113'
-        - '425977'
-        - '425971'
-        - '2872443'
-        - '425958'
       - sabiork: '22'
       - sbo: SBO:0000247
       - seed.compound: cpd00971
@@ -29532,9 +28195,6 @@
       - kegg.compound: C00253
       - kegg.drug: D00049
       - metanetx.chemical: MNXM274
-      - reactome.compound:
-        - '8869604'
-        - '197230'
       - sabiork: '1994'
       - sbo: SBO:0000247
       - seed.compound: cpd00218
@@ -29563,9 +28223,6 @@
       - kegg.compound: C00253
       - kegg.drug: D00049
       - metanetx.chemical: MNXM274
-      - reactome.compound:
-        - '8869604'
-        - '197230'
       - sabiork: '1994'
       - sbo: SBO:0000247
       - seed.compound: cpd00218
@@ -29594,9 +28251,6 @@
       - kegg.compound: C00253
       - kegg.drug: D00049
       - metanetx.chemical: MNXM274
-      - reactome.compound:
-        - '8869604'
-        - '197230'
       - sabiork: '1994'
       - sbo: SBO:0000247
       - seed.compound: cpd00218
@@ -29624,12 +28278,6 @@
       - kegg.compound: C00003
       - kegg.drug: D00002
       - metanetx.chemical: MNXM8
-      - reactome.compound:
-        - '352330'
-        - '192307'
-        - '194653'
-        - '113526'
-        - '29360'
       - sabiork: '37'
       - sbo: SBO:0000247
       - seed.compound: cpd00003
@@ -29653,11 +28301,6 @@
       - hmdb: HMDB01487
       - kegg.compound: C00004
       - metanetx.chemical: MNXM10
-      - reactome.compound:
-        - '192305'
-        - '73473'
-        - '29362'
-        - '194697'
       - sabiork: '38'
       - sbo: SBO:0000247
       - seed.compound: cpd00004
@@ -29704,16 +28347,6 @@
       - hmdb: HMDB00217
       - kegg.compound: C00006
       - metanetx.chemical: MNXM5
-      - reactome.compound:
-        - '194668'
-        - '113563'
-        - '6790191'
-        - '5623650'
-        - '2000348'
-        - '389556'
-        - '29366'
-        - '351628'
-        - '113564'
       - sabiork: '1263'
       - sbo: SBO:0000247
       - seed.compound: cpd00006
@@ -29740,16 +28373,6 @@
         - HMDB00799
       - kegg.compound: C00005
       - metanetx.chemical: MNXM6
-      - reactome.compound:
-        - '113600'
-        - '6790135'
-        - '113602'
-        - '113601'
-        - '2000347'
-        - '351627'
-        - '29364'
-        - '5623644'
-        - '194725'
       - sabiork: '1262'
       - sbo: SBO:0000247
       - seed.compound: cpd00005
@@ -29799,9 +28422,6 @@
       - kegg.compound: C00153
       - kegg.drug: D00036
       - metanetx.chemical: MNXM216
-      - reactome.compound:
-        - '197277'
-        - '8870343'
       - sabiork: '1949'
       - sbo: SBO:0000247
       - seed.compound: cpd00133
@@ -29848,16 +28468,6 @@
         - D02916
         - D02915
       - metanetx.chemical: MNXM15
-      - reactome.compound:
-        - '5693978'
-        - '1132163'
-        - '29382'
-        - '76230'
-        - '140912'
-        - '389843'
-        - '2022135'
-        - '31633'
-        - '113561'
       - sabiork:
         - '1268'
         - '43'
@@ -29908,16 +28518,6 @@
         - D02916
         - D02915
       - metanetx.chemical: MNXM15
-      - reactome.compound:
-        - '5693978'
-        - '1132163'
-        - '29382'
-        - '76230'
-        - '140912'
-        - '389843'
-        - '2022135'
-        - '31633'
-        - '113561'
       - sabiork:
         - '1268'
         - '43'
@@ -29968,16 +28568,6 @@
         - D02916
         - D02915
       - metanetx.chemical: MNXM15
-      - reactome.compound:
-        - '5693978'
-        - '1132163'
-        - '29382'
-        - '76230'
-        - '140912'
-        - '389843'
-        - '2022135'
-        - '31633'
-        - '113561'
       - sabiork:
         - '1268'
         - '43'
@@ -30059,10 +28649,6 @@
       - hmdb: HMDB59646
       - kegg.compound: C01185
       - metanetx.chemical: MNXM194
-      - reactome.compound:
-        - '200492'
-        - '8938083'
-        - '197220'
       - sabiork: '5427'
       - sbo: SBO:0000247
       - seed.compound: cpd00873
@@ -30093,10 +28679,6 @@
         - HMDB59645
       - kegg.compound: C00455
       - metanetx.chemical: MNXM355
-      - reactome.compound:
-        - '8869353'
-        - '549282'
-        - '8940067'
       - sabiork: '3871'
       - sbo: SBO:0000247
       - seed.compound: cpd00355
@@ -30127,10 +28709,6 @@
         - HMDB59645
       - kegg.compound: C00455
       - metanetx.chemical: MNXM355
-      - reactome.compound:
-        - '8869353'
-        - '549282'
-        - '8940067'
       - sabiork: '3871'
       - sbo: SBO:0000247
       - seed.compound: cpd00355
@@ -30161,10 +28739,6 @@
         - HMDB59645
       - kegg.compound: C00455
       - metanetx.chemical: MNXM355
-      - reactome.compound:
-        - '8869353'
-        - '549282'
-        - '8940067'
       - sabiork: '3871'
       - sbo: SBO:0000247
       - seed.compound: cpd00355
@@ -30188,7 +28762,6 @@
       - hmdb: HMDB02786
       - kegg.compound: C00088
       - metanetx.chemical: MNXM107
-      - reactome.compound: '1222379'
       - sabiork: '3058'
       - sbo: SBO:0000247
       - seed.compound: cpd00075
@@ -30212,7 +28785,6 @@
       - hmdb: HMDB02786
       - kegg.compound: C00088
       - metanetx.chemical: MNXM107
-      - reactome.compound: '1222379'
       - sabiork: '3058'
       - sbo: SBO:0000247
       - seed.compound: cpd00075
@@ -30236,7 +28808,6 @@
       - hmdb: HMDB02786
       - kegg.compound: C00088
       - metanetx.chemical: MNXM107
-      - reactome.compound: '1222379'
       - sabiork: '3058'
       - sbo: SBO:0000247
       - seed.compound: cpd00075
@@ -30537,18 +29108,6 @@
       - kegg.compound: C00007
       - kegg.drug: D00003
       - metanetx.chemical: MNXM4
-      - reactome.compound:
-        - '113534'
-        - '113535'
-        - '113685'
-        - '5668566'
-        - '189461'
-        - '113533'
-        - '1131511'
-        - '352327'
-        - '351593'
-        - '29368'
-        - '1236709'
       - sabiork: '1264'
       - sbo: SBO:0000247
       - seed.compound: cpd00007
@@ -30580,18 +29139,6 @@
       - kegg.compound: C00007
       - kegg.drug: D00003
       - metanetx.chemical: MNXM4
-      - reactome.compound:
-        - '113534'
-        - '113535'
-        - '113685'
-        - '5668566'
-        - '189461'
-        - '113533'
-        - '1131511'
-        - '352327'
-        - '351593'
-        - '29368'
-        - '1236709'
       - sabiork: '1264'
       - sbo: SBO:0000247
       - seed.compound: cpd00007
@@ -30623,18 +29170,6 @@
       - kegg.compound: C00007
       - kegg.drug: D00003
       - metanetx.chemical: MNXM4
-      - reactome.compound:
-        - '113534'
-        - '113535'
-        - '113685'
-        - '5668566'
-        - '189461'
-        - '113533'
-        - '1131511'
-        - '352327'
-        - '351593'
-        - '29368'
-        - '1236709'
       - sabiork: '1264'
       - sbo: SBO:0000247
       - seed.compound: cpd00007
@@ -30657,10 +29192,6 @@
       - hmdb: HMDB02168
       - kegg.compound: C00704
       - metanetx.chemical: MNXM330
-      - reactome.compound:
-        - '1222461'
-        - '1475048'
-        - '1470070'
       - sabiork: '5191'
       - sbo: SBO:0000247
   - !!omap
@@ -30682,10 +29213,6 @@
       - hmdb: HMDB02168
       - kegg.compound: C00704
       - metanetx.chemical: MNXM330
-      - reactome.compound:
-        - '1222461'
-        - '1475048'
-        - '1470070'
       - sabiork: '5191'
       - sbo: SBO:0000247
   - !!omap
@@ -30707,10 +29234,6 @@
       - hmdb: HMDB02168
       - kegg.compound: C00704
       - metanetx.chemical: MNXM330
-      - reactome.compound:
-        - '1222461'
-        - '1475048'
-        - '1470070'
       - sabiork: '5191'
       - sbo: SBO:0000247
   - !!omap
@@ -30741,10 +29264,6 @@
       - kegg.compound: C00036
       - lipidmaps: LMFA01170120
       - metanetx.chemical: MNXM46
-      - reactome.compound:
-        - '6810070'
-        - '113587'
-        - '76213'
       - sabiork: '1915'
       - sbo: SBO:0000247
       - seed.compound: cpd00032
@@ -30768,9 +29287,6 @@
         - LMFA07050024
         - LMFA07050394
       - metanetx.chemical: MNXM784
-      - reactome.compound:
-        - '6809800'
-        - '77332'
       - sabiork: '2753'
       - sbo: SBO:0000247
       - seed.compound: cpd03130
@@ -30809,9 +29325,6 @@
       - kegg.compound: C01944
       - lipidmaps: LMFA07050355
       - metanetx.chemical: MNXM342
-      - reactome.compound:
-        - '390303'
-        - '77337'
       - sabiork: '2341'
       - sbo: SBO:0000247
       - seed.compound: cpd01335
@@ -30850,7 +29363,6 @@
         - LMFA01010018
         - LMFA01010047
       - metanetx.chemical: MNXM236
-      - reactome.compound: '428198'
       - sabiork: '20032'
       - sbo: SBO:0000247
       - seed.compound: cpd01080
@@ -30879,7 +29391,6 @@
         - LMFA01010018
         - LMFA01010047
       - metanetx.chemical: MNXM236
-      - reactome.compound: '428198'
       - sabiork: '20032'
       - sbo: SBO:0000247
       - seed.compound: cpd01080
@@ -30908,7 +29419,6 @@
         - LMFA01010018
         - LMFA01010047
       - metanetx.chemical: MNXM236
-      - reactome.compound: '428198'
       - sabiork: '20032'
       - sbo: SBO:0000247
       - seed.compound: cpd01080
@@ -31188,7 +29698,6 @@
       - kegg.compound: C16218
       - lipidmaps: LMFA07050385
       - metanetx.chemical: MNXM954
-      - reactome.compound: '548809'
       - sabiork: '18861'
       - sbo: SBO:0000247
       - seed.compound: cpd14937
@@ -31301,10 +29810,6 @@
       - kegg.drug: D08302
       - lipidmaps: LMFA01100057
       - metanetx.chemical: MNXM89689
-      - reactome.compound:
-        - '29498'
-        - '113586'
-        - '113585'
       - sabiork: '1290'
       - sbo: SBO:0000247
       - seed.compound:
@@ -31347,10 +29852,6 @@
       - kegg.drug: D08302
       - lipidmaps: LMFA01100057
       - metanetx.chemical: MNXM89689
-      - reactome.compound:
-        - '29498'
-        - '113586'
-        - '113585'
       - sabiork: '1290'
       - sbo: SBO:0000247
       - seed.compound:
@@ -31393,10 +29894,6 @@
       - kegg.drug: D08302
       - lipidmaps: LMFA01100057
       - metanetx.chemical: MNXM89689
-      - reactome.compound:
-        - '29498'
-        - '113586'
-        - '113585'
       - sabiork: '1290'
       - sbo: SBO:0000247
       - seed.compound:
@@ -31420,7 +29917,6 @@
       - hmdb: HMDB00218
       - kegg.compound: C01103
       - metanetx.chemical: MNXM519
-      - reactome.compound: '111629'
       - sabiork: '1700'
       - sbo: SBO:0000247
       - seed.compound: cpd00810
@@ -31445,7 +29941,6 @@
       - kegg.compound: C00295
       - kegg.drug: D00055
       - metanetx.chemical: MNXM235
-      - reactome.compound: '76632'
       - sabiork: '2009'
       - sbo: SBO:0000247
       - seed.compound: cpd00247
@@ -31470,7 +29965,6 @@
       - kegg.compound: C00295
       - kegg.drug: D00055
       - metanetx.chemical: MNXM235
-      - reactome.compound: '76632'
       - sabiork: '2009'
       - sbo: SBO:0000247
       - seed.compound: cpd00247
@@ -31495,7 +29989,6 @@
       - kegg.compound: C00295
       - kegg.drug: D00055
       - metanetx.chemical: MNXM235
-      - reactome.compound: '76632'
       - sabiork: '2009'
       - sbo: SBO:0000247
       - seed.compound: cpd00247
@@ -31527,7 +30020,6 @@
       - hmdb: HMDB02329
       - kegg.compound: C00209
       - metanetx.chemical: MNXM291
-      - reactome.compound: '389819'
       - sabiork: '1975'
       - sbo: SBO:0000247
       - seed.compound: cpd00180
@@ -31866,7 +30358,6 @@
         - C00548
         - C07086
       - metanetx.chemical: MNXM497
-      - reactome.compound: '177153'
       - sabiork:
         - '9203'
         - '2090'
@@ -31895,7 +30386,6 @@
       - hmdb: HMDB06236
       - kegg.compound: C00601
       - metanetx.chemical: MNXM473
-      - reactome.compound: '500607'
       - sabiork: '2112'
       - sbo: SBO:0000247
       - seed.compound: cpd00464
@@ -31920,7 +30410,6 @@
       - hmdb: HMDB06236
       - kegg.compound: C00601
       - metanetx.chemical: MNXM473
-      - reactome.compound: '500607'
       - sabiork: '2112'
       - sbo: SBO:0000247
       - seed.compound: cpd00464
@@ -31945,7 +30434,6 @@
       - hmdb: HMDB06236
       - kegg.compound: C00601
       - metanetx.chemical: MNXM473
-      - reactome.compound: '500607'
       - sabiork: '2112'
       - sbo: SBO:0000247
       - seed.compound: cpd00464
@@ -31987,10 +30475,6 @@
       - hmdb: HMDB01416
       - kegg.compound: C01134
       - metanetx.chemical: MNXM373
-      - reactome.compound:
-        - '196767'
-        - '8939005'
-        - '6809358'
       - sabiork: '3034'
       - sbo: SBO:0000247
       - seed.compound:
@@ -32041,11 +30525,6 @@
         - HMDB00061
       - kegg.compound: C00054
       - metanetx.chemical: MNXM45
-      - reactome.compound:
-        - '158466'
-        - '742343'
-        - '8942170'
-        - '6809360'
       - sabiork: '1672'
       - sbo: SBO:0000247
       - seed.compound: cpd00045
@@ -32070,9 +30549,6 @@
         - HMDB62646
       - kegg.compound: C00053
       - metanetx.chemical: MNXM49
-      - reactome.compound:
-        - '741440'
-        - '158471'
       - sabiork: '1776'
       - sbo: SBO:0000247
       - seed.compound: cpd00044
@@ -32094,7 +30570,6 @@
       - hmdb: HMDB01319
       - kegg.compound: C00627
       - metanetx.chemical: MNXM454
-      - reactome.compound: '964952'
       - sabiork: '1684'
       - sbo: SBO:0000247
       - seed.compound: cpd00478
@@ -32346,7 +30821,6 @@
         - HMDB12275
       - kegg.compound: C05332
       - metanetx.chemical: MNXM660
-      - reactome.compound: '500605'
       - sabiork: '2769'
       - sbo: SBO:0000247
       - seed.compound: cpd03161
@@ -32372,7 +30846,6 @@
         - HMDB12275
       - kegg.compound: C05332
       - metanetx.chemical: MNXM660
-      - reactome.compound: '500605'
       - sabiork: '2769'
       - sbo: SBO:0000247
       - seed.compound: cpd03161
@@ -32397,9 +30870,6 @@
       - hmdb: HMDB00263
       - kegg.compound: C00074
       - metanetx.chemical: MNXM73
-      - reactome.compound:
-        - '372364'
-        - '29492'
       - sabiork: '32'
       - sbo: SBO:0000247
       - seed.compound: cpd00061
@@ -32791,7 +31261,6 @@
       - hmdb: HMDB06503
       - kegg.compound: C00582
       - metanetx.chemical: MNXM502
-      - reactome.compound: '177137'
       - sabiork: '2106'
       - sbo: SBO:0000247
       - seed.compound: cpd00452
@@ -32832,10 +31301,6 @@
         - C02057
       - kegg.drug: D00021
       - metanetx.chemical: MNXM97
-      - reactome.compound:
-        - '29502'
-        - '379701'
-        - '351993'
       - sabiork:
         - '2365'
         - '83'
@@ -32880,10 +31345,6 @@
         - C02057
       - kegg.drug: D00021
       - metanetx.chemical: MNXM97
-      - reactome.compound:
-        - '29502'
-        - '379701'
-        - '351993'
       - sabiork:
         - '2365'
         - '83'
@@ -32928,10 +31389,6 @@
         - C02057
       - kegg.drug: D00021
       - metanetx.chemical: MNXM97
-      - reactome.compound:
-        - '29502'
-        - '379701'
-        - '351993'
       - sabiork:
         - '2365'
         - '83'
@@ -32956,10 +31413,6 @@
         - CHEBI:14957
       - kegg.compound: C00032
       - metanetx.chemical: MNXM249
-      - reactome.compound:
-        - '917877'
-        - '71185'
-        - '189444'
       - sbo: SBO:0000247
   - !!omap
     - id: pheme_e
@@ -32978,10 +31431,6 @@
         - CHEBI:14957
       - kegg.compound: C00032
       - metanetx.chemical: MNXM249
-      - reactome.compound:
-        - '917877'
-        - '71185'
-        - '189444'
       - sbo: SBO:0000247
   - !!omap
     - id: pheme_p
@@ -33000,10 +31449,6 @@
         - CHEBI:14957
       - kegg.compound: C00032
       - metanetx.chemical: MNXM249
-      - reactome.compound:
-        - '917877'
-        - '71185'
-        - '189444'
       - sbo: SBO:0000247
   - !!omap
     - id: phhlipa_c
@@ -33143,15 +31588,6 @@
       - kegg.compound: C00009
       - kegg.drug: D05467
       - metanetx.chemical: MNXM9
-      - reactome.compound:
-        - '5228339'
-        - '113550'
-        - '8851513'
-        - '113551'
-        - '109277'
-        - '29372'
-        - '8851226'
-        - '113548'
       - sabiork: '36'
       - sbo: SBO:0000247
       - seed.compound:
@@ -33198,15 +31634,6 @@
       - kegg.compound: C00009
       - kegg.drug: D05467
       - metanetx.chemical: MNXM9
-      - reactome.compound:
-        - '5228339'
-        - '113550'
-        - '8851513'
-        - '113551'
-        - '109277'
-        - '29372'
-        - '8851226'
-        - '113548'
       - sabiork: '36'
       - sbo: SBO:0000247
       - seed.compound:
@@ -33253,15 +31680,6 @@
       - kegg.compound: C00009
       - kegg.drug: D05467
       - metanetx.chemical: MNXM9
-      - reactome.compound:
-        - '5228339'
-        - '113550'
-        - '8851513'
-        - '113551'
-        - '109277'
-        - '29372'
-        - '8851226'
-        - '113548'
       - sabiork: '36'
       - sbo: SBO:0000247
       - seed.compound:
@@ -33317,7 +31735,6 @@
       - kegg.compound: C00154
       - lipidmaps: LMFA07050360
       - metanetx.chemical: MNXM88
-      - reactome.compound: '5358339'
       - sabiork: '1310'
       - sbo: SBO:0000247
       - seed.compound: cpd00134
@@ -33348,9 +31765,6 @@
       - kegg.compound: C00864
       - kegg.drug: D07413
       - metanetx.chemical: MNXM364
-      - reactome.compound:
-        - '199192'
-        - '196820'
       - sabiork: '5286'
       - sbo: SBO:0000247
       - seed.compound: cpd00644
@@ -33380,9 +31794,6 @@
       - kegg.compound: C00864
       - kegg.drug: D07413
       - metanetx.chemical: MNXM364
-      - reactome.compound:
-        - '199192'
-        - '196820'
       - sabiork: '5286'
       - sbo: SBO:0000247
       - seed.compound: cpd00644
@@ -33412,9 +31823,6 @@
       - kegg.compound: C00864
       - kegg.drug: D07413
       - metanetx.chemical: MNXM364
-      - reactome.compound:
-        - '199192'
-        - '196820'
       - sabiork: '5286'
       - sbo: SBO:0000247
       - seed.compound: cpd00644
@@ -33573,7 +31981,6 @@
       - hmdb: HMDB00245
       - kegg.compound: C00931
       - metanetx.chemical: MNXM554
-      - reactome.compound: '189464'
       - sabiork: '5324'
       - sbo: SBO:0000247
       - seed.compound: cpd00689
@@ -33599,9 +32006,6 @@
       - kegg.compound: C00100
       - lipidmaps: LMFA07050364
       - metanetx.chemical: MNXM86
-      - reactome.compound:
-        - '192314'
-        - '70843'
       - sabiork: '1933'
       - sbo: SBO:0000247
       - seed.compound:
@@ -33682,17 +32086,6 @@
       - hmdb: HMDB00250
       - kegg.compound: C00013
       - metanetx.chemical: MNXM11
-      - reactome.compound:
-        - '159450'
-        - '113542'
-        - '8878981'
-        - '389593'
-        - '113541'
-        - '8938078'
-        - '111294'
-        - '2046049'
-        - '6806656'
-        - '1132084'
       - sabiork: '1267'
       - sbo: SBO:0000247
       - seed.compound:
@@ -33719,9 +32112,6 @@
       - hmdb: HMDB00241
       - kegg.compound: C02191
       - metanetx.chemical: MNXM346
-      - reactome.compound:
-        - '189487'
-        - '189463'
       - sabiork: '6061'
       - sbo: SBO:0000247
       - seed.compound: cpd01476
@@ -33744,7 +32134,6 @@
       - hmdb: HMDB01097
       - kegg.compound: C01079
       - metanetx.chemical: MNXM351
-      - reactome.compound: '189478'
       - sabiork: '5384'
       - sbo: SBO:0000247
       - seed.compound: cpd00791
@@ -33967,7 +32356,6 @@
         - HMDB62576
       - kegg.compound: C03090
       - metanetx.chemical: MNXM90003
-      - reactome.compound: '111292'
       - sabiork: '1884'
       - sbo: SBO:0000247
       - seed.compound: cpd01982
@@ -34157,10 +32545,6 @@
         - C16435
       - kegg.drug: D00035
       - metanetx.chemical: MNXM114
-      - reactome.compound:
-        - '352033'
-        - '379717'
-        - '113538'
       - sabiork:
         - '25536'
         - '82'
@@ -34200,10 +32584,6 @@
         - C16435
       - kegg.drug: D00035
       - metanetx.chemical: MNXM114
-      - reactome.compound:
-        - '352033'
-        - '379717'
-        - '113538'
       - sabiork:
         - '25536'
         - '82'
@@ -34243,10 +32623,6 @@
         - C16435
       - kegg.drug: D00035
       - metanetx.chemical: MNXM114
-      - reactome.compound:
-        - '352033'
-        - '379717'
-        - '113538'
       - sabiork:
         - '25536'
         - '82'
@@ -34361,7 +32737,6 @@
         - HMDB62643
       - kegg.compound: C00119
       - metanetx.chemical: MNXM91
-      - reactome.compound: '73566'
       - sabiork: '1305'
       - sbo: SBO:0000247
       - seed.compound: cpd00103
@@ -34526,7 +32901,6 @@
       - hmdb: HMDB00272
       - kegg.compound: C01005
       - metanetx.chemical: MNXM379
-      - reactome.compound: '936706'
       - sabiork: '2212'
       - sbo: SBO:0000247
       - seed.compound: cpd00738
@@ -34548,7 +32922,6 @@
       - hmdb: HMDB00272
       - kegg.compound: C01005
       - metanetx.chemical: MNXM379
-      - reactome.compound: '936706'
       - sabiork: '2212'
       - sbo: SBO:0000247
       - seed.compound: cpd00738
@@ -34570,7 +32943,6 @@
       - hmdb: HMDB00272
       - kegg.compound: C01005
       - metanetx.chemical: MNXM379
-      - reactome.compound: '936706'
       - sabiork: '2212'
       - sbo: SBO:0000247
       - seed.compound: cpd00738
@@ -34622,9 +32994,6 @@
         - HMDB60243
       - kegg.compound: C00134
       - metanetx.chemical: MNXM118
-      - reactome.compound:
-        - '29610'
-        - '141350'
       - sabiork: '1941'
       - sbo: SBO:0000247
       - seed.compound:
@@ -34651,9 +33020,6 @@
         - HMDB60243
       - kegg.compound: C00134
       - metanetx.chemical: MNXM118
-      - reactome.compound:
-        - '29610'
-        - '141350'
       - sabiork: '1941'
       - sbo: SBO:0000247
       - seed.compound:
@@ -34680,9 +33046,6 @@
         - HMDB60243
       - kegg.compound: C00134
       - metanetx.chemical: MNXM118
-      - reactome.compound:
-        - '29610'
-        - '141350'
       - sabiork: '1941'
       - sbo: SBO:0000247
       - seed.compound:
@@ -34726,7 +33089,6 @@
       - hmdb: HMDB01555
       - kegg.compound: C00647
       - metanetx.chemical: MNXM366
-      - reactome.compound: '965146'
       - sabiork: '1685'
       - sbo: SBO:0000247
       - seed.compound: cpd00493
@@ -34754,7 +33116,6 @@
         - HMDB01431
       - kegg.compound: C00534
       - metanetx.chemical: MNXM548
-      - reactome.compound: '964945'
       - sabiork: '2080'
       - sbo: SBO:0000247
       - seed.compound: cpd00419
@@ -34782,7 +33143,6 @@
         - HMDB01431
       - kegg.compound: C00534
       - metanetx.chemical: MNXM548
-      - reactome.compound: '964945'
       - sabiork: '2080'
       - sbo: SBO:0000247
       - seed.compound: cpd00419
@@ -34810,7 +33170,6 @@
         - HMDB01431
       - kegg.compound: C00534
       - metanetx.chemical: MNXM548
-      - reactome.compound: '964945'
       - sabiork: '2080'
       - sbo: SBO:0000247
       - seed.compound: cpd00419
@@ -34835,7 +33194,6 @@
       - hmdb: HMDB01491
       - kegg.compound: C00018
       - metanetx.chemical: MNXM161
-      - reactome.compound: '29390'
       - sabiork: '1271'
       - sbo: SBO:0000247
       - seed.compound: cpd00016
@@ -34860,7 +33218,6 @@
       - hmdb: HMDB01545
       - kegg.compound: C00250
       - metanetx.chemical: MNXM311
-      - reactome.compound: '965131'
       - sabiork: '1991'
       - sbo: SBO:0000247
       - seed.compound: cpd00215
@@ -34885,7 +33242,6 @@
       - hmdb: HMDB01545
       - kegg.compound: C00250
       - metanetx.chemical: MNXM311
-      - reactome.compound: '965131'
       - sabiork: '1991'
       - sbo: SBO:0000247
       - seed.compound: cpd00215
@@ -34910,7 +33266,6 @@
       - hmdb: HMDB01545
       - kegg.compound: C00250
       - metanetx.chemical: MNXM311
-      - reactome.compound: '965131'
       - sabiork: '1991'
       - sbo: SBO:0000247
       - seed.compound: cpd00215
@@ -34936,7 +33291,6 @@
       - kegg.compound: C00314
       - kegg.drug: D08454
       - metanetx.chemical: MNXM419
-      - reactome.compound: '965053'
       - sabiork: '2015'
       - sbo: SBO:0000247
       - seed.compound: cpd00263
@@ -34962,7 +33316,6 @@
       - kegg.compound: C00314
       - kegg.drug: D08454
       - metanetx.chemical: MNXM419
-      - reactome.compound: '965053'
       - sabiork: '2015'
       - sbo: SBO:0000247
       - seed.compound: cpd00263
@@ -34988,7 +33341,6 @@
       - kegg.compound: C00314
       - kegg.drug: D08454
       - metanetx.chemical: MNXM419
-      - reactome.compound: '965053'
       - sabiork: '2015'
       - sbo: SBO:0000247
       - seed.compound: cpd00263
@@ -35016,12 +33368,6 @@
       - kegg.compound: C00022
       - lipidmaps: LMFA01060077
       - metanetx.chemical: MNXM23
-      - reactome.compound:
-        - '1130930'
-        - '5357717'
-        - '113557'
-        - '29398'
-        - '389680'
       - sabiork: '33'
       - sbo: SBO:0000247
       - seed.compound: cpd00020
@@ -35049,12 +33395,6 @@
       - kegg.compound: C00022
       - lipidmaps: LMFA01060077
       - metanetx.chemical: MNXM23
-      - reactome.compound:
-        - '1130930'
-        - '5357717'
-        - '113557'
-        - '29398'
-        - '389680'
       - sabiork: '33'
       - sbo: SBO:0000247
       - seed.compound: cpd00020
@@ -35082,12 +33422,6 @@
       - kegg.compound: C00022
       - lipidmaps: LMFA01060077
       - metanetx.chemical: MNXM23
-      - reactome.compound:
-        - '1130930'
-        - '5357717'
-        - '113557'
-        - '29398'
-        - '389680'
       - sabiork: '33'
       - sbo: SBO:0000247
       - seed.compound: cpd00020
@@ -35215,7 +33549,6 @@
       - hmdb: HMDB00232
       - kegg.compound: C03722
       - metanetx.chemical: MNXM555
-      - reactome.compound: '197238'
       - sabiork: '6817'
       - sbo: SBO:0000247
       - seed.compound: cpd02333
@@ -35263,7 +33596,6 @@
       - hmdb: HMDB01489
       - kegg.compound: C00620
       - metanetx.chemical: MNXM295
-      - reactome.compound: '112016'
       - sabiork:
         - '1651'
         - '1337'
@@ -35606,9 +33938,6 @@
       - kegg.compound: C00255
       - kegg.drug: D00050
       - metanetx.chemical: MNXM270
-      - reactome.compound:
-        - '3165253'
-        - '196931'
       - sabiork: '1996'
       - sbo: SBO:0000247
       - seed.compound: cpd00220
@@ -35633,9 +33962,6 @@
       - kegg.compound: C00255
       - kegg.drug: D00050
       - metanetx.chemical: MNXM270
-      - reactome.compound:
-        - '3165253'
-        - '196931'
       - sabiork: '1996'
       - sbo: SBO:0000247
       - seed.compound: cpd00220
@@ -35804,7 +34130,6 @@
         - HMDB00618
       - kegg.compound: C00199
       - metanetx.chemical: MNXM145
-      - reactome.compound: '29732'
       - sabiork:
         - '22814'
         - '1313'
@@ -35873,7 +34198,6 @@
         - HMDB62754
       - kegg.compound: C05382
       - metanetx.chemical: MNXM271
-      - reactome.compound: '29882'
       - sabiork:
         - '1618'
         - '1325'
@@ -35908,9 +34232,6 @@
       - hmdb: HMDB00271
       - kegg.compound: C00213
       - metanetx.chemical: MNXM300
-      - reactome.compound:
-        - '6797917'
-        - '5359017'
       - sabiork: '1976'
       - sbo: SBO:0000247
       - seed.compound: cpd00183
@@ -35966,7 +34287,6 @@
       - kegg.compound: C00794
       - kegg.drug: D00096
       - metanetx.chemical: MNXM469
-      - reactome.compound: '5652213'
       - sabiork:
         - '2148'
         - '2156'
@@ -36000,7 +34320,6 @@
       - kegg.compound: C00794
       - kegg.drug: D00096
       - metanetx.chemical: MNXM469
-      - reactome.compound: '5652213'
       - sabiork:
         - '2148'
         - '2156'
@@ -36065,7 +34384,6 @@
       - hmdb: HMDB62761
       - kegg.compound: C05697
       - metanetx.chemical: MNXM2282
-      - reactome.compound: '5357662'
       - sabiork: '8071'
       - sbo: SBO:0000247
       - seed.compound: cpd03396
@@ -36089,7 +34407,6 @@
       - hmdb: HMDB62761
       - kegg.compound: C05697
       - metanetx.chemical: MNXM2282
-      - reactome.compound: '5357662'
       - sabiork: '8071'
       - sbo: SBO:0000247
       - seed.compound: cpd03396
@@ -36113,7 +34430,6 @@
       - hmdb: HMDB62761
       - kegg.compound: C05697
       - metanetx.chemical: MNXM2282
-      - reactome.compound: '5357662'
       - sabiork: '8071'
       - sbo: SBO:0000247
       - seed.compound: cpd03396
@@ -36141,7 +34457,6 @@
       - hmdb: HMDB11110
       - kegg.compound: C01528
       - metanetx.chemical: MNXM92652
-      - reactome.compound: '5357660'
       - sabiork: '5640'
       - sbo: SBO:0000247
       - seed.compound:
@@ -36170,7 +34485,6 @@
         - HMDB03840
       - kegg.compound: C05172
       - metanetx.chemical: MNXM1339
-      - reactome.compound: '5357690'
       - sbo: SBO:0000247
       - seed.compound: cpd03078
   - !!omap
@@ -36291,11 +34605,6 @@
       - kegg.drug: D00016
       - lipidmaps: LMFA01100045
       - metanetx.chemical: MNXM53
-      - reactome.compound:
-        - '352002'
-        - '379732'
-        - '8932979'
-        - '200736'
       - sabiork:
         - '2140'
         - '75'
@@ -36347,11 +34656,6 @@
       - kegg.drug: D00016
       - lipidmaps: LMFA01100045
       - metanetx.chemical: MNXM53
-      - reactome.compound:
-        - '352002'
-        - '379732'
-        - '8932979'
-        - '200736'
       - sabiork:
         - '2140'
         - '75'
@@ -36403,11 +34707,6 @@
       - kegg.drug: D00016
       - lipidmaps: LMFA01100045
       - metanetx.chemical: MNXM53
-      - reactome.compound:
-        - '352002'
-        - '379732'
-        - '8932979'
-        - '200736'
       - sabiork:
         - '2140'
         - '75'
@@ -36489,7 +34788,6 @@
         - CHEBI:20195
       - kegg.compound: C03175
       - metanetx.chemical: MNXM1265
-      - reactome.compound: '964859'
       - sabiork: '1736'
       - sbo: SBO:0000247
       - seed.compound: cpd02030
@@ -36514,7 +34812,6 @@
       - hmdb: HMDB03070
       - kegg.compound: C00493
       - metanetx.chemical: MNXM602
-      - reactome.compound: '964932'
       - sabiork: '5117'
       - sbo: SBO:0000247
       - seed.compound: cpd00383
@@ -36539,7 +34836,6 @@
       - hmdb: HMDB03070
       - kegg.compound: C00493
       - metanetx.chemical: MNXM602
-      - reactome.compound: '964932'
       - sabiork: '5117'
       - sbo: SBO:0000247
       - seed.compound: cpd00383
@@ -36564,7 +34860,6 @@
       - hmdb: HMDB03070
       - kegg.compound: C00493
       - metanetx.chemical: MNXM602
-      - reactome.compound: '964932'
       - sabiork: '5117'
       - sbo: SBO:0000247
       - seed.compound: cpd00383
@@ -36643,7 +34938,6 @@
       - kegg.compound: C05684
       - kegg.drug: D05814
       - metanetx.chemical: MNXM1157
-      - reactome.compound: '5357720'
       - sbo: SBO:0000247
       - seed.compound: cpd03387
   - !!omap
@@ -36667,7 +34961,6 @@
       - kegg.compound: C05684
       - kegg.drug: D05814
       - metanetx.chemical: MNXM1157
-      - reactome.compound: '5357720'
       - sbo: SBO:0000247
       - seed.compound: cpd03387
   - !!omap
@@ -36691,7 +34984,6 @@
       - kegg.compound: C05684
       - kegg.drug: D05814
       - metanetx.chemical: MNXM1157
-      - reactome.compound: '5357720'
       - sbo: SBO:0000247
       - seed.compound: cpd03387
   - !!omap
@@ -36906,12 +35198,6 @@
       - kegg.compound: C00059
       - kegg.drug: D05963
       - metanetx.chemical: MNXM58
-      - reactome.compound:
-        - '174375'
-        - '1606845'
-        - '1609649'
-        - '1614584'
-        - '427648'
       - sabiork: '1759'
       - sbo: SBO:0000247
       - seed.compound:
@@ -36943,12 +35229,6 @@
       - kegg.compound: C00059
       - kegg.drug: D05963
       - metanetx.chemical: MNXM58
-      - reactome.compound:
-        - '174375'
-        - '1606845'
-        - '1609649'
-        - '1614584'
-        - '427648'
       - sabiork: '1759'
       - sbo: SBO:0000247
       - seed.compound:
@@ -36980,12 +35260,6 @@
       - kegg.compound: C00059
       - kegg.drug: D05963
       - metanetx.chemical: MNXM58
-      - reactome.compound:
-        - '174375'
-        - '1606845'
-        - '1609649'
-        - '1614584'
-        - '427648'
       - sabiork: '1759'
       - sbo: SBO:0000247
       - seed.compound:
@@ -37012,9 +35286,6 @@
       - hmdb: HMDB01257
       - kegg.compound: C00315
       - metanetx.chemical: MNXM124
-      - reactome.compound:
-        - '204635'
-        - '141324'
       - sabiork: '3088'
       - sbo: SBO:0000247
       - seed.compound: cpd00264
@@ -37039,9 +35310,6 @@
       - hmdb: HMDB01257
       - kegg.compound: C00315
       - metanetx.chemical: MNXM124
-      - reactome.compound:
-        - '204635'
-        - '141324'
       - sabiork: '3088'
       - sbo: SBO:0000247
       - seed.compound: cpd00264
@@ -37066,9 +35334,6 @@
       - hmdb: HMDB01257
       - kegg.compound: C00315
       - metanetx.chemical: MNXM124
-      - reactome.compound:
-        - '204635'
-        - '141324'
       - sabiork: '3088'
       - sbo: SBO:0000247
       - seed.compound: cpd00264
@@ -37127,7 +35392,6 @@
       - kegg.compound: C00412
       - lipidmaps: LMFA07050369
       - metanetx.chemical: MNXM272
-      - reactome.compound: '428139'
       - sabiork: '5079'
       - sbo: SBO:0000247
       - seed.compound: cpd00327
@@ -37235,13 +35499,6 @@
       - kegg.compound: C00042
       - lipidmaps: LMFA01170043
       - metanetx.chemical: MNXM25
-      - reactome.compound:
-        - '389583'
-        - '5278787'
-        - '159939'
-        - '433123'
-        - '29434'
-        - '113536'
       - sabiork: '1924'
       - sbo: SBO:0000247
       - seed.compound: cpd00036
@@ -37276,13 +35533,6 @@
       - kegg.compound: C00042
       - lipidmaps: LMFA01170043
       - metanetx.chemical: MNXM25
-      - reactome.compound:
-        - '389583'
-        - '5278787'
-        - '159939'
-        - '433123'
-        - '29434'
-        - '113536'
       - sabiork: '1924'
       - sbo: SBO:0000247
       - seed.compound: cpd00036
@@ -37317,13 +35567,6 @@
       - kegg.compound: C00042
       - lipidmaps: LMFA01170043
       - metanetx.chemical: MNXM25
-      - reactome.compound:
-        - '389583'
-        - '5278787'
-        - '159939'
-        - '433123'
-        - '29434'
-        - '113536'
       - sabiork: '1924'
       - sbo: SBO:0000247
       - seed.compound: cpd00036
@@ -37350,7 +35593,6 @@
       - kegg.compound: C00091
       - lipidmaps: LMFA07050370
       - metanetx.chemical: MNXM92
-      - reactome.compound: '70958'
       - sabiork: '1931'
       - sbo: SBO:0000247
       - seed.compound: cpd00078
@@ -37453,7 +35695,6 @@
       - kegg.drug: D00025
       - kegg.glycan: G00370
       - metanetx.chemical: MNXM167
-      - reactome.compound: '188980'
       - sabiork: '1294'
       - sbo: SBO:0000247
       - seed.compound: cpd00076
@@ -37477,7 +35718,6 @@
       - kegg.drug: D00025
       - kegg.glycan: G00370
       - metanetx.chemical: MNXM167
-      - reactome.compound: '188980'
       - sabiork: '1294'
       - sbo: SBO:0000247
       - seed.compound: cpd00076
@@ -37504,7 +35744,6 @@
       - kegg.compound: C00232
       - lipidmaps: LMFA06000118
       - metanetx.chemical: MNXM172
-      - reactome.compound: '880046'
       - sabiork: '1984'
       - sbo: SBO:0000247
       - seed.compound: cpd00199
@@ -37909,10 +36148,6 @@
       - kegg.compound: C00245
       - kegg.drug: D00047
       - metanetx.chemical: MNXM282
-      - reactome.compound:
-        - '193463'
-        - '194069'
-        - '159420'
       - sabiork: '1989'
       - sbo: SBO:0000247
       - seed.compound: cpd00210
@@ -37937,10 +36172,6 @@
       - kegg.compound: C00245
       - kegg.drug: D00047
       - metanetx.chemical: MNXM282
-      - reactome.compound:
-        - '193463'
-        - '194069'
-        - '159420'
       - sabiork: '1989'
       - sbo: SBO:0000247
       - seed.compound: cpd00210
@@ -37965,10 +36196,6 @@
       - kegg.compound: C00245
       - kegg.drug: D00047
       - metanetx.chemical: MNXM282
-      - reactome.compound:
-        - '193463'
-        - '194069'
-        - '159420'
       - sabiork: '1989'
       - sbo: SBO:0000247
       - seed.compound: cpd00210
@@ -38075,7 +36302,6 @@
         - LMFA07050021
         - LMFA07050396
       - metanetx.chemical: MNXM654
-      - reactome.compound: '77273'
       - sabiork: '2750'
       - sbo: SBO:0000247
       - seed.compound: cpd03127
@@ -38106,7 +36332,6 @@
         - LMFA07050373
         - LMFA07050008
       - metanetx.chemical: MNXM224
-      - reactome.compound: '77272'
       - sabiork: '2457'
       - sbo: SBO:0000247
       - seed.compound: cpd01695
@@ -38242,9 +36467,6 @@
         - CHEBI:68437
       - kegg.compound: C00101
       - metanetx.chemical: MNXM79
-      - reactome.compound:
-        - '111355'
-        - '200671'
       - sabiork: '1297'
       - sbo: SBO:0000247
       - seed.compound: cpd29254
@@ -38353,9 +36575,6 @@
         - HMDB01372
       - kegg.compound: C00068
       - metanetx.chemical: MNXM256
-      - reactome.compound:
-        - '8878387'
-        - '29480'
       - sabiork: '1287'
       - sbo: SBO:0000247
       - seed.compound: cpd00056
@@ -38410,10 +36629,6 @@
       - kegg.compound: C00188
       - kegg.drug: D00041
       - metanetx.chemical: MNXM142
-      - reactome.compound:
-        - '352000'
-        - '351990'
-        - '379706'
       - sabiork:
         - '76'
         - '27463'
@@ -38448,10 +36663,6 @@
       - kegg.compound: C00188
       - kegg.drug: D00041
       - metanetx.chemical: MNXM142
-      - reactome.compound:
-        - '352000'
-        - '351990'
-        - '379706'
       - sabiork:
         - '76'
         - '27463'
@@ -38486,10 +36697,6 @@
       - kegg.compound: C00188
       - kegg.drug: D00041
       - metanetx.chemical: MNXM142
-      - reactome.compound:
-        - '352000'
-        - '351990'
-        - '379706'
       - sabiork:
         - '76'
         - '27463'
@@ -38555,7 +36762,6 @@
       - hmdb: HMDB00262
       - kegg.compound: C00178
       - metanetx.chemical: MNXM386
-      - reactome.compound: '83960'
       - sabiork: '60'
       - sbo: SBO:0000247
       - seed.compound: cpd00151
@@ -38577,7 +36783,6 @@
       - hmdb: HMDB00262
       - kegg.compound: C00178
       - metanetx.chemical: MNXM386
-      - reactome.compound: '83960'
       - sabiork: '60'
       - sbo: SBO:0000247
       - seed.compound: cpd00151
@@ -38599,7 +36804,6 @@
       - hmdb: HMDB00262
       - kegg.compound: C00178
       - metanetx.chemical: MNXM386
-      - reactome.compound: '83960'
       - sabiork: '60'
       - sbo: SBO:0000247
       - seed.compound: cpd00151
@@ -38625,7 +36829,6 @@
       - hmdb: HMDB00273
       - kegg.compound: C00214
       - metanetx.chemical: MNXM420
-      - reactome.compound: '83928'
       - sabiork: '1315'
       - sbo: SBO:0000247
       - seed.compound: cpd00184
@@ -38651,7 +36854,6 @@
       - hmdb: HMDB00273
       - kegg.compound: C00214
       - metanetx.chemical: MNXM420
-      - reactome.compound: '83928'
       - sabiork: '1315'
       - sbo: SBO:0000247
       - seed.compound: cpd00184
@@ -38677,7 +36879,6 @@
       - hmdb: HMDB00273
       - kegg.compound: C00214
       - metanetx.chemical: MNXM420
-      - reactome.compound: '83928'
       - sabiork: '1315'
       - sbo: SBO:0000247
       - seed.compound: cpd00184
@@ -38702,7 +36903,6 @@
       - hmdb: HMDB00906
       - kegg.compound: C00565
       - metanetx.chemical: MNXM352
-      - reactome.compound: '30373'
       - sabiork: '2096'
       - sbo: SBO:0000247
       - seed.compound: cpd00441
@@ -38727,7 +36927,6 @@
       - hmdb: HMDB00906
       - kegg.compound: C00565
       - metanetx.chemical: MNXM352
-      - reactome.compound: '30373'
       - sabiork: '2096'
       - sbo: SBO:0000247
       - seed.compound: cpd00441
@@ -38752,7 +36951,6 @@
       - hmdb: HMDB00906
       - kegg.compound: C00565
       - metanetx.chemical: MNXM352
-      - reactome.compound: '30373'
       - sabiork: '2096'
       - sbo: SBO:0000247
       - seed.compound: cpd00441
@@ -38776,7 +36974,6 @@
       - hmdb: HMDB00925
       - kegg.compound: C01104
       - metanetx.chemical: MNXM437
-      - reactome.compound: '140963'
       - sabiork: '5388'
       - sbo: SBO:0000247
       - seed.compound: cpd00811
@@ -38800,7 +36997,6 @@
       - hmdb: HMDB00925
       - kegg.compound: C01104
       - metanetx.chemical: MNXM437
-      - reactome.compound: '140963'
       - sabiork: '5388'
       - sbo: SBO:0000247
       - seed.compound: cpd00811
@@ -38824,7 +37020,6 @@
       - hmdb: HMDB00925
       - kegg.compound: C01104
       - metanetx.chemical: MNXM437
-      - reactome.compound: '140963'
       - sabiork: '5388'
       - sbo: SBO:0000247
       - seed.compound: cpd00811
@@ -38904,7 +37099,6 @@
         - CHEBI:18191
       - kegg.compound: C00343
       - metanetx.chemical: MNXM148
-      - reactome.compound: '2142833'
       - sabiork: '1331'
       - sbo: SBO:0000247
       - seed.compound:
@@ -38923,7 +37117,6 @@
       - chebi: CHEBI:15033
       - kegg.compound: C00342
       - metanetx.chemical: MNXM96993
-      - reactome.compound: '2142774'
       - sabiork:
         - '2803'
         - '1330'
@@ -38951,7 +37144,6 @@
       - kegg.compound: C00689
       - kegg.glycan: G09795
       - metanetx.chemical: MNXM448
-      - reactome.compound: '868701'
       - sabiork: '1613'
       - sbo: SBO:0000247
       - seed.compound: cpd00523
@@ -38980,9 +37172,6 @@
       - kegg.compound: C01083
       - kegg.glycan: G00293
       - metanetx.chemical: MNXM198
-      - reactome.compound:
-        - '868614'
-        - '189078'
       - sabiork: '91'
       - sbo: SBO:0000247
       - seed.compound: cpd00794
@@ -39011,9 +37200,6 @@
       - kegg.compound: C01083
       - kegg.glycan: G00293
       - metanetx.chemical: MNXM198
-      - reactome.compound:
-        - '868614'
-        - '189078'
       - sabiork: '91'
       - sbo: SBO:0000247
       - seed.compound: cpd00794
@@ -39042,9 +37228,6 @@
       - kegg.compound: C01083
       - kegg.glycan: G00293
       - metanetx.chemical: MNXM198
-      - reactome.compound:
-        - '868614'
-        - '189078'
       - sabiork: '91'
       - sbo: SBO:0000247
       - seed.compound: cpd00794
@@ -39063,9 +37246,6 @@
         - CHEBI:10680
       - kegg.compound: C01641
       - metanetx.chemical: MNXM90886
-      - reactome.compound:
-        - '379778'
-        - '379754'
       - sabiork: '3835'
       - sbo: SBO:0000247
       - seed.compound: cpd11912
@@ -39105,10 +37285,6 @@
         - C00078
       - kegg.drug: D00020
       - metanetx.chemical: MNXM94
-      - reactome.compound:
-        - '379709'
-        - '352006'
-        - '29500'
       - sabiork:
         - '2164'
         - '85'
@@ -39152,10 +37328,6 @@
         - C00078
       - kegg.drug: D00020
       - metanetx.chemical: MNXM94
-      - reactome.compound:
-        - '379709'
-        - '352006'
-        - '29500'
       - sabiork:
         - '2164'
         - '85'
@@ -39199,10 +37371,6 @@
         - C00078
       - kegg.drug: D00020
       - metanetx.chemical: MNXM94
-      - reactome.compound:
-        - '379709'
-        - '352006'
-        - '29500'
       - sabiork:
         - '2164'
         - '85'
@@ -39240,7 +37408,6 @@
         - C05529
         - C00320
       - metanetx.chemical: MNXM323
-      - reactome.compound: '1614595'
       - sabiork: '5043'
       - sbo: SBO:0000247
       - seed.compound: cpd00268
@@ -39274,7 +37441,6 @@
         - C05529
         - C00320
       - metanetx.chemical: MNXM323
-      - reactome.compound: '1614595'
       - sabiork: '5043'
       - sbo: SBO:0000247
       - seed.compound: cpd00268
@@ -39308,7 +37474,6 @@
         - C05529
         - C00320
       - metanetx.chemical: MNXM323
-      - reactome.compound: '1614595'
       - sabiork: '5043'
       - sbo: SBO:0000247
       - seed.compound: cpd00268
@@ -39516,9 +37681,6 @@
         - HMDB00306
       - kegg.compound: C00483
       - metanetx.chemical: MNXM603
-      - reactome.compound:
-        - '500606'
-        - '5696181'
       - sabiork: '5113'
       - sbo: SBO:0000247
       - seed.compound: cpd00374
@@ -39542,9 +37704,6 @@
         - HMDB00306
       - kegg.compound: C00483
       - metanetx.chemical: MNXM603
-      - reactome.compound:
-        - '500606'
-        - '5696181'
       - sabiork: '5113'
       - sbo: SBO:0000247
       - seed.compound: cpd00374
@@ -39585,11 +37744,6 @@
         - C01536
       - kegg.drug: D00022
       - metanetx.chemical: MNXM76
-      - reactome.compound:
-        - '379710'
-        - '5668567'
-        - '352030'
-        - '29506'
       - sabiork:
         - '84'
         - '2291'
@@ -39634,11 +37788,6 @@
         - C01536
       - kegg.drug: D00022
       - metanetx.chemical: MNXM76
-      - reactome.compound:
-        - '379710'
-        - '5668567'
-        - '352030'
-        - '29506'
       - sabiork:
         - '84'
         - '2291'
@@ -39683,11 +37832,6 @@
         - C01536
       - kegg.drug: D00022
       - metanetx.chemical: MNXM76
-      - reactome.compound:
-        - '379710'
-        - '5668567'
-        - '352030'
-        - '29506'
       - sabiork:
         - '84'
         - '2291'
@@ -39899,10 +38043,6 @@
       - kegg.glycan: G10610
       - lipidmaps: LMSL01010002
       - metanetx.chemical: MNXM47
-      - reactome.compound:
-        - '162756'
-        - '914003'
-        - '3499326'
       - sabiork: '1925'
       - sbo: SBO:0000247
       - seed.compound: cpd00037
@@ -39933,10 +38073,6 @@
       - kegg.glycan: G10610
       - lipidmaps: LMSL01010002
       - metanetx.chemical: MNXM47
-      - reactome.compound:
-        - '162756'
-        - '914003'
-        - '3499326'
       - sabiork: '1925'
       - sbo: SBO:0000247
       - seed.compound: cpd00037
@@ -39967,10 +38103,6 @@
       - kegg.glycan: G10610
       - lipidmaps: LMSL01010002
       - metanetx.chemical: MNXM47
-      - reactome.compound:
-        - '162756'
-        - '914003'
-        - '3499326'
       - sabiork: '1925'
       - sbo: SBO:0000247
       - seed.compound: cpd00037
@@ -40274,11 +38406,6 @@
       - kegg.compound: C00015
       - kegg.glycan: G10619
       - metanetx.chemical: MNXM17
-      - reactome.compound:
-        - '110096'
-        - '111814'
-        - '205687'
-        - '158602'
       - sabiork: '1269'
       - sbo: SBO:0000247
       - seed.compound: cpd00014
@@ -40301,7 +38428,6 @@
       - kegg.compound: C00203
       - kegg.glycan: G10611
       - metanetx.chemical: MNXM162233
-      - reactome.compound: '735700'
       - sabiork: '1972'
       - sbo: SBO:0000247
       - seed.compound: cpd00175
@@ -40324,7 +38450,6 @@
       - kegg.compound: C00203
       - kegg.glycan: G10611
       - metanetx.chemical: MNXM162233
-      - reactome.compound: '735700'
       - sabiork: '1972'
       - sbo: SBO:0000247
       - seed.compound: cpd00175
@@ -40356,10 +38481,6 @@
       - kegg.compound: C00029
       - kegg.glycan: G10608
       - metanetx.chemical: MNXM722710
-      - reactome.compound:
-        - '173594'
-        - '744227'
-        - '29410'
       - sabiork:
         - '3918'
         - '1277'
@@ -40395,10 +38516,6 @@
       - kegg.compound: C00029
       - kegg.glycan: G10608
       - metanetx.chemical: MNXM722710
-      - reactome.compound:
-        - '173594'
-        - '744227'
-        - '29410'
       - sabiork:
         - '3918'
         - '1277'
@@ -40434,10 +38551,6 @@
       - kegg.compound: C00029
       - kegg.glycan: G10608
       - metanetx.chemical: MNXM722710
-      - reactome.compound:
-        - '173594'
-        - '744227'
-        - '29410'
       - sabiork:
         - '3918'
         - '1277'
@@ -40470,9 +38583,6 @@
       - kegg.compound: C00052
       - kegg.glycan: G10609
       - metanetx.chemical: MNXM89795
-      - reactome.compound:
-        - '735682'
-        - '29452'
       - sabiork:
         - '1283'
         - '3919'
@@ -40505,9 +38615,6 @@
       - kegg.compound: C00052
       - kegg.glycan: G10609
       - metanetx.chemical: MNXM89795
-      - reactome.compound:
-        - '735682'
-        - '29452'
       - sabiork:
         - '1283'
         - '3919'
@@ -40540,9 +38647,6 @@
       - kegg.compound: C00052
       - kegg.glycan: G10609
       - metanetx.chemical: MNXM89795
-      - reactome.compound:
-        - '735682'
-        - '29452'
       - sabiork:
         - '1283'
         - '3919'
@@ -40589,10 +38693,6 @@
       - kegg.compound: C00167
       - kegg.glycan: G10612
       - metanetx.chemical: MNXM87
-      - reactome.compound:
-        - '174384'
-        - '158601'
-        - '1889970'
       - sabiork:
         - '22782'
         - '3916'
@@ -40621,10 +38721,6 @@
       - kegg.compound: C00167
       - kegg.glycan: G10612
       - metanetx.chemical: MNXM87
-      - reactome.compound:
-        - '174384'
-        - '158601'
-        - '1889970'
       - sabiork:
         - '22782'
         - '3916'
@@ -40653,10 +38749,6 @@
       - kegg.compound: C00167
       - kegg.glycan: G10612
       - metanetx.chemical: MNXM87
-      - reactome.compound:
-        - '174384'
-        - '158601'
-        - '1889970'
       - sabiork:
         - '22782'
         - '3916'
@@ -40740,9 +38832,6 @@
       - hmdb: HMDB00288
       - kegg.compound: C00105
       - metanetx.chemical: MNXM80
-      - reactome.compound:
-        - '735698'
-        - '109402'
       - sabiork:
         - '1300'
         - '25061'
@@ -40771,9 +38860,6 @@
       - hmdb: HMDB00288
       - kegg.compound: C00105
       - metanetx.chemical: MNXM80
-      - reactome.compound:
-        - '735698'
-        - '109402'
       - sabiork:
         - '1300'
         - '25061'
@@ -40802,9 +38888,6 @@
       - hmdb: HMDB00288
       - kegg.compound: C00105
       - metanetx.chemical: MNXM80
-      - reactome.compound:
-        - '735698'
-        - '109402'
       - sabiork:
         - '1300'
         - '25061'
@@ -40888,7 +38971,6 @@
       - hmdb: HMDB01086
       - kegg.compound: C01051
       - metanetx.chemical: MNXM414
-      - reactome.compound: '189407'
       - sbo: SBO:0000247
       - seed.compound: cpd00774
   - !!omap
@@ -40913,7 +38995,6 @@
         - D00027
         - D09776
       - metanetx.chemical: MNXM158
-      - reactome.compound: '83962'
       - sabiork: '61'
       - sbo: SBO:0000247
       - seed.compound: cpd00092
@@ -40939,7 +39020,6 @@
         - D00027
         - D09776
       - metanetx.chemical: MNXM158
-      - reactome.compound: '83962'
       - sabiork: '61'
       - sbo: SBO:0000247
       - seed.compound: cpd00092
@@ -40965,7 +39045,6 @@
         - D00027
         - D09776
       - metanetx.chemical: MNXM158
-      - reactome.compound: '83962'
       - sabiork: '61'
       - sbo: SBO:0000247
       - seed.compound: cpd00092
@@ -41018,9 +39097,6 @@
       - hmdb: HMDB00289
       - kegg.compound: C00366
       - metanetx.chemical: MNXM441
-      - reactome.compound:
-        - '429056'
-        - '30034'
       - sabiork: '1870'
       - sbo: SBO:0000247
       - seed.compound: cpd00300
@@ -41059,9 +39135,6 @@
       - hmdb: HMDB00289
       - kegg.compound: C00366
       - metanetx.chemical: MNXM441
-      - reactome.compound:
-        - '429056'
-        - '30034'
       - sabiork: '1870'
       - sbo: SBO:0000247
       - seed.compound: cpd00300
@@ -41100,9 +39173,6 @@
       - hmdb: HMDB00289
       - kegg.compound: C00366
       - metanetx.chemical: MNXM441
-      - reactome.compound:
-        - '429056'
-        - '30034'
       - sabiork: '1870'
       - sbo: SBO:0000247
       - seed.compound: cpd00300
@@ -41176,10 +39246,6 @@
         - D10496
         - D00023
       - metanetx.chemical: MNXM117
-      - reactome.compound:
-        - '374061'
-        - '29514'
-        - '432019'
       - sabiork: '1798'
       - sbo: SBO:0000247
       - seed.compound: cpd00073
@@ -41212,10 +39278,6 @@
         - D10496
         - D00023
       - metanetx.chemical: MNXM117
-      - reactome.compound:
-        - '374061'
-        - '29514'
-        - '432019'
       - sabiork: '1798'
       - sbo: SBO:0000247
       - seed.compound: cpd00073
@@ -41248,10 +39310,6 @@
         - D10496
         - D00023
       - metanetx.chemical: MNXM117
-      - reactome.compound:
-        - '374061'
-        - '29514'
-        - '432019'
       - sabiork: '1798'
       - sbo: SBO:0000247
       - seed.compound: cpd00073
@@ -41348,7 +39406,6 @@
       - hmdb: HMDB00285
       - kegg.compound: C00075
       - metanetx.chemical: MNXM121
-      - reactome.compound: '29494'
       - sabiork: '1288'
       - sbo: SBO:0000247
       - seed.compound: cpd00062
@@ -41389,9 +39446,6 @@
       - kegg.drug: D00039
       - lipidmaps: LMFA01100046
       - metanetx.chemical: MNXM199
-      - reactome.compound:
-        - '113540'
-        - '29702'
       - sabiork:
         - '68'
         - '23113'
@@ -41436,9 +39490,6 @@
       - kegg.drug: D00039
       - lipidmaps: LMFA01100046
       - metanetx.chemical: MNXM199
-      - reactome.compound:
-        - '113540'
-        - '29702'
       - sabiork:
         - '68'
         - '23113'
@@ -41483,9 +39534,6 @@
       - kegg.drug: D00039
       - lipidmaps: LMFA01100046
       - metanetx.chemical: MNXM199
-      - reactome.compound:
-        - '113540'
-        - '29702'
       - sabiork:
         - '68'
         - '23113'
@@ -41524,7 +39572,6 @@
       - hmdb: HMDB00292
       - kegg.compound: C00385
       - metanetx.chemical: MNXM174
-      - reactome.compound: '30064'
       - sabiork: '1871'
       - sbo: SBO:0000247
       - seed.compound: cpd00309
@@ -41549,7 +39596,6 @@
       - hmdb: HMDB00292
       - kegg.compound: C00385
       - metanetx.chemical: MNXM174
-      - reactome.compound: '30064'
       - sabiork: '1871'
       - sbo: SBO:0000247
       - seed.compound: cpd00309
@@ -41574,7 +39620,6 @@
       - hmdb: HMDB00292
       - kegg.compound: C00385
       - metanetx.chemical: MNXM174
-      - reactome.compound: '30064'
       - sabiork: '1871'
       - sbo: SBO:0000247
       - seed.compound: cpd00309
@@ -41616,7 +39661,6 @@
         - HMDB62755
       - kegg.compound: C00655
       - metanetx.chemical: MNXM298
-      - reactome.compound: '111584'
       - sabiork: '1686'
       - sbo: SBO:0000247
       - seed.compound: cpd00497
@@ -41641,7 +39685,6 @@
         - HMDB62755
       - kegg.compound: C00655
       - metanetx.chemical: MNXM298
-      - reactome.compound: '111584'
       - sabiork: '1686'
       - sbo: SBO:0000247
       - seed.compound: cpd00497
@@ -41666,7 +39709,6 @@
         - HMDB62755
       - kegg.compound: C00655
       - metanetx.chemical: MNXM298
-      - reactome.compound: '111584'
       - sabiork: '1686'
       - sbo: SBO:0000247
       - seed.compound: cpd00497
@@ -41686,7 +39728,6 @@
       - hmdb: HMDB00293
       - kegg.compound: C00700
       - metanetx.chemical: MNXM1860
-      - reactome.compound: '2509848'
       - sabiork: '1876'
       - sbo: SBO:0000247
       - seed.compound: cpd00530
@@ -41771,7 +39812,6 @@
         - HMDB00868
       - kegg.compound: C00231
       - metanetx.chemical: MNXM186
-      - reactome.compound: '29790'
       - sabiork: '1317'
       - sbo: SBO:0000247
       - seed.compound: cpd00198
@@ -41813,7 +39853,6 @@
       - kegg.compound: C00181
       - kegg.drug: D06346
       - metanetx.chemical: MNXM348
-      - reactome.compound: '2090063'
       - sbo: SBO:0000247
       - seed.compound: cpd00154
   - !!omap
@@ -41834,7 +39873,6 @@
       - kegg.compound: C00181
       - kegg.drug: D06346
       - metanetx.chemical: MNXM348
-      - reactome.compound: '2090063'
       - sbo: SBO:0000247
       - seed.compound: cpd00154
   - !!omap
@@ -41855,7 +39893,6 @@
       - kegg.compound: C00181
       - kegg.drug: D06346
       - metanetx.chemical: MNXM348
-      - reactome.compound: '2090063'
       - sbo: SBO:0000247
       - seed.compound: cpd00154
   - !!omap
@@ -41878,7 +39915,6 @@
         - HMDB00654
       - kegg.compound: C00310
       - metanetx.chemical: MNXM597
-      - reactome.compound: '5661281'
       - sabiork: '1504'
       - sbo: SBO:0000247
       - seed.compound: cpd00259
@@ -41902,7 +39938,6 @@
         - HMDB02245
       - kegg.compound: C00312
       - metanetx.chemical: MNXM1282
-      - reactome.compound: '5660036'
       - sabiork:
         - '1505'
         - '23128'
@@ -41928,7 +39963,6 @@
         - HMDB02245
       - kegg.compound: C00312
       - metanetx.chemical: MNXM1282
-      - reactome.compound: '5660036'
       - sabiork:
         - '1505'
         - '23128'
@@ -41954,7 +39988,6 @@
         - HMDB02245
       - kegg.compound: C00312
       - metanetx.chemical: MNXM1282
-      - reactome.compound: '5660036'
       - sabiork:
         - '1505'
         - '23128'
@@ -41978,14 +40011,6 @@
       - hmdb: HMDB01303
       - kegg.compound: C00038
       - metanetx.chemical: MNXM149
-      - reactome.compound:
-        - '216667'
-        - '437093'
-        - '29426'
-        - '216785'
-        - '435350'
-        - '442320'
-        - '158417'
       - sabiork: '1281'
       - sbo: SBO:0000247
       - seed.compound: cpd00034
@@ -42007,14 +40032,6 @@
       - hmdb: HMDB01303
       - kegg.compound: C00038
       - metanetx.chemical: MNXM149
-      - reactome.compound:
-        - '216667'
-        - '437093'
-        - '29426'
-        - '216785'
-        - '435350'
-        - '442320'
-        - '158417'
       - sabiork: '1281'
       - sbo: SBO:0000247
       - seed.compound: cpd00034
@@ -42036,14 +40053,6 @@
       - hmdb: HMDB01303
       - kegg.compound: C00038
       - metanetx.chemical: MNXM149
-      - reactome.compound:
-        - '216667'
-        - '437093'
-        - '29426'
-        - '216785'
-        - '435350'
-        - '442320'
-        - '158417'
       - sabiork: '1281'
       - sbo: SBO:0000247
       - seed.compound: cpd00034
@@ -129937,6 +127946,7 @@
     - name: s0001
     - annotation: !!omap
       - sbo: SBO:0000243
+- id: Ecoli_GEM
 - compartments: !!omap
   - c: cytosol
   - e: extracellular space
