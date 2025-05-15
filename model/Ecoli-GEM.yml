@@ -1,5 +1,10 @@
 !!omap
-- id: Ecoli_GEM
+- metaData:
+    id: "Ecoli-GEM"
+    name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
+    date: "2025-05-15"
+    version: ""
+    github: "https://github.com/SysBioChalmers/Ecoli-GEM"
 - metabolites:
   - !!omap
     - id: 10fthf_c
