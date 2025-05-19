@@ -127951,7 +127951,6 @@
     - name: s0001
     - annotation: !!omap
       - sbo: SBO:0000243
-- id: Ecoli_GEM
 - compartments: !!omap
   - c: cytosol
   - e: extracellular space
