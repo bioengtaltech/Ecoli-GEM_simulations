@@ -8,7 +8,7 @@ jobs:
   run-memote:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/kennetlindquist/e-coli-standard-gem-env:latest
+      image: ghcr.io/metabolicatlas/memote-docker:0.13
       options: --user root --workdir /project
       volumes:
         - ${{ github.workspace }}:/project:rw
