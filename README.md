@@ -1,8 +1,8 @@
 ## Ecoli-GEM: Genome-scale metabolic model for Escherichia coli
 
-[![Version](https://badge.fury.io/gh/{{organization or username}}%2F{{repository name}}.svg)](https://badge.fury.io/gh/sysbiochalmers/yeast-gem)  
+[![Version](https://badge.fury.io/gh/SysBioChalmers/Ecoli-GEM.svg)](https://badge.fury.io/gh/sysbiochalmers/Ecoli-GEM)  
 [![Zenodo](https://zenodo.org/badge/{{Zenodo ID}}.svg)](https://zenodo.org/badge/latestdoi/{{Zenodo ID}})  
-[![Gitter chat](https://badges.gitter.im/{{organization or username}}/{{repository name}}.svg)](https://gitter.im/{{organization or username}}/{{repository name}})
+[![Gitter chat](https://badges.gitter.im/SysBioChalmers/Ecoli-GEM.svg)](https://gitter.im/SysBioChalmers)
 
 
 #### Description
@@ -17,8 +17,8 @@ The latest version of the E. coli GEM, iML1515, was taken from BiGG Models with 
 
 #### Keywords
 
-**Utilisation:** experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template 
-**Field:** metabolic-network reconstruction 
+**Utilisation:** experimental data reconstruction; multi-omics integrative analysis; _in silico_ strain design; model template  
+**Field:** metabolic-network reconstruction  
 **Type of model:** reconstruction; curated  
 **Model source:** [EscherichiaColi](https://doi.org/10.1038/nbt.3956)   
 **Omic source:** {{ genomics; metabolomics }}  
@@ -48,4 +48,4 @@ Contributions are always welcome! Please read the [contributing guideline](.gith
 
 ### Contributors
 
-Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organization or username}}/{{repository name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organization or username}}/{{repository name}}/issues).
+Code contributors are reported automatically by GitHub under [Contributors](https://github.com/SysBioChalmers/Ecoli-GEM/graphs/contributors), while other contributions come in as [Issues](https://github.com/SysBioChalmers/Ecoli-GEM/issues).
