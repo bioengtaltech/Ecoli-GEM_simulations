@@ -2,7 +2,7 @@
 - metaData:
     id: "Ecoli-GEM"
     name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
-    date: "2025-05-15"
+    date: "2025-06-09"
     version: ""
     github: "https://github.com/SysBioChalmers/Ecoli-GEM"
 - metabolites:
@@ -75077,7 +75077,7 @@
       - h_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b3124
+    - gene_reaction_rule: b0514
     - subsystem: Glycine and Serine Metabolism
     - annotation: !!omap
       - bigg.reaction: GLYCK2
@@ -79152,7 +79152,7 @@
       - hom__L_c: -1.0
       - nadp_c: -1.0
       - nadph_c: 1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0
     - upper_bound: 1000.0
     - gene_reaction_rule: b3940 or b0002
     - subsystem: Threonine and Lysine Metabolism
@@ -100388,7 +100388,7 @@
     - metabolites: !!omap
       - succ_c: 1.0
       - succ_p: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0
     - upper_bound: 1000.0
     - gene_reaction_rule: b1206
     - subsystem: Transport, Inner Membrane
@@ -101246,8 +101246,8 @@
     - id: THD2pp
     - name: NAD(P) transhydrogenase (periplasm)
     - metabolites: !!omap
-      - h_c: 2.0
-      - h_p: -2.0
+      - h_c: 1.0
+      - h_p: -1.0
       - nad_c: 1.0
       - nadh_c: -1.0
       - nadp_c: -1.0
