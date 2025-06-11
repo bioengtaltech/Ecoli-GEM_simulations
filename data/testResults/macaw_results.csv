@@ -1467,7 +1467,6 @@ GLYC3Ptex,glyc3p_e <=> glyc3p_p,only when going forwards,ok,ok,ok,N/A
 GLYCAt2rpp,glyc__R_p + h_p <=> glyc__R_c + h_c,only when going forwards,ok,ok,ok,N/A
 GLYCAtex,glyc__R_e <=> glyc__R_p,only when going forwards,ok,ok,ok,N/A
 GLYCDx,glyc_c + nad_c --> dha_c + h_c + nadh_c,ok,ok,ok,ok,N/A
-GLYCK,atp_c + glyc__R_c --> 3pg_c + adp_c + h_c,ok,ok,ok,ok,N/A
 GLYCK2,atp_c + glyc__R_c --> 2pg_c + adp_c + h_c,ok,ok,ok,ok,N/A
 GLYCL,gly_c + nad_c + thf_c --> co2_c + mlthf_c + nadh_c + nh4_c,ok,ok,ok,ok,N/A
 GLYCLTDx,glx_c + h_c + nadh_c --> glyclt_c + nad_c,ok,ok,ok,ok,N/A
