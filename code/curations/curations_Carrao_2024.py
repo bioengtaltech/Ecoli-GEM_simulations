@@ -11,10 +11,11 @@ print(model.reactions.THD2pp.reaction)
 model.reactions.THD2pp.add_metabolites({"h_c": -1, "h_p": 1})
 print(model.reactions.THD2pp.reaction)
 
-# glxK (b0514) to GLYCK2
+# glxK (b0514) to GLYCK2 & remove GLYCK
 print(model.reactions.GLYCK2.gene_reaction_rule)
-model.reactions.GLYCK2.gene_reaction_rule = '(b0514)'
+model.reactions.GLYCK2.gene_reaction_rule = '(b3124 or b0514)'
 print(model.reactions.GLYCK2.gene_reaction_rule)
+model.remove_reactions(['GLYCK'])
 
 # HSDy 
 print(model.reactions.HSDy.bounds)
