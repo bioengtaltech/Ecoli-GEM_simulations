@@ -73286,7 +73286,7 @@
       - mlthf_c: 1.0
       - ser__L_c: -1.0
       - thf_c: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0
     - upper_bound: 1000.0
     - gene_reaction_rule: b2551
     - subsystem: Glycine and Serine Metabolism
