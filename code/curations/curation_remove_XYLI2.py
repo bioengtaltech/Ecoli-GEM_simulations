@@ -34,6 +34,13 @@ for met_id in metabolites:
 # glc__D_c -> Produced by: 19 reactions, Consumed by: 2 reactions
 # Conclusion: No dead-end reactions produced, keep all metabolites
 
+
+# XYLI1 annotation
+print(model.reactions.XYLI1.reaction)
+print(model.reactions.XYLI1.annotation)
+# Was MNXR105253
+model.reactions.XYLI1.annotation["metanetx.reaction"] = "MNXR146751"
+
 # Save model
 output_path='path_to_output_dir/Ecoli-GEM.yml'
 cobra.io.save_yaml_model(model, output_path, sort='True')

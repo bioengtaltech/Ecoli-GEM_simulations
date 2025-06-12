@@ -104940,7 +104940,7 @@
       - biocyc: META:XYLISOM-RXN
       - ec-code: 5.3.1.5
       - kegg.reaction: R01432
-      - metanetx.reaction: MNXR105253
+      - metanetx.reaction: MNXR146751
       - rhea:
         - '22818'
         - '22816'
