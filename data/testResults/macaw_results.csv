@@ -2697,7 +2697,6 @@ XTSNt2rpp,h_p + xtsn_p <=> h_c + xtsn_c,only when going forwards,ok,ok,ok,N/A
 XTSNtex,xtsn_e <=> xtsn_p,only when going forwards,ok,ok,ok,N/A
 XYHDL,h2o_c + iprimv_c --> glc__D_c + xyl__D_c,iprimv_c;xyl__D_c,ok,ok,ok,N/A
 XYLI1,xyl__D_c <=> xylu__D_c,xyl__D_c;xylu__D_c,ok,ok,ok,N/A
-XYLI2,glc__D_c <=> fru_c,ok,ok,ok,ok,N/A
 XYLK,atp_c + xylu__D_c --> adp_c + h_c + xu5p__D_c,xylu__D_c,ok,ok,ok,N/A
 XYLK2,atp_c + xylu__L_c --> adp_c + h_c + xu5p__L_c,xu5p__L_c;xylu__L_c,ok,ok,ok,N/A
 XYLUt2pp,h_p + xylu__L_p --> h_c + xylu__L_c,xylu__L_c;xylu__L_p,ok,ok,ok,N/A
