@@ -43599,7 +43599,7 @@
       - pi_p: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b4213 or b0383 or b0383
+    - gene_reaction_rule: b0383 or b4213 or b2744
     - subsystem: Nucleotide Salvage Pathway
     - annotation: !!omap
       - bigg.reaction: 3NTD4pp
@@ -50933,8 +50933,8 @@
       - pi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: (b2308 and b2306 and b2310 and b2307) or (b0864 and b0860
-        and b0863 and b0862 and b0861)
+    - gene_reaction_rule: (b2310 and b2308 and b2306 and b2307) or (b0862 and b0860
+        and b0864 and b0861) or (b0862 and b0864 and b0863 and b0861)
     - subsystem: Transport, Inner Membrane
     - annotation: !!omap
       - bigg.reaction: ARGabcpp
@@ -52410,7 +52410,7 @@
       - ppi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b3857 or (b3857 and b3856)
+    - gene_reaction_rule: b3857
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: BMOGDS1
@@ -52427,7 +52427,7 @@
       - ppi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: (b3857 and b3856) or b3857
+    - gene_reaction_rule: b3857
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: BMOGDS2
@@ -52679,7 +52679,7 @@
       - ppi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: (b3857 and b3856) or b3857
+    - gene_reaction_rule: b3857
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: BWCOGDS1
@@ -52696,7 +52696,7 @@
       - ppi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: (b3857 and b3856) or b3857
+    - gene_reaction_rule: b3857
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: BWCOGDS2
@@ -60639,7 +60639,7 @@
       - unagamuf_p: -2.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b3785 and b3793
+    - gene_reaction_rule: b3785 and b3793 and b3792
     - subsystem: Lipopolysaccharide Biosynthesis / Recycling
     - annotation: !!omap
       - bigg.reaction: ECAP1pp
@@ -60656,7 +60656,7 @@
       - unagamuf_p: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b3785 and b3793
+    - gene_reaction_rule: b3785 and b3793 and b3792
     - subsystem: Lipopolysaccharide Biosynthesis / Recycling
     - annotation: !!omap
       - bigg.reaction: ECAP2pp
@@ -60673,7 +60673,7 @@
       - unagamuf_p: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b3785 and b3793
+    - gene_reaction_rule: b3785 and b3793 and b3792
     - subsystem: Lipopolysaccharide Biosynthesis / Recycling
     - annotation: !!omap
       - bigg.reaction: ECAP3pp
@@ -68987,7 +68987,7 @@
       - nadph_c: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b2764 and b2763
+    - gene_reaction_rule: b2764
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: FADRx2
@@ -70667,7 +70667,7 @@
       - nadph_c: -1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b3844 or b0937 or (b2764 and b2763)
+    - gene_reaction_rule: b0937 or b3844 or b2764
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: FMNRx2
@@ -73286,7 +73286,7 @@
       - mlthf_c: 1.0
       - ser__L_c: -1.0
       - thf_c: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0
     - upper_bound: 1000.0
     - gene_reaction_rule: b2551
     - subsystem: Glycine and Serine Metabolism
@@ -74089,7 +74089,7 @@
       - nh4_c: 1.0
     - lower_bound: -1000.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b1761 or (b3213 and b3212)
+    - gene_reaction_rule: b1761
     - subsystem: Glutamate Metabolism
     - annotation: !!omap
       - bigg.reaction: GLUDy
@@ -86217,7 +86217,7 @@
       - ppi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: (b3857 and b3856) or b3857
+    - gene_reaction_rule: b3857
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: MOGDS
@@ -101525,7 +101525,7 @@
       - ppi_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b0423 and b3990 and b2530 and b3992 and b4407
+    - gene_reaction_rule: b3992 and b3990 and b0423 and b2530 and b4407 and b3991
     - subsystem: Cofactor and Prosthetic Group Biosynthesis
     - annotation: !!omap
       - bigg.reaction: THZPSN3
@@ -104900,7 +104900,7 @@
       - biocyc: META:XYLISOM-RXN
       - ec-code: 5.3.1.5
       - kegg.reaction: R01432
-      - metanetx.reaction: MNXR105253
+      - metanetx.reaction: MNXR146751
       - rhea:
         - '22818'
         - '22816'
@@ -104908,30 +104908,6 @@
         - '22817'
       - sbo: SBO:0000176
       - seed.reaction: rxn01044
-  - !!omap
-    - id: XYLI2
-    - name: Xylose isomerase
-    - metabolites: !!omap
-      - fru_c: 1.0
-      - glc__D_c: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: b3565
-    - subsystem: Alternate Carbon Metabolism
-    - annotation: !!omap
-      - bigg.reaction: XYLI2
-      - biocyc: META:GLUCISOM-RXN
-      - ec-code: 5.3.1.5
-      - kegg.reaction: R00307
-      - metanetx.reaction: MNXR105254
-      - rhea:
-        - '28546'
-        - '28547'
-        - '28549'
-        - '28548'
-      - sabiork: '800'
-      - sbo: SBO:0000176
-      - seed.reaction: rxn00223
   - !!omap
     - id: XYLK
     - name: Xylulokinase
