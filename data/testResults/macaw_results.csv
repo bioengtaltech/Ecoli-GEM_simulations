@@ -1404,7 +1404,7 @@ GGGABAH,gg4abut_c + h2o_c --> 4abut_c + glu__L_c,ok,ok,ok,ok,N/A
 GGPTRCO,ggptrc_c + h2o_c + o2_c --> ggbutal_c + h2o2_c + nh4_c,ok,ok,ok,ok,N/A
 GGPTRCS,atp_c + glu__L_c + ptrc_c --> adp_c + ggptrc_c + h_c + pi_c,ok,ok,ok,ok,N/A
 GHBDHx,h_c + nadh_c + sucsal_c <=> ghb_c + nad_c,ghb_c,ok,ok,ok,N/A
-GHMT2r,ser__L_c + thf_c <=> gly_c + h2o_c + mlthf_c,ok,ok,ok,ok,N/A
+GHMT2r,ser__L_c + thf_c --> gly_c + h2o_c + mlthf_c,ok,ok,ok,ok,N/A
 GK1,atp_c + gmp_c <=> adp_c + gdp_c,ok,ok,ok,ok,N/A
 GLBRAN2,glycogen_c --> bglycogen_c,ok,ok,GLDBRAN2,GLDBRAN2,N/A
 GLCATr,accoa_c + glc__D_c <=> acglc__D_c + coa_c,acglc__D_c,ok,ok,ok,N/A
