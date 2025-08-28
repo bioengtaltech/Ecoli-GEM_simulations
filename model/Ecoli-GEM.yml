@@ -2,7 +2,7 @@
 - metaData:
     id: "Ecoli-GEM"
     name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
-    date: "2025-06-12"
+    date: "2025-06-11"
     version: ""
     github: "https://github.com/SysBioChalmers/Ecoli-GEM"
 - metabolites:
@@ -74844,46 +74844,6 @@
       - sbo: SBO:0000176
       - seed.reaction: rxn00762
   - !!omap
-    - id: GLYCK
-    - name: Glycerate kinase
-    - metabolites: !!omap
-      - 3pg_c: 1.0
-      - adp_c: 1.0
-      - atp_c: -1.0
-      - glyc__R_c: -1.0
-      - h_c: 1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: b0514
-    - subsystem: Glyoxylate Metabolism
-    - annotation: !!omap
-      - bigg.reaction: GLYCK
-      - biocyc: META:GLY3KIN-RXN
-      - ec-code: 2.7.1.31
-      - kegg.reaction: R01514
-      - metanetx.reaction: MNXR100328
-      - reactome.reaction:
-        - R-MMU-6799495
-        - R-TGU-6799495
-        - R-DME-6799495
-        - R-GGA-6799495
-        - R-RNO-6799495
-        - R-XTR-6799495
-        - R-DRE-6799495
-        - R-HSA-6799495
-        - R-SSC-6799495
-        - R-BTA-6799495
-        - R-CEL-6799495
-        - R-CFA-6799495
-      - rhea:
-        - '23518'
-        - '23519'
-        - '23516'
-        - '23517'
-      - sabiork: '428'
-      - sbo: SBO:0000176
-      - seed.reaction: rxn01102
-  - !!omap
     - id: GLYCK2
     - name: Glycerate kinase
     - metabolites: !!omap
@@ -74894,7 +74854,7 @@
       - h_c: 1.0
     - lower_bound: 0.0
     - upper_bound: 1000.0
-    - gene_reaction_rule: b3124
+    - gene_reaction_rule: b3124 or b0514
     - subsystem: Glycine and Serine Metabolism
     - annotation: !!omap
       - bigg.reaction: GLYCK2
@@ -78969,7 +78929,7 @@
       - hom__L_c: -1.0
       - nadp_c: -1.0
       - nadph_c: 1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: b3940 or b0002
     - subsystem: Threonine and Lysine Metabolism
@@ -100204,7 +100164,7 @@
     - metabolites: !!omap
       - succ_c: 1.0
       - succ_p: -1.0
-    - lower_bound: -1000.0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: b1206
     - subsystem: Transport, Inner Membrane
@@ -101062,8 +101022,8 @@
     - id: THD2pp
     - name: NAD(P) transhydrogenase (periplasm)
     - metabolites: !!omap
-      - h_c: 2.0
-      - h_p: -2.0
+      - h_c: 1.0
+      - h_p: -1.0
       - nad_c: 1.0
       - nadh_c: -1.0
       - nadp_c: -1.0
