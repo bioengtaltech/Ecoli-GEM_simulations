@@ -2,7 +2,7 @@
 - metaData:
     id: "Ecoli-GEM"
     name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
-    date: "2025-06-11"
+    date: "2025-09-01"
     version: ""
     github: "https://github.com/SysBioChalmers/Ecoli-GEM"
 - metabolites:
@@ -73286,7 +73286,7 @@
       - mlthf_c: 1.0
       - ser__L_c: -1.0
       - thf_c: -1.0
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: b2551
     - subsystem: Glycine and Serine Metabolism
