@@ -1,0 +1,75 @@
+!!omap
+- metaData:
+    id: "Ecoli-GEM"
+    name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
+    date: "2025-06-16"
+    version: ""
+    github: "https://github.com/SysBioChalmers/Ecoli-GEM"
+- metabolites:
+- reactions:
+  - !!omap
+    - id: GLYCK
+    - name: Glycerate kinase
+    - metabolites: !!omap
+      - 3pg_c: 1.0
+      - adp_c: 1.0
+      - atp_c: -1.0
+      - glyc__R_c: -1.0
+      - h_c: 1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: b0514
+    - subsystem: Glyoxylate Metabolism
+    - annotation: !!omap
+      - bigg.reaction: GLYCK
+      - biocyc: META:GLY3KIN-RXN
+      - ec-code: 2.7.1.31
+      - kegg.reaction: R01514
+      - metanetx.reaction: MNXR100328
+      - reactome.reaction:
+        - R-MMU-6799495
+        - R-TGU-6799495
+        - R-DME-6799495
+        - R-GGA-6799495
+        - R-RNO-6799495
+        - R-XTR-6799495
+        - R-DRE-6799495
+        - R-HSA-6799495
+        - R-SSC-6799495
+        - R-BTA-6799495
+        - R-CEL-6799495
+        - R-CFA-6799495
+      - rhea:
+        - '23518'
+        - '23519'
+        - '23516'
+        - '23517'
+      - sabiork: '428'
+      - sbo: SBO:0000176
+      - seed.reaction: rxn01102
+  - !!omap
+    - id: XYLI2
+    - name: Xylose isomerase
+    - metabolites: !!omap
+      - fru_c: 1.0
+      - glc__D_c: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: b3565
+    - subsystem: Alternate Carbon Metabolism
+    - annotation: !!omap
+      - bigg.reaction: XYLI2
+      - biocyc: META:GLUCISOM-RXN
+      - ec-code: 5.3.1.5
+      - kegg.reaction: R00307
+      - metanetx.reaction: MNXR105254
+      - rhea:
+        - '28546'
+        - '28547'
+        - '28549'
+        - '28548'
+      - sabiork: '800'
+      - sbo: SBO:0000176
+      - seed.reaction: rxn00223
+- genes:
+- compartments:
