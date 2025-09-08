@@ -50553,7 +50553,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b4213 or b0383 or b0383",
+"gene_reaction_rule":"b0383 or b4213 or b2744",
 "subsystem":"Nucleotide Salvage Pathway",
 "annotation":{
 "bigg.reaction":"3NTD4pp",
@@ -59044,7 +59044,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"(b2308 and b2306 and b2310 and b2307) or (b0864 and b0860 and b0863 and b0862 and b0861)",
+"gene_reaction_rule":"(b2310 and b2308 and b2306 and b2307) or (b0862 and b0860 and b0864 and b0861) or (b0862 and b0864 and b0863 and b0861)",
 "subsystem":"Transport, Inner Membrane",
 "annotation":{
 "bigg.reaction":"ARGabcpp",
@@ -60717,7 +60717,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b3857 or (b3857 and b3856)",
+"gene_reaction_rule":"b3857",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"BMOGDS1",
@@ -60737,7 +60737,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"(b3857 and b3856) or b3857",
+"gene_reaction_rule":"b3857",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"BMOGDS2",
@@ -61033,7 +61033,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"(b3857 and b3856) or b3857",
+"gene_reaction_rule":"b3857",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"BWCOGDS1",
@@ -61053,7 +61053,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"(b3857 and b3856) or b3857",
+"gene_reaction_rule":"b3857",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"BWCOGDS2",
@@ -70285,7 +70285,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b3785 and b3793",
+"gene_reaction_rule":"b3785 and b3793 and b3792",
 "subsystem":"Lipopolysaccharide Biosynthesis / Recycling",
 "annotation":{
 "bigg.reaction":"ECAP1pp",
@@ -70305,7 +70305,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b3785 and b3793",
+"gene_reaction_rule":"b3785 and b3793 and b3792",
 "subsystem":"Lipopolysaccharide Biosynthesis / Recycling",
 "annotation":{
 "bigg.reaction":"ECAP2pp",
@@ -70325,7 +70325,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b3785 and b3793",
+"gene_reaction_rule":"b3785 and b3793 and b3792",
 "subsystem":"Lipopolysaccharide Biosynthesis / Recycling",
 "annotation":{
 "bigg.reaction":"ECAP3pp",
@@ -80146,7 +80146,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b2764 and b2763",
+"gene_reaction_rule":"b2764",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"FADRx2",
@@ -82109,7 +82109,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b3844 or b0937 or (b2764 and b2763)",
+"gene_reaction_rule":"b0937 or b3844 or b2764",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"FMNRx2",
@@ -85180,7 +85180,7 @@
 "ser__L_c":-1.0,
 "thf_c":-1.0
 },
-"lower_bound":-1000.0,
+"lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"b2551",
 "subsystem":"Glycine and Serine Metabolism",
@@ -86122,7 +86122,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b1761 or (b3213 and b3212)",
+"gene_reaction_rule":"b1761",
 "subsystem":"Glutamate Metabolism",
 "annotation":{
 "bigg.reaction":"GLUDy",
@@ -87002,51 +87002,6 @@
 }
 },
 {
-"id":"GLYCK",
-"name":"Glycerate kinase",
-"metabolites":{
-"3pg_c":1.0,
-"adp_c":1.0,
-"atp_c":-1.0,
-"glyc__R_c":-1.0,
-"h_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"b0514",
-"subsystem":"Glyoxylate Metabolism",
-"annotation":{
-"bigg.reaction":"GLYCK",
-"biocyc":"META:GLY3KIN-RXN",
-"ec-code":"2.7.1.31",
-"kegg.reaction":"R01514",
-"metanetx.reaction":"MNXR100328",
-"reactome.reaction":[
-"R-MMU-6799495",
-"R-TGU-6799495",
-"R-DME-6799495",
-"R-GGA-6799495",
-"R-RNO-6799495",
-"R-XTR-6799495",
-"R-DRE-6799495",
-"R-HSA-6799495",
-"R-SSC-6799495",
-"R-BTA-6799495",
-"R-CEL-6799495",
-"R-CFA-6799495"
-],
-"rhea":[
-"23518",
-"23519",
-"23516",
-"23517"
-],
-"sabiork":"428",
-"sbo":"SBO:0000176",
-"seed.reaction":"rxn01102"
-}
-},
-{
 "id":"GLYCK2",
 "name":"Glycerate kinase",
 "metabolites":{
@@ -87058,7 +87013,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b3124",
+"gene_reaction_rule":"b3124 or b0514",
 "subsystem":"Glycine and Serine Metabolism",
 "annotation":{
 "bigg.reaction":"GLYCK2",
@@ -91715,7 +91670,7 @@
 "nadp_c":-1.0,
 "nadph_c":1.0
 },
-"lower_bound":-1000.0,
+"lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"b3940 or b0002",
 "subsystem":"Threonine and Lysine Metabolism",
@@ -100167,7 +100122,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"(b3857 and b3856) or b3857",
+"gene_reaction_rule":"b3857",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"MOGDS",
@@ -116342,7 +116297,7 @@
 "succ_c":1.0,
 "succ_p":-1.0
 },
-"lower_bound":-1000.0,
+"lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"b1206",
 "subsystem":"Transport, Inner Membrane",
@@ -117348,8 +117303,8 @@
 "id":"THD2pp",
 "name":"NAD(P) transhydrogenase (periplasm)",
 "metabolites":{
-"h_c":2.0,
-"h_p":-2.0,
+"h_c":1.0,
+"h_p":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
 "nadp_c":-1.0,
@@ -117943,7 +117898,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b0423 and b3990 and b2530 and b3992 and b4407",
+"gene_reaction_rule":"b3992 and b3990 and b0423 and b2530 and b4407 and b3991",
 "subsystem":"Cofactor and Prosthetic Group Biosynthesis",
 "annotation":{
 "bigg.reaction":"THZPSN3",
@@ -121868,7 +121823,7 @@
 "biocyc":"META:XYLISOM-RXN",
 "ec-code":"5.3.1.5",
 "kegg.reaction":"R01432",
-"metanetx.reaction":"MNXR105253",
+"metanetx.reaction":"MNXR146751",
 "rhea":[
 "22818",
 "22816",
@@ -121877,34 +121832,6 @@
 ],
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01044"
-}
-},
-{
-"id":"XYLI2",
-"name":"Xylose isomerase",
-"metabolites":{
-"fru_c":1.0,
-"glc__D_c":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"b3565",
-"subsystem":"Alternate Carbon Metabolism",
-"annotation":{
-"bigg.reaction":"XYLI2",
-"biocyc":"META:GLUCISOM-RXN",
-"ec-code":"5.3.1.5",
-"kegg.reaction":"R00307",
-"metanetx.reaction":"MNXR105254",
-"rhea":[
-"28546",
-"28547",
-"28549",
-"28548"
-],
-"sabiork":"800",
-"sbo":"SBO:0000176",
-"seed.reaction":"rxn00223"
 }
 },
 {
