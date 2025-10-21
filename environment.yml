@@ -1,0 +1,11 @@
+name: ecoli-gem-sim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cobra
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipykernel
